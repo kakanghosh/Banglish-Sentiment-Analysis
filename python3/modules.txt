@@ -1,0 +1,8 @@
+beautifulsoup4==4.6.0
+bs4==0.0.1
+EasyProcess==0.2.3
+lxml==4.2.3
+PyAvroPhonetic==0.1.3
+PyVirtualDisplay==0.2.1
+selenium==3.13.0
+simplejson==3.16.0
