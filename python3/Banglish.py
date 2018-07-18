@@ -3,6 +3,7 @@ import re
 import enchant
 from textblob import TextBlob
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+import os
 
 result = []
 
@@ -55,7 +56,7 @@ def getReviews(lines):
     return reviewList
 
 def sentimentAnalysis(lines):
-    #print(lines)
+    print(lines)
     textBlobTrans = TextBlob(avro.parse(lines))
     lines = str(textBlobTrans.translate(to='en'))
     #lines = str("Good")
@@ -86,11 +87,11 @@ def splitByNewLine(text):
     # return newLine
     return spliters
 
+refinePath = "./refineReviews/";
+reviewsList = os.listdir(refinePath)
 
-path = "./refineReviews/AlcatelMobileReviews.txt"
-reviews = [line.rstrip('\n') for line in open(path)]
+reviews = [line.rstrip('\n') for line in open(refinePath+reviewsList[0])]
 allReviews = getReviews(reviews)
-
 
 # for review in allReviews:
 #     for rev in splitByNewLine(review):
@@ -98,4 +99,4 @@ allReviews = getReviews(reviews)
 #         sentimentAnalysis(rev)
 #         print()
 
-print(sentimentAnalysis("সুন্দর"))
+sentimentAnalysis(splitByNewLine(allReviews[0])[0])
