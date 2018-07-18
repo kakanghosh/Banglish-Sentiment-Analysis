@@ -1,9 +1,10 @@
 from pyavrophonetic import avro
-import io
 import re
 import enchant
 from textblob import TextBlob
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+
+result = []
 
 def showLines(lines):
     for line in lines:
@@ -53,21 +54,48 @@ def getReviews(lines):
             review += line + "\n"
     return reviewList
 
-def sentimentUsingBlob(lines):
-    print(lines)
+def sentimentAnalysis(lines):
+    #print(lines)
     textBlobTrans = TextBlob(avro.parse(lines))
     lines = str(textBlobTrans.translate(to='en'))
-    print(lines)
+    #lines = str("Good")
+    # #print(lines)
     analyze = TextBlob(lines)
-    print('By TextBlob Sentiment analysis')
-    print(analyze.sentiment)
+    #print('By TextBlob Sentiment analysis')
+    #print(analyze.sentiment)
+    #
+    # print('By vaderSentiment analyzer')
+    # analyzer = SentimentIntensityAnalyzer()
+    # vs = analyzer.polarity_scores(lines)
+    # result.append(vs)
 
 def splitByNewLine(text):
-    return text.strip().split("\n")
+
+    def spliteLine(line):
+        return line.strip().split("\n")
+
+    def spliteBySpace(line):
+        return line.strip().split(" ")
+
+    spliters = spliteLine(text)
+    # newLine = ""
+    # for line in spliters:
+    #     for word in spliteBySpace(line):
+    #         newLine += word + " "
+    #     newLine += "\n"
+    # return newLine
+    return spliters
+
 
 path = "./refineReviews/AlcatelMobileReviews.txt"
 reviews = [line.rstrip('\n') for line in open(path)]
 allReviews = getReviews(reviews)
 
-sentimentUsingBlob("Aachoda phone")
 
+# for review in allReviews:
+#     for rev in splitByNewLine(review):
+#         print(rev)
+#         sentimentAnalysis(rev)
+#         print()
+
+print(sentimentAnalysis("সুন্দর"))
