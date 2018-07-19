@@ -5,6 +5,7 @@ from textblob import TextBlob
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import os
 from googletrans import Translator
+import io
 
 textBlobresult = []
 vaderSentimentResult = []
@@ -55,23 +56,32 @@ def splitByNewLine(text):
     # return newLine
     return spliters
 
-refinePath = "./refineReviews/"
-phoneticsReviewsPath = "./phoneticsReviews/"
-reviewsList = os.listdir(refinePath)
 
-reviews = [line.rstrip('\n') for line in open(refinePath+reviewsList[0])]
-showLines(reviews)
-# allReviews = getReviews(reviews)
-#
-#
-# for review in allReviews:
-#     for rev in splitByNewLine(review):
-#         print(rev)
-#         sentimentAnalysis(rev)
-#         print()
-#
-#
-#
-# showLines(textBlobresult)
-# print()
-# showLines(vaderSentimentResult)
+def writeListInFile(fileName, mode, writeList):
+    # print(type(writeList))
+    if os.path.isfile(fileName) and os.access(fileName, os.R_OK):
+        open(fileName, "w").close()
+
+    txtFile = open(fileName, mode, encoding="utf-8")
+    for line in writeList:
+        txtFile.write(line+"\n")
+    txtFile.close()
+
+def banglaToEnglish(banglText):
+    translator = Translator()
+    lines = translator.translate(avro.parse(banglText))
+    print(lines)
+    return lines.text
+
+refinePath = "./refineReviews/"
+phoneticsReviewsPath = "./englishReviews/"
+fileList = os.listdir(refinePath)
+fileList.sort()
+
+# for file in fileList:
+#     lines = [line.rstrip('\n') for line in open(refinePath + file)]
+#     lines = '\n'.join(lines)
+#     banglaToEnglish(str(lines))
+#     break
+
+    #writeListInFile(fileName=phoneticsReviewsPath+file, mode="a", writeList=banglishToBangla(lines))
