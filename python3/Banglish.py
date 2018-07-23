@@ -67,21 +67,43 @@ def writeListInFile(fileName, mode, writeList):
         txtFile.write(line+"\n")
     txtFile.close()
 
-def banglaToEnglish(banglText):
-    translator = Translator()
-    lines = translator.translate(avro.parse(banglText))
-    print(lines)
-    return lines.text
+def writeLineInFile(fileName, mode, line):
+    txtFile = open(fileName, mode, encoding="utf-8")
+    txtFile.write(line + "\n")
+    txtFile.close()
+
+def banglaToEnglish(banglaText):
+    englishList = []
+    textLineList = banglaText.splitlines()
+    for line in textLineList:
+        translator = Translator()
+        lines = translator.translate(avro.parse(line))
+        englishList.append(lines.text)
+    return englishList
+
+def banglaToEnglish(banglaText, fileName, mode):
+    englishList = []
+    textLineList = banglaText.splitlines()
+
+    if os.path.isfile(fileName) and os.access(fileName, os.R_OK):
+        open(fileName, "w").close
+
+    for line in textLineList:
+        try:
+            translator = Translator()
+            lines = translator.translate(avro.parse(line))
+            englishList.append(lines.text)
+            writeLineInFile(fileName, mode, lines.text)
+        except Exception as e:
+            print("type error: " + str(e))
+    return englishList
 
 refinePath = "./refineReviews/"
-phoneticsReviewsPath = "./englishReviews/"
+englishReviewsPath = "./englishReviews/"
 fileList = os.listdir(refinePath)
 fileList.sort()
 
-# for file in fileList:
-#     lines = [line.rstrip('\n') for line in open(refinePath + file)]
-#     lines = '\n'.join(lines)
-#     banglaToEnglish(str(lines))
-#     break
-
-    #writeListInFile(fileName=phoneticsReviewsPath+file, mode="a", writeList=banglishToBangla(lines))
+for file in fileList:
+    lines = [line.rstrip('\n') for line in open(refinePath + file)]
+    lines = '\n'.join(lines)
+    englishList = banglaToEnglish(str(lines), fileName=(englishReviewsPath + file), mode='a')

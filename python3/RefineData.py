@@ -22,7 +22,7 @@ def getUniqueReviews(lines):
     newLine = False
     for line in lines:
         if len(line.strip()) == 0 and newLine is True:
-            resultList.append(str(counter))
+            resultList.append('\n')
             counter += 1
             newLine = False
             pass
