@@ -1,0 +1,732 @@
+Beans can not be fated,
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Lollipop-on-NeuPart
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Lollipop-on-NeuPart
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+It does not even have a SIM card in it
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Opinion is good at Bjythebrech, but it is good
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.0, 'neu': 0.547, 'pos': 0.453, 'compound': 0.7003}
+
+Please call someone like this, please, please, I would like to have it
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.358, 'pos': 0.642, 'compound': 0.8898}
+
+SIM can not be used
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Can I use the SIM?
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+That's a lot better than a little money
+Sentiment(polarity=0.15625, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Almost all things should be given 3000 mahs, but it should have been 5000 mah for what it was 3000 mah.
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Good deception
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.5, 'neu': 0.0, 'pos': 0.5, 'compound': 0.0}
+
+I do not know how to do it
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Brother can use me internet
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Yu lost the champaign
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.418, 'neu': 0.364, 'pos': 0.218, 'compound': -0.2732}
+
+How do you miss the moon, how do you think?
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.151, 'neu': 0.849, 'pos': 0.0, 'compound': -0.1531}
+
+You'll sell yur champaigne hakaau and tell him
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+At the moment, I'll get the shalah
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Good luck in the match and the ball is not good enough. I do not have enough problems because I do not have enough speeds in A1 and spinners A4.
+Sentiment(polarity=0.06999999999999999, subjectivity=0.54)
+{'neg': 0.07, 'neu': 0.694, 'pos': 0.236, 'compound': 0.6958}
+
+This phone's battery fix is ​​not different
+Sentiment(polarity=0.0, subjectivity=0.6)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I want to know how it will be on the phone
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.874, 'pos': 0.126, 'compound': 0.0772}
+
+Do not buy out the best goldfish in the world, but do not buy it for a long time, do not want to buy it, but do not want to buy it at the top of the charts of L'Aquila ('Ch' Grade). Bachch McClell's Shabbeke Lane Cullyte's ('Ch' Grad) Molele Fanee Tejangalya's Brand's Mikelol The mobile-phone market is not new to the current status. The speaker has problems and the condition of the battery is not the niabah. There are no accessories available for this brand in the market. However, of course we are Bengali. Alakatara also digested cheaply. So, if we buy 10 grams of mobile phone, we will be digested. I talked with a michelle Victim. Considering your hands Sea dead
+Sentiment(polarity=0.21186868686868685, subjectivity=0.4005050505050505)
+{'neg': 0.131, 'neu': 0.833, 'pos': 0.036, 'compound': -0.9155}
+
+After the wax day, after breaking out of the stomach, after reaching the target of 55/128 in the morning of 55/3000 in the morning of the 64-hour high level, then after reaching the height of 47/128, When the 64/128 was in the box, it was better that the fence would be better than the sea.
+Sentiment(polarity=0.3866666666666667, subjectivity=0.5133333333333333)
+{'neg': 0.0, 'neu': 0.844, 'pos': 0.156, 'compound': 0.8126}
+
+If the seller is selling the money, then for seven months it is not possible to buy the Fresh Fresh Pix Priche at 7900 taka for sale. So sell it for 7 months and not be able to spend 7 months on the Fresh Pure Priche 7900 F 01980484298
+Sentiment(polarity=0.26904761904761904, subjectivity=0.6041666666666666)
+{'neg': 0.0, 'neu': 0.862, 'pos': 0.138, 'compound': 0.7096}
+
+Necklace reads
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+This is unrealistic
+Sentiment(polarity=-0.5, subjectivity=1.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Hey Bengali Bengali cheaper poultry chicken and want to eat
+Sentiment(polarity=-0.6, subjectivity=0.95)
+{'neg': 0.0, 'neu': 0.874, 'pos': 0.126, 'compound': 0.0772}
+
+The price is now 9990
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+2500 mah was used to bettara if bettara
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+2500 mah was used to bettara if bettara
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Those crazy dogs will buy them
+Sentiment(polarity=-0.6, subjectivity=0.9)
+{'neg': 0.324, 'neu': 0.676, 'pos': 0.0, 'compound': -0.34}
+
+Those who come to Essa to waste money will buy on iPhone
+Sentiment(polarity=-0.2, subjectivity=0.0)
+{'neg': 0.203, 'neu': 0.797, 'pos': 0.0, 'compound': -0.4215}
+
+Shaw Thik Acha But Version Control Battery is less than 3000 mah and 100% when the lollipop version
+Sentiment(polarity=-0.16666666666666666, subjectivity=0.06666666666666667)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Contact someone who sells phone at Tk 6000 (01868848597)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I do not have any problem in my body, I do not have any problem, it's good for the spine, it is a good bowl, it is 100% better than non-good quality at Gamamung Performam
+Sentiment(polarity=0.6333333333333333, subjectivity=0.5666666666666668)
+{'neg': 0.0, 'neu': 0.671, 'pos': 0.329, 'compound': 0.9045}
+
+I do not have any problem in my body, I do not have any problem, it's good for the spine, it is a good bowl, it is 100% better than non-good quality at Gamamung Performam
+Sentiment(polarity=0.6333333333333333, subjectivity=0.5666666666666668)
+{'neg': 0.0, 'neu': 0.671, 'pos': 0.329, 'compound': 0.9045}
+
+I will sell this sale to anyone who wants to take it on May 01956177847 in 15 years in all the allegations, Chav, Skin Paper, Achish Chabale, Charga, Heyadfan, Mobil Stan, box market. I will sell this sale to anyone who wants to take it. May 01956177847 Due to the liabilities, all the signs of speech, chest, skin papers, Acht Chabale, Charga, Heyadfan, Mobil Chan, box box, apply skin on the outside.
+Sentiment(polarity=0.06875, subjectivity=0.15625)
+{'neg': 0.025, 'neu': 0.975, 'pos': 0.0, 'compound': -0.2023}
+
+Someone can say that Brother Mickle's next edition will come
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Uttara Ata Nike Poba Ata Akhat said
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I am working at the Diazaul, I am Akta Pablichiana Chumpet, my home is Bangla Bangar, Apni Zadi Aa Fanta, but Chan is in the dark, Karun 017196599299
+Sentiment(polarity=-0.15, subjectivity=0.4)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Only 8,000 taka can be bought by the mercury, you can take the best snack on 0151965999/01960224808.
+Sentiment(polarity=0.5, subjectivity=0.65)
+{'neg': 0.0, 'neu': 0.792, 'pos': 0.208, 'compound': 0.6369}
+
+Only 8,000 taka can be bought by the mercury, you can take the best snack on 0151965999/01960224808.
+Sentiment(polarity=0.5, subjectivity=0.65)
+{'neg': 0.0, 'neu': 0.792, 'pos': 0.208, 'compound': 0.6369}
+
+What do the words come to the Avata Awatarata come in?
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+It will be on the phone but when will the ash someone will tell in the play
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.838, 'pos': 0.162, 'compound': 0.4767}
+
+If you do not have a good time, you will not be able to buy a great deal, but you will not be able to buy the best quality because you do not want to buy the best quality, but you will not be able to buy it at the top of the Choice Channel ('F' Grade). The Mobile Brand of the Brand is the Brand of the Brilliant Brands. There is no problem in the situation. The problem is that the battery is not in the condition of the niaba. I do not have any accessory of this brand. However, of course we are Bengali. If you give cheap money, then do the charity. So, if you buy 10 grams of mobile phone, then you will be digested. I told a mysel Victim mysteries. Considering your hands Sea dead
+Sentiment(polarity=0.5437500000000001, subjectivity=0.5395833333333333)
+{'neg': 0.128, 'neu': 0.723, 'pos': 0.15, 'compound': 0.7727}
+
+I agree
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3612}
+
+Yur chemnet down
+Sentiment(polarity=-0.15555555555555559, subjectivity=0.2888888888888889)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Its real price is Rs
+Sentiment(polarity=0.2, subjectivity=0.30000000000000004)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Oyalatana Primer rocks two non interanala or eksateranala Tim 15 manthasa useda & aphacaurase h handeda usedaluka likesa Take oyitha sacrina glasasa pratecataraprice Yum 6000 / - analyamya lacationa Yum Gulistan / nbalatana Primer rocks two non interanala or eksateranala Tim 15 manthasa useda & aphacaurase h handeda usedaluka likesa Take oyitha sacrina glasasa pratecataraprice Ish 6000 / - Only Lachatioan Gul Gulton / Naobpur Roy
+Sentiment(polarity=0.0, subjectivity=1.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+It would have been better to reduce the price of the well spoiled pot to the tub
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.75, 'pos': 0.25, 'compound': 0.6124}
+
+If you were shivering through the stomach of the tomb, then you were not able to get to the toilet.
+Sentiment(polarity=-0.14166666666666666, subjectivity=0.3125)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+10 position of cheap
+Sentiment(polarity=0.4, subjectivity=0.7)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Shamsung can not flush like
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.345, 'neu': 0.655, 'pos': 0.0, 'compound': -0.2755}
+
+If you recognize someone in your phone, tell the truth how it is
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.839, 'pos': 0.161, 'compound': 0.3182}
+
+The brothers do not know what is bad.
+Sentiment(polarity=-0.6999999999999998, subjectivity=0.6666666666666666)
+{'neg': 0.333, 'neu': 0.667, 'pos': 0.0, 'compound': -0.5423}
+
+If you do not believe anything at all, see, I was eating naya bamboos
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Do not use McClell and Cameras as the worst case scenario
+Sentiment(polarity=-1.0, subjectivity=1.0)
+{'neg': 0.291, 'neu': 0.709, 'pos': 0.0, 'compound': -0.6249}
+
+Do not use McClell and Cameras as the worst case scenario
+Sentiment(polarity=-1.0, subjectivity=1.0)
+{'neg': 0.291, 'neu': 0.709, 'pos': 0.0, 'compound': -0.6249}
+
+Bad not good
+Sentiment(polarity=-0.5249999999999999, subjectivity=0.6333333333333333)
+{'neg': 0.855, 'neu': 0.145, 'pos': 0.0, 'compound': -0.7101}
+
+The problem is that of Imam Rupanti
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.4019}
+
+Why admin did not update the price of the mobile. Its current value is Tk 6490.
+Sentiment(polarity=0.0, subjectivity=0.4)
+{'neg': 0.0, 'neu': 0.862, 'pos': 0.138, 'compound': 0.34}
+
+It has to be given three times a day
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+This is what the inventory is available in the words
+Sentiment(polarity=0.4, subjectivity=0.4)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Problems are to be given three times a day, Chamera seems to have 8 MPs, no worries
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.391, 'neu': 0.609, 'pos': 0.0, 'compound': -0.7717}
+
+Oh
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Ring down the phone
+Sentiment(polarity=-0.15555555555555559, subjectivity=0.2888888888888889)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Inspect it on a phone
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Breadcrumbs variant is omitted
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Maxwell Chostm: +88 01833 319 881, Emile Four @MeChelle-Bachchmadina Toure (4th Floor), Hausse 464/1 Diet Dade, Wessem Dumura, Dhaka-1219
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+5 Thousands of things should have been given 3000 mahs, but it should have been 5000 mah for what was supposed to be 3000 mah.
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Please tell if anyone can access the tab
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.753, 'pos': 0.247, 'compound': 0.3182}
+
+Yue lost the champagne
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.354, 'neu': 0.308, 'pos': 0.338, 'compound': -0.0258}
+
+E-Boughat p2, Tub Aayyat 1, before, at the The Tea Habitat, Agne and Agne Wahat Is The Problem and yes e Survive Than Probleme Plus, May Cono My Chell N 01620421747
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.083, 'neu': 0.833, 'pos': 0.083, 'compound': 0.0}
+
+Somebody will tell you what the tub is.
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Mitchell P2 Tab is better or better than the 7th best.
+Sentiment(polarity=0.6666666666666666, subjectivity=0.43333333333333335)
+{'neg': 0.0, 'neu': 0.444, 'pos': 0.556, 'compound': 0.875}
+
+Brother, I'm a pretty petty Tub, but it's a question of whether Faridpur can be found
+Sentiment(polarity=0.25, subjectivity=1.0)
+{'neg': 0.09, 'neu': 0.774, 'pos': 0.135, 'compound': 0.1779}
+
+Does anyone say that Maxwell Chelmea 2 is better or well?
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.615, 'pos': 0.385, 'compound': 0.6124}
+
+It is worth mentioning that I am not able to say anything, and I am not able to say that I am not able to do anything for the sake of liberation, but I am not able to take it for 5500 or more. If you want to take 5500 pieces of cigarettes, then you can feel free to do so, 01945535153
+Sentiment(polarity=0.02857142857142858, subjectivity=0.5571428571428572)
+{'neg': 0.0, 'neu': 0.877, 'pos': 0.123, 'compound': 0.7747}
+
+At the entrance of McClell's Fachkbach fan, I saw Ata Vernier 443 (Kittak) Ata Ki Righat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.859, 'pos': 0.141, 'compound': 0.3182}
+
+Wallant C5 and other taxes are complete
+Sentiment(polarity=-0.012499999999999997, subjectivity=0.3875)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+It was not good that Yu lost the champagne
+Sentiment(polarity=-0.35, subjectivity=0.6000000000000001)
+{'neg': 0.365, 'neu': 0.465, 'pos': 0.17, 'compound': -0.3624}
+
+Mobile runs my friend well
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.361, 'pos': 0.639, 'compound': 0.6486}
+
+Bella saplings can be found in the collections of nichamera video veda, but how many pixels did not say that thalapara dhpila Resulatioon see Salma Mucell
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Do not look good food
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.376, 'neu': 0.624, 'pos': 0.0, 'compound': -0.3412}
+
+Aad Min Min bhash lighat kamna
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Chamera + Flash kamana
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will not have any problem in MGS. Mementing 019317221002
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.799, 'pos': 0.201, 'compound': 0.3089}
+
+I'm thinking of buying this phone. It is very nice to know how it will be. If it is bad, then it will be bought and sold. Please help me ..
+Sentiment(polarity=0.04000000000000009, subjectivity=0.8333333333333333)
+{'neg': 0.091, 'neu': 0.7, 'pos': 0.21, 'compound': 0.5563}
+
+I do not have any problem in the house, but I do not have any problem in it.
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.5448}
+
+Walton Prim Ram will sell 2 Naogaon 0171735441
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+All of the fruits and flowers that come in the fire come in all
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.156, 'neu': 0.844, 'pos': 0.0, 'compound': -0.34}
+
+Yu does not cheer up 44 kitakat ekusu kisu apes
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.4023}
+
+Yuur Chemtte lost falto set
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.365, 'neu': 0.635, 'pos': 0.0, 'compound': -0.3182}
+
+Why are the fawn brothers
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I want to buy it
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.698, 'pos': 0.302, 'compound': 0.0772}
+
+I do lei
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I have broken into Taste and Despla and you will come here in the sky
+Sentiment(polarity=-0.4, subjectivity=0.4)
+{'neg': 0.193, 'neu': 0.807, 'pos': 0.0, 'compound': -0.4767}
+
+How about the phone
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Where to find
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Ticana
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will buy this GoodLife 5 will be sold on All Oak 6 Purchase has not been purchased since 01788822119
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I have a lot of love for you, and I want to say that I am 8 years old and I am happy 44313 Kareem Charram 1 Gob and Ram 8 Pooja 4000 Mah
+Sentiment(polarity=0.4666666666666666, subjectivity=0.6)
+{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.8481}
+
+Think + that + better + but + but + key + otag + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + good + could + give better +
+Sentiment(polarity=0.425, subjectivity=0.65)
+{'neg': 0.0, 'neu': 0.453, 'pos': 0.547, 'compound': 0.8641}
+
+Uttara, this phone is not in any market. Where can it be found?
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Motaleb Plaza Level 4 Shuffle 550 in Hatirpool Dhaka
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I think these sets will be closed as soon as the house is taken away and no day will be introduced. Why do not say symphony or walton or meximas why they are so costly in such a configuration, I think these sets are closed with the house. It will happen and no day will be introduced because why not say symphony or walton or meximas why they can not set such a configuration set at such a low price. So mind
+Sentiment(polarity=-0.03333333333333333, subjectivity=0.3333333333333333)
+{'neg': 0.103, 'neu': 0.897, 'pos': 0.0, 'compound': -0.7481}
+
+Shamsung, Yukiya, or Apples, if they are in the UK, by selling them on the sale of the sale of marketing by the sale of the house in the market, the Shanseong, Nicosia or Apples' On the Bases of Marcitting theater The Best Buy in The Hague Theer Sites Made In The Little Boat Champsayee Lie, The Unknown Haven Theater Prize The best way to get rid of your own self is to help you with your own life. If you do not know, then you will not be able to do so.
+Sentiment(polarity=0.4875, subjectivity=0.6178571428571429)
+{'neg': 0.0, 'neu': 0.861, 'pos': 0.139, 'compound': 0.9371}
+
+Agoi ja michaellosta wa loukak
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+The price is just as good as it is now
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.4404}
+
+Reality Variety Coin in As Prichey
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Everything is worth cunt
+Sentiment(polarity=0.3, subjectivity=0.1)
+{'neg': 0.451, 'neu': 0.282, 'pos': 0.268, 'compound': -0.3182}
+
+The phone is a fun passi, but it does not matter if the skin is 2 feet but the pitch is better than the 5th, the frant will not have to talk about it, this night it is not possible to come to this computer, but if it is a ram, it can be fun passi, Pitch Resolutions are better than the 5th in the same time, do not talk about it, but it is not possible to come here this night, but if Ram is not happy, then he will not die.
+Sentiment(polarity=0.15000000000000002, subjectivity=0.565625)
+{'neg': 0.048, 'neu': 0.778, 'pos': 0.174, 'compound': 0.9372}
+
+The phone is a fun passi, but it does not matter if the skin is 2 feet but the pitch is better than the 5th, the frant will not have to talk about it, this night it is not possible to come to this computer, but if it is a ram, it can be fun passi, Pitch Resolutions are better than the 5th in the same time, do not talk about it, but it is not possible to come here this night, but if Ram is not happy, then he will not die.
+Sentiment(polarity=0.15000000000000002, subjectivity=0.565625)
+{'neg': 0.048, 'neu': 0.778, 'pos': 0.174, 'compound': 0.9372}
+
+The phone is a fun passi, but it does not matter if the skin is 2 feet but the pitch is better than the 5th, the frant will not have to talk about it, this night it is not possible to come to this computer, but if it is a ram, it can be fun passi, Pitch Resolutions are better than the 5th in the same time, do not talk about it, but it is not possible to come here this night, but if Ram is not happy, then he will not die.
+Sentiment(polarity=0.15000000000000002, subjectivity=0.565625)
+{'neg': 0.048, 'neu': 0.778, 'pos': 0.174, 'compound': 0.9372}
+
+In the evening, at the beginning of the night, 35 (Adaral), 10th of the night, 10th anniversary of 3th anniversary (The precedent is showing it 1000 mah li-ion), drum spid-2, ii bawght iyesteddaiya chan night at 35 (periphery) In the 10th week of 10th October, 10th anniversary-3 (prefix is ​​showing it 1000 mah leo), drum spid-23c cervech-1 (one sim 3g corrupted, repeatedly to open sim, Sethi), Enayet Spid-35 Antu Tu-10100+ Anonymous 2-44 + Combat dead, want to get started on May-01725692690
+Sentiment(polarity=-0.1, subjectivity=0.45)
+{'neg': 0.079, 'neu': 0.906, 'pos': 0.015, 'compound': -0.7506}
+
+Why do not you get rid of A4 and T.
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will get all the kesi for 2 days in the ashes to sell it. I will sell it because I am selling amar and amkha bhatas from outside and so i am selling it to sell ash khim kamimi para 6 percent to sell all the kiss I'll sell it because the mango and the rest of the money are also available from the outside and so I can sell it to the low cost, but look at 10,000 but you can do it.
+Sentiment(polarity=0.1, subjectivity=0.2)
+{'neg': 0.02, 'neu': 0.957, 'pos': 0.024, 'compound': 0.09}
+
+Who is caught in the phone or who is the Khas
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+This phone is the Chinese Phone Dingding Shock 3's Ribbund. Its original price is below 75 7000 taka. Mycel is taking a lot of comparisons.
+Sentiment(polarity=0.1875, subjectivity=0.375)
+{'neg': 0.097, 'neu': 0.818, 'pos': 0.086, 'compound': -0.0772}
+
+Fair phone
+Sentiment(polarity=0.7, subjectivity=0.9)
+{'neg': 0.0, 'neu': 0.303, 'pos': 0.697, 'compound': 0.3182}
+
+Just said.
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Before this set of brothers, see if you can see Maximus Eix a little better for you. Let me know about Maximus Ex, on my Facebook. Shock Sshel Khan Hridoy
+Sentiment(polarity=0.15625, subjectivity=0.5)
+{'neg': 0.081, 'neu': 0.838, 'pos': 0.081, 'compound': 0.0018}
+
+Comparing your camera with this set with Shamsung, how many megapixels will be your camera in this set. So 13 megapixels, but I think it will not be 5 megapixels of Shamsung. If you compare the set camera with Shushmung, your set camera How many megapixels will be? So 13 megapixels, but I think it will not be 5 megapixels of Shamsung. So it's a rough call Sea dead
+Sentiment(polarity=0.175, subjectivity=0.44999999999999996)
+{'neg': 0.086, 'neu': 0.914, 'pos': 0.0, 'compound': -0.7876}
+
+Brother, megapixel and photo quality are two different things. Do not wear patch between the two. And yes it's 13 megapixels.
+Sentiment(polarity=0.0, subjectivity=0.6)
+{'neg': 0.0, 'neu': 0.881, 'pos': 0.119, 'compound': 0.4019}
+
+I would love to buy a common wallet or a bad buztech dance and other help
+Sentiment(polarity=-0.15624999999999994, subjectivity=0.5354166666666667)
+{'neg': 0.172, 'neu': 0.49, 'pos': 0.338, 'compound': 0.5267}
+
+(Second)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+This set is now available at 1750 taka.
+Sentiment(polarity=0.4, subjectivity=0.4)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Please let me know how it will be
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.753, 'pos': 0.247, 'compound': 0.3182}
+
+Where can we find it at Zhenidah?
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Please tell it in the jaagaya paawa please say desiles
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.635, 'pos': 0.365, 'compound': 0.5574}
+
+I'll get it
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+WA 3G Justs Awesome I will take
+Sentiment(polarity=1.0, subjectivity=1.0)
+{'neg': 0.0, 'neu': 0.549, 'pos': 0.451, 'compound': 0.6249}
+
+5 Thousands of things should have been given 3000 mahs, but it should have been 5000 mah for what was supposed to be 3000 mah.
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+At 8 o'clock in the morning, there is a place where we are at the gate of the house.
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Aslam Arafat # It has not been yet.
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+There is no mention of how much memory has been done in the play, if anybody know what the game
+Sentiment(polarity=-0.1, subjectivity=0.30000000000000004)
+{'neg': 0.097, 'neu': 0.796, 'pos': 0.106, 'compound': 0.0516}
+
+32 times
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Yure Chemmeet Happy Are you the real wiz?
+Sentiment(polarity=0.5, subjectivity=0.65)
+{'neg': 0.0, 'neu': 0.654, 'pos': 0.346, 'compound': 0.5719}
+
+Yur Chemtte Heraeoseme Taab Am I Kinnbhedevo See also on Youtube, Yusuf Ausam, @ R
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Other things are free to say that they are fake
+Sentiment(polarity=-0.075, subjectivity=0.725)
+{'neg': 0.215, 'neu': 0.556, 'pos': 0.229, 'compound': 0.0516}
+
+Gazipur and Kothai Pao
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Gazipur and Kothai Pao
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+One of the best qualities of this set is to reduce the heat when it runs ...
+Sentiment(polarity=1.0, subjectivity=0.3)
+{'neg': 0.0, 'neu': 0.792, 'pos': 0.208, 'compound': 0.6369}
+
+Balne
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Is it the tip of the hand
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.652, 'pos': 0.348, 'compound': 0.4939}
+
+Yes
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4019}
+
+He's fine
+Sentiment(polarity=0.4166666666666667, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.357, 'pos': 0.643, 'compound': 0.2023}
+
+Yur Chemtente Heebajaj, you will buy a soup of flop, rubbing it in the house
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.156, 'neu': 0.844, 'pos': 0.0, 'compound': -0.34}
+
+Looks good
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.0, 'neu': 0.256, 'pos': 0.744, 'compound': 0.4404}
+
+Aft Usding at 1 hour is good, but it is not like 8 but it is not like a froth skin. It is better to say that it is better. But it is better to have a good smile, but it is not like 8 but it is like a froth skin. It is better to think that 3 good speeds are not good. 4 Saund Sastem It's better to die in the heart of Heyad Fone
+Sentiment(polarity=0.45500000000000007, subjectivity=0.5)
+{'neg': 0.151, 'neu': 0.509, 'pos': 0.34, 'compound': 0.9682}
+
+Yu Chetmanta Lets Camera How To Tell The Picture At Night Please
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.827, 'pos': 0.173, 'compound': 0.3182}
+
+Please tell us if you have a great past
+Sentiment(polarity=0.275, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.484, 'pos': 0.516, 'compound': 0.7506}
+
+Given the fierce ninja
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We need 3 of them
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Good in use but super slow
+Sentiment(polarity=0.24444444444444438, subjectivity=0.5555555555555555)
+{'neg': 0.0, 'neu': 0.354, 'pos': 0.646, 'compound': 0.8074}
+
+I do not know what to do, but the people of the night, tell me what is going on
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Emergency services are not available to anyone (Enf 4)
+Sentiment(polarity=-0.2, subjectivity=0.4)
+{'neg': 0.245, 'neu': 0.755, 'pos': 0.0, 'compound': -0.3818}
+
+If anyone is excited about it, then please, will say, amateurs
+Sentiment(polarity=0.375, subjectivity=0.75)
+{'neg': 0.0, 'neu': 0.657, 'pos': 0.343, 'compound': 0.5719}
+
+It was better to get the best of 8-8 hours
+Sentiment(polarity=0.75, subjectivity=0.4)
+{'neg': 0.0, 'neu': 0.53, 'pos': 0.47, 'compound': 0.7964}
+
+Opinion trick
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.545, 'neu': 0.455, 'pos': 0.0, 'compound': -0.0516}
+
+It seems to be very good in the tub
+Sentiment(polarity=0.9099999999999999, subjectivity=0.7800000000000001)
+{'neg': 0.0, 'neu': 0.715, 'pos': 0.285, 'compound': 0.4927}
+
+If I want to buy this mobile, if anyone has used, please let me know
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.3818}
+
+Yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Helppace Steps to get help: I ​​want to buy this tube from any mobile phone key in Market. → Sie dead
+Sentiment(polarity=-0.1, subjectivity=0.7)
+{'neg': 0.179, 'neu': 0.708, 'pos': 0.113, 'compound': -0.3818}
+
+I Hav Sin in Youtube's McCullo P + Tab Video
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.375, 'neu': 0.625, 'pos': 0.0, 'compound': -0.5574}
+
+Comilla can take 5000
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Y have fingerprints
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I'll buy this phone how do I order
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+McClell - A Batters of Job Book
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I want to buy this phone. Has anyone bought this phone? If anyone has used, please say please. How is the phone actually
+Sentiment(polarity=0.0, subjectivity=0.1)
+{'neg': 0.0, 'neu': 0.763, 'pos': 0.237, 'compound': 0.5994}
+
+I can not buy a phone by Decision. Please tell someone what phone can get between 15000 rupees.
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.867, 'pos': 0.133, 'compound': 0.3182}
+
+Symphony H-175 can buy mobile. It's a beautiful phone, especially battery backup.
+Sentiment(polarity=0.425, subjectivity=1.0)
+{'neg': 0.0, 'neu': 0.719, 'pos': 0.281, 'compound': 0.5994}
+
+Oyalatana Primer rocks two non interanala or eksateranala Tim 15 manthasa useda & aphacaurase h handeda usedaluka likesa Take oyitha sacrina glasasa pratecataraprice Yum 6000 / - analyamya lacationa Yum Gulistan / nbalatana Primer rocks two non interanala or eksateranala Tim 15 manthasa useda & aphacaurase h handeda usedaluka likesa Take oyitha sacrina glasasa pratecataraprice Ish 6000 / - Only Lachatioan Gul Gulton / Naobpur Roy
+Sentiment(polarity=0.0, subjectivity=1.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+If you do not have a good time, you will not be able to buy a great deal, but you will not be able to buy the best quality because you do not want to buy the best quality, but you will not be able to buy it at the top of the Choice Channel ('F' Grade). The Mobile Brand of the Brand is the Brand of the Brilliant Brands. There is no problem in the situation. The problem is that the battery is not in the condition of the niaba. I do not have any accessory of this brand. However, of course we are Bengali. If you give cheap money, then do the charity. So, if you buy 10 grams of mobile phone, then you will be digested. I told a mysel Victim mysteries. Considering your hands Sea dead
+Sentiment(polarity=0.5437500000000001, subjectivity=0.5395833333333333)
+{'neg': 0.128, 'neu': 0.723, 'pos': 0.15, 'compound': 0.7727}
+
+I'm thinking this way, if anybody wins Janayen
+Sentiment(polarity=0.3, subjectivity=0.2)
+{'neg': 0.0, 'neu': 0.654, 'pos': 0.346, 'compound': 0.5719}
+
+Phone down
+Sentiment(polarity=-0.15555555555555559, subjectivity=0.2888888888888889)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Alikadam Baja is a phone
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Phone down
+Sentiment(polarity=-0.15555555555555559, subjectivity=0.2888888888888889)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Phantom phone
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+There is a michael festival
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.484, 'pos': 0.516, 'compound': 0.4939}
+
+I buy
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Oyalatana Primer rocks two non interanala or eksateranala Tim 15 manthasa useda & aphacaurase h handeda usedaluka likesa Take oyitha sacrina glasasa pratecataraprice Yum 6000 / - analyamya lacationa Yum Gulistan / nbalatana Primer rocks two non interanala or eksateranala Tim 15 manthasa useda & aphacaurase h handeda usedaluka likesa Take oyitha sacrina glasasa pratecataraprice Ish 6000 / - Only Lachatioan Gul Gulton / Naobpur Roy
+Sentiment(polarity=0.0, subjectivity=1.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+If you do not have a good time, you will not be able to buy a great deal, but you will not be able to buy the best quality because you do not want to buy the best quality, but you will not be able to buy it at the top of the Choice Channel ('F' Grade). The Mobile Brand of the Brand is the Brand of the Brilliant Brands. There is no problem in the situation. The problem is that the battery is not in the condition of the niaba. I do not have any accessory of this brand. However, of course we are Bengali. If you give cheap money, then do the charity. So, if you buy 10 grams of mobile phone, then you will be digested. I told a mysel Victim mysteries. Considering your hands Sea dead
+Sentiment(polarity=0.5437500000000001, subjectivity=0.5395833333333333)
+{'neg': 0.128, 'neu': 0.723, 'pos': 0.15, 'compound': 0.7727}
+
+8 + 5 mp chemera 8 + 1 gamma dam + dam if you have a very small card
+Sentiment(polarity=-0.325, subjectivity=0.52)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+

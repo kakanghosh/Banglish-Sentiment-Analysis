@@ -1,0 +1,1864 @@
+I have not been able to do so, but I have not been able to do this, I have not been able to do the same.
+Sentiment(polarity=0.375, subjectivity=0.5)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+1/8 Phane (Fellow, Google's Uselesses), Uses Mapes, Uchi Mini, Uch Broos, Fachchuk, Ohatsapapp, Gammel, Plate Level, Im, Google Dice, Dry, Mx Play, The Only Meinful Ups, by May Althag I Usb Fachchuk is also known as the 200m, If You Wanted, as well as the wearing parrot, I want Downloyd and Usle Lets of Impasse Sey dead.
+Sentiment(polarity=-0.08888888888888889, subjectivity=0.6666666666666666)
+{'neg': 0.07, 'neu': 0.835, 'pos': 0.095, 'compound': -0.128}
+
+Shello kumphulla box with offensive warranty 10 mo 01911339903
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.273, 'neu': 0.727, 'pos': 0.0, 'compound': -0.4588}
+
+For the first week, the skin is very good, and all the good
+Sentiment(polarity=0.62, subjectivity=0.5711111111111112)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.7496}
+
+Drum will be 16 times, chaarachoton
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+How would I buy this roll
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I'll sell a Shamsung galaxy s2. I sent the phone from Singapore. I am using the phone for only one month or nine. There is no problem with the hair on the phone. The phone has been made in Vietnam. China is not writing any place. I've sent a tab for it, so sell it. You will win. Rs 8,599. Aadhaara: Dhaka Division. I will sell a Shamsung galaxy s2. Lesson from Singapore I am using the phone for just a month or so. There is no problem with the hair on the phone. The phone is made in Vietnam. China has not written any place. I have sent a tab for my sale. So sell it. If you buy the phone, you will win Rs 8,599. Dhaka Division.jelamadaripur.upazela.arajair.I am Rajair.Mobile: 017727479466 or 01938492105 dead
+Sentiment(polarity=0.35000000000000003, subjectivity=0.5499999999999999)
+{'neg': 0.101, 'neu': 0.845, 'pos': 0.054, 'compound': -0.6705}
+
+Shamsung galaksya 2 saral ki 2 gab dama 32 gab seit marya 3100 baksharipri fixtures 13000 people do not have any problems, but I do not have any problem in this way. I will give you two things to do as well as possible. I do not know if you have a problem of 32,000 points. In order to get rid of fat, I am not able to take it, but I am not able to take it.
+Sentiment(polarity=-0.16666666666666666, subjectivity=0.75)
+{'neg': 0.0, 'neu': 0.868, 'pos': 0.132, 'compound': 0.8423}
+
+Chamera Shanne is behind 2 so 8 megapixels or the wrong writing can be very well if you could say it was very good
+Sentiment(polarity=0.05249999999999999, subjectivity=0.67)
+{'neg': 0.112, 'neu': 0.686, 'pos': 0.202, 'compound': 0.3582}
+
+Chamera Shanne is behind 2 so 8 megapixels or the wrong writing can be very well if you could say it was very good
+Sentiment(polarity=0.05249999999999999, subjectivity=0.67)
+{'neg': 0.112, 'neu': 0.686, 'pos': 0.202, 'compound': 0.3582}
+
+Chamera Shanne is behind 2 so 8 megapixels or the wrong writing can be very well if you could say it was very good
+Sentiment(polarity=0.05249999999999999, subjectivity=0.67)
+{'neg': 0.112, 'neu': 0.686, 'pos': 0.202, 'compound': 0.3582}
+
+Chamera Shanne is behind 2 so 8 megapixels or the wrong writing can be very well if you could say it was very good
+Sentiment(polarity=0.05249999999999999, subjectivity=0.67)
+{'neg': 0.112, 'neu': 0.686, 'pos': 0.202, 'compound': 0.3582}
+
+I'm using
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Not too bad.
+Sentiment(polarity=-0.6999999999999998, subjectivity=0.6666666666666666)
+{'neg': 0.0, 'neu': 0.412, 'pos': 0.588, 'compound': 0.431}
+
+Very good and not
+Sentiment(polarity=0.9099999999999999, subjectivity=0.7800000000000001)
+{'neg': 0.0, 'neu': 0.484, 'pos': 0.516, 'compound': 0.4927}
+
+Yur Chemmt Hieramer Herriam Lumia 535 to Sell Dev Kon Prablom Nayakhyan 7 month warranty Asha Chash Memon box box All Dia Debuu 7500 Taqi 7000 Neelhe Selle Debenah Rajbari 01 yure Chemnet Herayamro Lumea 535 to Salele Dev Kon Prablam Nayakhan 7 months warranty Asha Chash Memon Box All Dia Debuo 7500 Taques 7000 Nijhe Selel Debnah Rajbari 01789535200 Sey Murray
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I used to store 1800 bottles of oil in the Dishwarya Akon Problem naypriche 600 (fixed prize), I used to store 1800 vials in the field of Dakshit Akon Probleme Naypriche 600 (fixed prize), Lateaton Razendrapur Chaitta, Gazipuranumbar: 0197276878, 016127160891
+Sentiment(polarity=0.1, subjectivity=0.2)
+{'neg': 0.068, 'neu': 0.932, 'pos': 0.0, 'compound': -0.4019}
+
+Down the phone's poppy popula
+Sentiment(polarity=-0.15555555555555559, subjectivity=0.2888888888888889)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I'll sell 5 to get a smiling face. Only 15 levels will buy Iphone 7 Plus. I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I love the phone so I'll sell it. 01951543416 We will sell the price of 50000. I will sell 5 to get a smiling face. Only 15 levels will buy Iphone 7 Plus. I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I prefer to buy it so I will sell it. 01951543416 We will sell the price of 50000. By saying, the price will be reduced. Sea dead
+Sentiment(polarity=0.008333333333333331, subjectivity=0.625)
+{'neg': 0.039, 'neu': 0.812, 'pos': 0.15, 'compound': 0.9062}
+
+I'll sell a Shamsung galaxy s2. I sent the phone from Singapore. I am using the phone for only one month or nine. There is no problem with the hair on the phone. The phone has been made in Vietnam. China is not writing any place. I've sent a tab for it, so sell it. You will win. Rs 8,599. Aadhaara: Dhaka Division. I will sell a Shamsung galaxy s2. Lesson from Singapore I am using the phone for just a month or so. There is no problem with the hair on the phone. The phone is made in Vietnam. China has not written any place. I have sent a tab for my sale. So sell it. If you buy the phone, you will win Rs 8,599. Dhaka Division.jelamadaripur.upazela.arajair.I am Rajair.Mobile: 017727479466 or 01938492105 dead
+Sentiment(polarity=0.35000000000000003, subjectivity=0.5499999999999999)
+{'neg': 0.101, 'neu': 0.845, 'pos': 0.054, 'compound': -0.6705}
+
+Let me tell you a showroom and pub please
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.753, 'pos': 0.247, 'compound': 0.3182}
+
+My Micromax says that I want to sell A6 only to get 5000 pounds, but if you want anybody but you can 01950503738 Wine Shaidur Daman
+Sentiment(polarity=0.0, subjectivity=1.0)
+{'neg': 0.0, 'neu': 0.898, 'pos': 0.102, 'compound': 0.1531}
+
+It's the weapon in the iPhone
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.306, 'neu': 0.694, 'pos': 0.0, 'compound': -0.296}
+
+Walton Pripex 3: 6500 F 01717084940
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Micrmax 200 will be sold 500 taka 01717084940
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will sell my Walton pram F2 at the 4000 TKPhan 01766775730 Fresh Problems
+Sentiment(polarity=0.3, subjectivity=0.5)
+{'neg': 0.169, 'neu': 0.688, 'pos': 0.144, 'compound': -0.1027}
+
+I will sell my Walton pram F2 at the 4000 TKPhan 01766775730 Fresh Problems
+Sentiment(polarity=0.3, subjectivity=0.5)
+{'neg': 0.169, 'neu': 0.688, 'pos': 0.144, 'compound': -0.1027}
+
+I want to sell my shampoos. I would like to sell mohailatikamam well. There is no problem in the phone. All of the paperwork. I want to sell my shampoos. Even better than the mobile phone price, there is no problem in the phone. There are no problems in the phone. If you want to buy 8500 thousand rupees, contact this number 019256924344 Home Mymensingh Sey dead
+Sentiment(polarity=0.15, subjectivity=0.45)
+{'neg': 0.232, 'neu': 0.611, 'pos': 0.156, 'compound': -0.8491}
+
+I do not buy anybody, I do not want to buy anything, but I do not want to do it, but I do not want to do it, but I do not want to buy anything, but I do not want to buy anything. Jaina shut off from the market when the leader Chalena Shairok Baz Akhita Sait
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.121, 'neu': 0.879, 'pos': 0.0, 'compound': -0.3491}
+
+To sell my samsung glaucoma dosas, ash, whip flush with flip flap, tacha chav, Italian cottage, maid in vietnam, 3 festivities for 18 hours, ash for selling my samsung galaxy sweets, whipped freshenthis warmth flip, Chirp Chav, Italy Tired, Maid in Vietnam, 3 months to buy 18 days, buy Grade 2, so sell 9000 per day, Maid to Bina / Shamsung, to thousands of wellpic utensils, plus rice
+Sentiment(polarity=-0.2, subjectivity=0.35)
+{'neg': 0.04, 'neu': 0.833, 'pos': 0.127, 'compound': 0.7506}
+
+For Sallamamah: Waltan Prize F1 Androd Version: Ech-Chrayam Shandhithe 41 (Upgradian Jungle Beyon) for Sallamamah: Walton Prizes F1 Androd Version: Yich-Chrayam Shandhithe 41 (Upagadayya Jungle Bain) Dia Chamera 5 Mph Witth Aut Fuchus Frant Chamarah 03 Blind: 512 Mm Doom 4 Gavvideo Platonic: 720-1080 Pensile Censors and Google Map: 1500 mahab
+Sentiment(polarity=-0.5, subjectivity=0.6666666666666666)
+{'neg': 0.131, 'neu': 0.76, 'pos': 0.109, 'compound': -0.0772}
+
+I'll sell a Shamsung galaxy s2. I sent the phone from Singapore. I am using the phone for only one month or nine. There is no problem with the hair on the phone. The phone has been made in Vietnam. China is not writing any place. I've sent a tab for it, so sell it. You will win. Rs 8,599. Aadhaara: Dhaka Division. I will sell a Shamsung galaxy s2. Lesson from Singapore I am using the phone for just a month or so. There is no problem with the hair on the phone. The phone is made in Vietnam. China has not written any place. I have sent a tab for my sale. So sell it. If you buy the phone, you will win Rs 8,599. Dhaka Division.jelamadaripur.upazela.arajair.I am Rajair.Mobile: 017727479466 or 01938492105 dead
+Sentiment(polarity=0.35000000000000003, subjectivity=0.5499999999999999)
+{'neg': 0.101, 'neu': 0.845, 'pos': 0.054, 'compound': -0.6705}
+
+01749560401 to 5000 taka
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will sell my helio s1. I have bought the phone at the last 2103016 14900. For the sake of me, Shamsung has sent alpha from. So, I want to sell the phone. Give it to the phone. I will sell my helio s1 at the time of the camera. I will call the last 2103016 14900 I bought it. I have sent shamsung alpha from i.e. to the phone. So I want to sell the phone. Give it to the phone.Cashmemo and Diva. The phone is on the right side of the phone. The phone's color is white. The phone is very smoother and very thin. There are 13 mega cameras in front of this phone and 8 mega cameras in front. The flush is very very good. There is a Gorilla Glass in front of the other. 4C Network with 16 Gb Phone Memory 2 Gob Dham. 5 "Bill Dipple 51 Lollipop VERSION for charging is 2400 mAh laplum battery. 100% charging time is 75 minutes. Much time is charged. You have everything you need on a mobile phone. This phone is the best phone in the phone. If you want to buy this beautiful phone then contact me. I bought the phone at 12990 taka.
+Sentiment(polarity=0.2546103896103896, subjectivity=0.4203679653679654)
+{'neg': 0.009, 'neu': 0.906, 'pos': 0.085, 'compound': 0.9405}
+
+Thank Yue
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.286, 'pos': 0.714, 'compound': 0.3612}
+
+Nokia Asha 210 (Ilio) will be able to make 3500 takasat aan pablum nitaka so Sallamdhadhaka quintinmant (ray 01854138561)
+Sentiment(polarity=0.5, subjectivity=0.625)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I am imposing Imam from Imam on behalf of Bangladesh, at a market in Bangladesh, at a very low price, I have been sold at a very low price. I am the owner of Phul Pachchikai am. Imperat I am from Imphal Imam The price of the price is very low, and I sell it at a very low price. I used to wear a whistle in 22,200 fuchsa pacacetta intaa & non-wesad moulele mantra mah 016
+Sentiment(polarity=0.0, subjectivity=0.39)
+{'neg': 0.155, 'neu': 0.845, 'pos': 0.0, 'compound': -0.839}
+
+What would be the prerich of Micrometex X455?
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife will take secondhand
+Sentiment(polarity=-0.1, subjectivity=0.3)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+The mass of the senses comes from the sata, which is very strong, it is hinged
+Sentiment(polarity=0.5633333333333334, subjectivity=0.9533333333333333)
+{'neg': 0.0, 'neu': 0.807, 'pos': 0.193, 'compound': 0.5563}
+
+E Wont Te Selle Euphaulli Fresh 2 Manth Kinesisijiva Asseb Opera Mini Piper Fischdenlty 2000 TCWL May 01839016079 from Chuadanga
+Sentiment(polarity=0.3, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.881, 'pos': 0.119, 'compound': 0.3182}
+
+Wine Masud, Narailjawa comes in ghost Veración 20 I do not know whether there is a Bengali
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.141, 'neu': 0.859, 'pos': 0.0, 'compound': -0.3182}
+
+Opposition 71 surpassed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+To sell my samsung glaucoma dosas, ash, whip flush with flip flap, tacha chav, Italian cottage, maid in vietnam, 3 festivities for 18 hours, ash for selling my samsung galaxy sweets, whipped freshenthis warmth flip, Chirp Chav, Italy Tired, Maid in Vietnam, 3 months to buy 18 days, buy Grade 2, so sell 9000 per day, Maid to Bina / Shamsung, to thousands of wellpic utensils, plus rice
+Sentiment(polarity=-0.2, subjectivity=0.35)
+{'neg': 0.04, 'neu': 0.833, 'pos': 0.127, 'compound': 0.7506}
+
+I bought WALPAD 7 on 05-05-2014, 100% full frustrations, and if I was excited with the 11th or the 111th or the 1st year, I would have been excited with the Xperia F, then I was able to sell the wallet on 05-05-2014 and bought 100% FULL If you are interested in using Fresh X2 or V1 or any other version, you can do it with the 11th or 111th, Xperia F, and then look forward to the world.
+Sentiment(polarity=0.296875, subjectivity=0.575)
+{'neg': 0.037, 'neu': 0.844, 'pos': 0.12, 'compound': 0.7003}
+
+I would like to sell "Michelle" Mechramax, Chanvas Mushech A 88, 7000 Talk Free, 01741554475
+Sentiment(polarity=0.4, subjectivity=0.8)
+{'neg': 0.0, 'neu': 0.655, 'pos': 0.345, 'compound': 0.7003}
+
+I Want T Sally Mai Shamsung Galakshi Daos Yong, (Almeit Neo) Boughat I from Australia, 1 episode Usse Phulhya Fresh and Neo Chanditio Ugnante Manaye Nid, Thats O Allah Giving It Up Ai Want T Sail Maa Shamsung Galaks Daos Yung, (Almost Neo) Bouquet from the Aussurlia, 1 year old Ustad Pyaar Fresh and Neo Chandrishon Ugaranta Mandyay Nid, Thats Oah I Guiding It is 10,500 taka (Neo market prize 12 , 900km) Interstate Buyar Rakuested on May 01715785682 Thanx- Seia dead
+Sentiment(polarity=0.12499999999999999, subjectivity=0.4)
+{'neg': 0.052, 'neu': 0.793, 'pos': 0.155, 'compound': 0.6808}
+
+In India, do not run racism
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.603, 'pos': 0.397, 'compound': 0.5096}
+
+Here they want to sell the money and make them banished
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.885, 'pos': 0.115, 'compound': 0.0772}
+
+I am Shamshu Galakshi Shi Efei Mini 14,500 / Fuxed [Chomsky from Uk] 2 Vox Ustad (Fully Fresh) with my Shamsu Gallacce Shi Efei Mini 14,500 / Fuxed [Chames from Yak] 2 Wux Usad (However) Full-blown fenugreek seeds [0175671334] can be found on Mayfood fever / cold weather
+Sentiment(polarity=-0.15, subjectivity=0.75)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Zest 7 Responses to Ustad
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I'll make Micrometez A2 92 Sill 9500d, 01670030530
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Brother can not install an app in external memory.
+Sentiment(polarity=0.0, subjectivity=0.1)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Here's how to use this phone. Very good phone, camera is very good, before this phone, I used Samsung J5, a good camera from the G5
+Sentiment(polarity=0.8399999999999999, subjectivity=0.7200000000000001)
+{'neg': 0.0, 'neu': 0.687, 'pos': 0.313, 'compound': 0.8618}
+
+His problem is less than his problem
+Sentiment(polarity=-0.16666666666666666, subjectivity=0.06666666666666667)
+{'neg': 0.519, 'neu': 0.481, 'pos': 0.0, 'compound': -0.6597}
+
+I used to call this phone for 4 months. Cameras are unstable. Graphis is good. I used this phone for 4 months. Cameras are unstable. Goods are good, but this phone's processor is 8 core. And Mali consumes hundreds of 450 mebs. Without this phone The best phone in the market. There is no problem at all. Moodle is great. And its a good thing. Its gorilla glass. 13 megapixel pixel camera camera is unstable. Any SIMPNi or Walton phone has 13 MP The font cam will give a fairly beautiful picture. Now the lollipop update of this phone has arrived. I have done this so that the font cam gives a more brighter picture. From 44 to 51 #
+Sentiment(polarity=0.75, subjectivity=0.6214285714285713)
+{'neg': 0.094, 'neu': 0.703, 'pos': 0.204, 'compound': 0.9601}
+
+If anyone knows how many of the original Apple iPhone, then Peecek Cei A Prieech
+Sentiment(polarity=0.4375, subjectivity=0.625)
+{'neg': 0.0, 'neu': 0.85, 'pos': 0.15, 'compound': 0.3182}
+
+The real prize 9300-9600 is a sign of this prich and sells it, but it does not have enough money to sell it.
+Sentiment(polarity=0.1, subjectivity=0.4)
+{'neg': 0.0, 'neu': 0.907, 'pos': 0.093, 'compound': 0.2846}
+
+The front-end camera of the iPhone will be good to have the front camera 6
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.4404}
+
+I am not happy with the fact that I am 25 years of great love, but I am not able to do it. I do not want to do anything, but I do not know what I am doing, but I do not want to do anything. The only way to save the life is by doing it.
+Sentiment(polarity=0.13, subjectivity=0.795)
+{'neg': 0.079, 'neu': 0.761, 'pos': 0.16, 'compound': 0.7773}
+
+I would love to come to Lallapap Aa and I will be good
+Sentiment(polarity=0.6, subjectivity=0.6000000000000001)
+{'neg': 0.0, 'neu': 0.559, 'pos': 0.441, 'compound': 0.7964}
+
+It is very good on the phone
+Sentiment(polarity=0.9099999999999999, subjectivity=0.7800000000000001)
+{'neg': 0.0, 'neu': 0.653, 'pos': 0.347, 'compound': 0.4927}
+
+I'll sell a Shamsung galaxy s2. I sent the phone from Singapore. I am using the phone for only one month or nine. There is no problem with the hair on the phone. The phone has been made in Vietnam. China is not writing any place. I've sent a tab for it, so sell it. You will win. Rs 8,599. Aadhaara: Dhaka Division. I will sell a Shamsung galaxy s2. Lesson from Singapore I am using the phone for just a month or so. There is no problem with the hair on the phone. The phone is made in Vietnam. China has not written any place. I have sent a tab for my sale. So sell it. If you buy the phone, you will win Rs 8,599. Dhaka Division.jelamadaripur.upazela.arajair.I am Rajair.Mobile: 017727479466 or 01938492105 dead
+Sentiment(polarity=0.35000000000000003, subjectivity=0.5499999999999999)
+{'neg': 0.101, 'neu': 0.845, 'pos': 0.054, 'compound': -0.6705}
+
+Shamsung galaksya 2 saral ki 2 gab dama 32 gab seit marya 3100 baksharipri fixtures 13000 people do not have any problems, but I do not have any problem in this way. I will give you two things to do as well as possible. I do not know if you have a problem of 32,000 points. In order to get rid of fat, I am not able to take it, but I am not able to take it.
+Sentiment(polarity=-0.16666666666666666, subjectivity=0.75)
+{'neg': 0.0, 'neu': 0.868, 'pos': 0.132, 'compound': 0.8423}
+
+I would like to buy better
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.357, 'pos': 0.643, 'compound': 0.6597}
+
+E Neix Micrmacs Chanches Silvor 5, In The Person Person, These Fees Planned May 01685421187
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I'll sell a Shamsung galaxy s2. I sent the phone from Singapore. I am using the phone for only one month or nine. There is no problem with the hair on the phone. The phone has been made in Vietnam. China is not writing any place. I've sent a tab for it, so sell it. You will win. Rs 8,599. Aadhaara: Dhaka Division. I will sell a Shamsung galaxy s2. Lesson from Singapore I am using the phone for just a month or so. There is no problem with the hair on the phone. The phone is made in Vietnam. China has not written any place. I have sent a tab for my sale. So sell it. If you buy the phone, you will win Rs 8,599. Dhaka Division.jelamadaripur.upazela.arajair.I am Rajair.Mobile: 017727479466 or 01938492105 dead
+Sentiment(polarity=0.35000000000000003, subjectivity=0.5499999999999999)
+{'neg': 0.101, 'neu': 0.845, 'pos': 0.054, 'compound': -0.6705}
+
+I'll sell 5 to get a smiling face. Only 15 levels will buy Iphone 7 Plus. I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I love the phone so I'll sell it. 01951543416 We will sell the price of 50000. I will sell 5 to get a smiling face. Only 15 levels will buy Iphone 7 Plus. I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I prefer to buy it so I will sell it. 01951543416 We will sell the price of 50000. By saying, the price will be reduced. Sea dead
+Sentiment(polarity=0.008333333333333331, subjectivity=0.625)
+{'neg': 0.039, 'neu': 0.812, 'pos': 0.15, 'compound': 0.9062}
+
+How does his chemistry on the phone?
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Chalash Off Runs L 9 Maks Eid Sailxp.16 Chalash Off Runs L 9 Maks Eid Sailxpo: 126 Brewers: 5 Games: 978 Alla Maksalle Level: 9 Kinna Chal Dannumbar: 01992833568 Sie dead
+Sentiment(polarity=-0.2, subjectivity=0.4)
+{'neg': 0.152, 'neu': 0.848, 'pos': 0.0, 'compound': -0.6486}
+
+Yure Chetmente has been broken by Brothers How the Chamber of These Fines
+Sentiment(polarity=-0.4, subjectivity=0.4)
+{'neg': 0.205, 'neu': 0.795, 'pos': 0.0, 'compound': -0.4767}
+
+Shamsung Galaxa S4 will be sold 01752422542
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I have bought a lot of 60 am, but now I will sell it for the money needs. 25 days cash usage is 6500 rupees and call 01860128668
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will sell my helio s1. I have bought the phone at the last 2103016 14900. For the sake of me, Shamsung has sent alpha from. So, I want to sell the phone. Give it to the phone. I will sell my helio s1 at the time of the camera. I will call the last 2103016 14900 I bought it. I have sent shamsung alpha from i.e. to the phone. So I want to sell the phone. Give it to the phone.Cashmemo and Diva. The phone is on the right side of the phone. The phone's color is white. The phone is very smoother and very thin. There are 13 mega cameras in front of this phone and 8 mega cameras in front. The flush is very very good. There is a Gorilla Glass in front of the other. 4C Network with 16 Gb Phone Memory 2 Gob Dham. 5 "Bill Dipple 51 Lollipop VERSION for charging is 2400 mAh laplum battery. 100% charging time is 75 minutes. Much time is charged. You have everything you need on a mobile phone. This phone is the best phone in the phone. If you want to buy this beautiful phone then contact me. I bought the phone at 12990 taka.
+Sentiment(polarity=0.2546103896103896, subjectivity=0.4203679653679654)
+{'neg': 0.009, 'neu': 0.906, 'pos': 0.085, 'compound': 0.9405}
+
+I will do it in my hello and I will do it in the last 21/03 of 2016 by purchasing 14990 my father is out of my father's shamsung alpha thread and so I will be able to sell it to my heli soya phooni i will do it in the last 21 03 016 14990, my father came out of my house, Shamsung alpha is in my bag, so I can see it as a foam to sieve it. It is like a fine ephon, as well as a fountain, memb shah 13/8 Chamera 4 c3 c 24
+Sentiment(polarity=0.22916666666666669, subjectivity=0.3145833333333333)
+{'neg': 0.0, 'neu': 0.931, 'pos': 0.069, 'compound': 0.6597}
+
+Speaking of 15000 inscriptions, you can make 100% Satisfaction Brands with the Falgish Fan in Champagne Fan
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.573, 'pos': 0.427, 'compound': 0.8271}
+
+Yu Chemtte lost the game
+Sentiment(polarity=-0.4, subjectivity=0.4)
+{'neg': 0.365, 'neu': 0.635, 'pos': 0.0, 'compound': -0.3182}
+
+I'll sell a Shamsung galaxy s2. I sent the phone from Singapore. I am using the phone for only one month or nine. There is no problem with the hair on the phone. The phone has been made in Vietnam. China is not writing any place. I've sent a tab for it, so sell it. You will win. Rs 8,599. Aadhaara: Dhaka Division. I will sell a Shamsung galaxy s2. Lesson from Singapore I am using the phone for just a month or so. There is no problem with the hair on the phone. The phone is made in Vietnam. China has not written any place. I have sent a tab for my sale. So sell it. If you buy the phone, you will win Rs 8,599. Dhaka Division.jelamadaripur.upazela.arajair.I am Rajair.Mobile: 017727479466 or 01938492105 dead
+Sentiment(polarity=0.35000000000000003, subjectivity=0.5499999999999999)
+{'neg': 0.101, 'neu': 0.845, 'pos': 0.054, 'compound': -0.6705}
+
+I will do Shamsung Galakshya A8 cell I have 15 responsibilities, I will do Shamsung Galakshi A8 cell. I am 15 years old to take responsibility and can lie with me. Numba 01686490833 Sie dead
+Sentiment(polarity=-0.05, subjectivity=0.30000000000000004)
+{'neg': 0.125, 'neu': 0.875, 'pos': 0.0, 'compound': -0.6486}
+
+Look at 38000
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I want to sell a mucrost Lumia 430. The exact set box, 1 day is not used, box and no skull, yet the touch of the hand does not fall on the set, it is absolutely intact. Urine money I'd like to sell a liquefied Lumia 430. The exact set box, 1 day is not used, box and no skull, yet the touch of the hand does not fall on the set, it is absolutely intact. Need urgent money, so I'm forced to sell. 1 year warranty. Fixed price of the set 5000 Call someone if they are interested Mobile: 017729171648 Sie dead
+Sentiment(polarity=0.09374999999999997, subjectivity=0.45)
+{'neg': 0.103, 'neu': 0.732, 'pos': 0.165, 'compound': 0.6335}
+
+In the 5th of the month, to be in the 32500 room, vaas pabna and ghazipur 019472161735
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Playboy Mobil Number Right Is Junka My Number 018244740909
+Sentiment(polarity=0.2857142857142857, subjectivity=0.5357142857142857)
+{'neg': 0.0, 'neu': 0.729, 'pos': 0.271, 'compound': 0.1531}
+
+I would like to sell a small quantity of freshly purchased 29 days. If you want to sell a small quantity, you will get the new 29 days. You can get all the things in the vicinity, Chash Mem, Charga, Haihadafon.11500 Taka 01786953636 (Dhaka)
+Sentiment(polarity=-0.015909090909090914, subjectivity=0.43863636363636366)
+{'neg': 0.0, 'neu': 0.911, 'pos': 0.089, 'compound': 0.4215}
+
+Micrrmacs Chavava Shilv's 5th Molele in the Falatukaran Aae Mablita
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Micrrmacs Chavava Shilv's 5th Molele in the Falatukaran Aae Mablita
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Earn from 5 to 10 thousand taka per month only works of shignup. Those who are interested in earning, they can talk through Mubail or Escapee. Molley: 01878931078 Earn money from 25405 to 10 thousand taka earn money per month only. Those who are interested in earning, they can talk through Mubail or Escapee. Mabel: 01878931078 Sakkapaye Akas 2540 Dead Sea
+Sentiment(polarity=0.06, subjectivity=0.6799999999999999)
+{'neg': 0.064, 'neu': 0.855, 'pos': 0.081, 'compound': 0.0258}
+
+Yure Chamomentam Lumia 535 to Sell Dev Kon Prablom Nayakhyan 7 months Warranty Asha Chash Memon box box All Dia Debuu 7500 Rakhi 7000 Neelhe Selel Debnah Rajbari 0178953520 Yur Chamomantam Lumia 535 to Sell Dev Dev Prabhlam Nayakhan 7 months warranty 7 months warranty for all seven days 7000 Debnah Rajbari 01789535200 lost his life
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.042, 'neu': 0.958, 'pos': 0.0, 'compound': -0.3182}
+
+How much is the charge?
+Sentiment(polarity=0.2, subjectivity=0.2)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+What is the phone, please a little please
+Sentiment(polarity=-0.1875, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.521, 'pos': 0.479, 'compound': 0.5574}
+
+Earn from 5 to 10 thousand taka per month only works of shignup. Those who are interested in earning, they can talk through Mubail or Escapee. Molley: 01878931078 Earn money from 25405 to 10 thousand taka earn money per month only. Those who are interested in earning, they can talk through Mubail or Escapee. Mabel: 01878931078 Sakkapaye Akas 2540 Dead Sea
+Sentiment(polarity=0.06, subjectivity=0.6799999999999999)
+{'neg': 0.064, 'neu': 0.855, 'pos': 0.081, 'compound': 0.0258}
+
+The mobile is very good and beautiful to look at.
+Sentiment(polarity=0.8799999999999999, subjectivity=0.8900000000000001)
+{'neg': 0.0, 'neu': 0.521, 'pos': 0.479, 'compound': 0.8104}
+
+9000 taka is 5 better than 4 and better
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.463, 'pos': 0.537, 'compound': 0.7003}
+
+Micrmax A 104 is required to get it
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Lost in the sky
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.434, 'neu': 0.566, 'pos': 0.0, 'compound': -0.3182}
+
+Fad
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.2263}
+
+If the skin is in the skin and if it is 5 feet, then the skin will be the result
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will be able to charge 8500 by the month of 6 days, 7,000 takaiichi 017474646467
+Sentiment(polarity=0.5, subjectivity=0.625)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I think Micrmacs A220 is only 20 hours to see the Prehee-5000, 1 gm ram 8 gram and 5 megapro teaspoons of zinc- I need a microsex A2, only 2 times, we can see it in the pre-5000, 1 gm ram 8 gb and 5 megaw per cent of the seeds -01953450898
+Sentiment(polarity=0.0, subjectivity=1.0)
+{'neg': 0.0, 'neu': 0.965, 'pos': 0.035, 'compound': 0.128}
+
+I will sell my Walton mini mini phone, take a tattoo, only 7500 / plus ft 01772877788, 01911438662
+Sentiment(polarity=0.0, subjectivity=1.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+SELLEGY SHAMSUG GALAXY GRANAD 2 (FULL FRESH PROBLEM) Factor, Chorus, Chakra-Chevresaleo Shamsung Galaxia Grade 2 (Full Fresh Problems), Chloroplasts, Chargers, Chargers, Drainers, Sterilized 13500 Dhaka 01814401598
+Sentiment(polarity=0.32499999999999996, subjectivity=0.525)
+{'neg': 0.0, 'neu': 0.805, 'pos': 0.195, 'compound': 0.6523}
+
+Micrometeus Fan A Terez, who is commune, writes, "When Micrometacs quarrel of spark will come
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4939}
+
+I want to sell my oakapia wines ... there is no problem .. take some days ago .. I want to sell my wagon in my wallet. There is no problem .. taken some days ago .. there is the security..express, cable, everything ..cr. 9500 taka..bag 01744944459 Sie dead
+Sentiment(polarity=-0.2, subjectivity=0.4)
+{'neg': 0.249, 'neu': 0.705, 'pos': 0.046, 'compound': -0.91}
+
+Yure Chammente Helgge C 2 will be sold as it seems
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Ekisiai Rabbi 3 will be the first person to complete the Fresh Fresh 1 churning that has been fixed fixtures 14500 lachatia Khulna / Bagerhat 01837345176
+Sentiment(polarity=0.09166666666666666, subjectivity=0.47222222222222227)
+{'neg': 0.0, 'neu': 0.82, 'pos': 0.18, 'compound': 0.5574}
+
+Why is it
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Whether it is good or not, it is a good idea
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.0, 'neu': 0.58, 'pos': 0.42, 'compound': 0.7003}
+
+I can not stand whether it is enough or not, but I can not see whether it is possible to keep it in the sealpheet, and I can not stand whether it is enough or not, I can not wait to see whether it is enough or not.
+Sentiment(polarity=0.0, subjectivity=0.625)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will sell it for 3 days in the case of Micromete Chasvas 6 Kinsis. It will be good to sell it as well as I do not want to sell it.
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.039, 'neu': 0.801, 'pos': 0.16, 'compound': 0.5828}
+
+How many prize
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.377, 'pos': 0.623, 'compound': 0.5106}
+
+15500 taka
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Mechramax Yue Yurekakabe
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+To sell my samsung glaucoma dosas, ash, whip flush with flip flap, tacha chav, Italian cottage, maid in vietnam, 3 festivities for 18 hours, ash for selling my samsung galaxy sweets, whipped freshenthis warmth flip, Chirp Chav, Italy Tired, Maid in Vietnam, 3 months to buy 18 days, buy Grade 2, so sell 9000 per day, Maid to Bina / Shamsung, to thousands of wellpic utensils, plus rice
+Sentiment(polarity=-0.2, subjectivity=0.35)
+{'neg': 0.04, 'neu': 0.833, 'pos': 0.127, 'compound': 0.7506}
+
+And he's now 5000
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I am Shamshu Galakshi Shi Efei Mini 14,500 / Fuxed [Chomsky from Uk] 2 Vox Ustad (Fully Fresh) with my Shamsu Gallacce Shi Efei Mini 14,500 / Fuxed [Chames from Yak] 2 Wux Usad (However) Full-blown fenugreek seeds [0175671334] can be found on Mayfood fever / cold weather
+Sentiment(polarity=-0.15, subjectivity=0.75)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+If I have 10,000 taka, I will start the May 01911746721
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Playboy helpmate Micrmakx A 72 will sell it on 24/1/14 on October 24, 1, 14, on the 24/1/14 of Kinsiyaam's father Ata, to buy a donation of money, Michelrax A 72, To pay a bribe, you can buy a donation of money by donating money to the donation number 0196674015.
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.069, 'neu': 0.903, 'pos': 0.028, 'compound': -0.2263}
+
+I will do my best, but I will not be able to do the same thing. But I will not be able to do it, but I will not be able to do it. I will be able to do it in the free memory of Nimba- 01674-8905. I will be able to do this for the first time, but I am very happy to play the role of Pyaasas- Prize Feeds - 7000 In the Wittha Memphis, Nimber-01674-89052001838-086275Flur Free Freeze Woman Sey die in the rear
+Sentiment(polarity=0.5045454545454546, subjectivity=0.5893939393939394)
+{'neg': 0.052, 'neu': 0.692, 'pos': 0.256, 'compound': 0.9678}
+
+Almost 12 months warranty Shah Walloon F3E Prize 7500 (fixed) Intestad Bauer's death number 01620414045
+Sentiment(polarity=0.1, subjectivity=0.2)
+{'neg': 0.19, 'neu': 0.585, 'pos': 0.224, 'compound': -0.0772}
+
+I bought a WALLPHANT PRICE F3. I used one month for any type of stain or not to be sprayed. 5 cups cut off 4 gob + dum 512 45 in three hours. 1800 Amp. Battery. I need a lot of money. I bought a walnut premium phone for one month. Type blur or sour did not have 5 drops of sperms 4 gab + dum 512 45 in t 3 c. 1800 amp balatri my money is very important to the phone and there is no problem in the phone If I want to buy 8,200 rupees, I would pay Rs. 7500 to call someone if you would like to call 01778444430 Ranihati Chapai Nawabganj Sea dead
+Sentiment(polarity=0.056666666666666664, subjectivity=0.5)
+{'neg': 0.114, 'neu': 0.833, 'pos': 0.053, 'compound': -0.7787}
+
+5 "display and logic 2000 mah, got mad
+Sentiment(polarity=-0.625, subjectivity=1.0)
+{'neg': 0.348, 'neu': 0.652, 'pos': 0.0, 'compound': -0.4939}
+
+A Symphony and 70 sets will be sold. 5 megapixel camera. 2500 Power Battery. Good set. One Symphony and 70 sets will be sold. 5 megapixel camera. 2500 Power Battery. Good Setup: 3000 Taka. Communication 01933468002 Place Negotiable. Your person will give the message. I will call Insha Allah Se killed
+Sentiment(polarity=0.39999999999999997, subjectivity=0.4000000000000001)
+{'neg': 0.083, 'neu': 0.81, 'pos': 0.107, 'compound': 0.0772}
+
+I'll be seated on I Mobile in Prys 6000 Eases Only 2
+Sentiment(polarity=0.0, subjectivity=1.0)
+{'neg': 0.0, 'neu': 0.796, 'pos': 0.204, 'compound': 0.3182}
+
+৩০০০
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Yure Chemmeet Harecharga, is there any interest in the removals?
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.75, 'pos': 0.25, 'compound': 0.4588}
+
+I will sell my helio s1. I have bought the phone at the last 2103016 14900. For the sake of me, Shamsung has sent alpha from. So, I want to sell the phone. Give it to the phone. I will sell my helio s1 at the time of the camera. I will call the last 2103016 14900 I bought it. I have sent shamsung alpha from i.e. to the phone. So I want to sell the phone. Give it to the phone.Cashmemo and Diva. The phone is on the right side of the phone. The phone's color is white. The phone is very smoother and very thin. There are 13 mega cameras in front of this phone and 8 mega cameras in front. The flush is very very good. There is a Gorilla Glass in front of the other. 4C Network with 16 Gb Phone Memory 2 Gob Dham. 5 "Bill Dipple 51 Lollipop VERSION for charging is 2400 mAh laplum battery. 100% charging time is 75 minutes. Much time is charged. You have everything you need on a mobile phone. This phone is the best phone in the phone. If you want to buy this beautiful phone then contact me. I bought the phone at 12990 taka.
+Sentiment(polarity=0.2546103896103896, subjectivity=0.4203679653679654)
+{'neg': 0.009, 'neu': 0.906, 'pos': 0.085, 'compound': 0.9405}
+
+Oyalatana Primer rocks two non interanala or eksateranala Tim 15 manthasa useda & aphacaurase h handeda usedaluka likesa Take oyitha sacrina glasasa pratecataraprice Yum 6000 / - analyamya lacationa Yum Gulistan / nbalatana Primer rocks two non interanala or eksateranala Tim 15 manthasa useda & aphacaurase h handeda usedaluka likesa Take oyitha sacrina glasasa pratecataraprice Ish 6000 / - Only Lachatioan Gul Gulton / Naobpur Roy
+Sentiment(polarity=0.0, subjectivity=1.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Bangla mediya champ
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.392, 'pos': 0.608, 'compound': 0.4767}
+
+If anyone wants to know something about mobile Then you can try to make an effort like an arbitrator to help. Number 0192665052565
+Sentiment(polarity=0.2, subjectivity=0.1)
+{'neg': 0.0, 'neu': 0.755, 'pos': 0.245, 'compound': 0.6705}
+
+It is in this case that it is not worth the money, but it is not worth the money. It is in this way that it is worthless, but it is worthless.
+Sentiment(polarity=-0.47500000000000003, subjectivity=0.5)
+{'neg': 0.283, 'neu': 0.717, 'pos': 0.0, 'compound': -0.8759}
+
+This set price is incorrect. The exact price will be 1350 taka.
+Sentiment(polarity=0.25, subjectivity=0.25)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Nokia Asha 306 will be sold displaya same excuse to use 6 manthasa ache Tu anticipate price 01726253301 2450
+Sentiment(polarity=-0.025, subjectivity=0.0875)
+{'neg': 0.131, 'neu': 0.804, 'pos': 0.065, 'compound': -0.3182}
+
+Alam Te 3 Yehur Using Thes On Sue on Wit For Me
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+When I came to my house, but I am not able to do it, but as soon as I am ashamed, I will be able to speak to you.
+Sentiment(polarity=0.125, subjectivity=0.625)
+{'neg': 0.147, 'neu': 0.853, 'pos': 0.0, 'compound': -0.631}
+
+Frying 2 Dein After the Draper does not work in the dirt, it does not work in the mile or the other does not work, the opera sloop caricature fungus
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.079, 'neu': 0.921, 'pos': 0.0, 'compound': -0.34}
+
+How does the inventory of a 7th bell do not work like this?
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.161, 'neu': 0.839, 'pos': 0.0, 'compound': -0.2755}
+
+I will sell this manufacturer, but if you want to sell it then go to @fachchukkam / Basadi
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.912, 'pos': 0.088, 'compound': 0.1154}
+
+This is why there is a masichata tanan jana ha ha ha tamra ko jon ko jaan sharon mahe
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.676, 'pos': 0.324, 'compound': 0.7351}
+
+Suma Mabel Mama
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Honey Chan'a Chanfeguere A-Mile On My Handet (Micrometex A7) Efficient Conos, Playless Help Me
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.686, 'pos': 0.314, 'compound': 0.6705}
+
+Fawiwooish
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+In this case, there is no doubt that this is the most important thing in the history of this world, in the name of the Prophet, in the name of the Prophet Muhammad, do not take it in the sky, but you will die.
+Sentiment(polarity=0.45, subjectivity=0.75)
+{'neg': 0.173, 'neu': 0.796, 'pos': 0.031, 'compound': -0.7994}
+
+Mikramax A 55: Get Kothai
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Where to get
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Esther Plasca can be found in Elys Neid Thu Buis Thes Fun
+Sentiment(polarity=0.3, subjectivity=0.2)
+{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.5106}
+
+I Want To Sell Shelli Plus 4000 Taka For The Fourth Plot 01687088286
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.894, 'pos': 0.106, 'compound': 0.0772}
+
+Brother Aankhon comes to your house
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Oat Wille Bet The Laowaste Priche In Bangladesh Want In Bay Given In 7,200
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.909, 'pos': 0.091, 'compound': 0.0772}
+
+I love this chell
+Sentiment(polarity=0.5, subjectivity=0.6)
+{'neg': 0.0, 'neu': 0.323, 'pos': 0.677, 'compound': 0.6369}
+
+Prize money
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.233, 'pos': 0.767, 'compound': 0.5106}
+
+If 2000 then Perfect
+Sentiment(polarity=1.0, subjectivity=1.0)
+{'neg': 0.0, 'neu': 0.448, 'pos': 0.552, 'compound': 0.5719}
+
+I will do my best, but I will not be able to do the same thing. But I will not be able to do it, but I will not be able to do it. I will be able to do it in the free memory of Nimba- 01674-8905. I will be able to do this for the first time, but I am very happy to play the role of Pyaasas- Prize Feeds - 7000 In the Wittha Memphis, Nimber-01674-89052001838-086275Flur Free Freeze Woman Sey die in the rear
+Sentiment(polarity=0.5045454545454546, subjectivity=0.5893939393939394)
+{'neg': 0.052, 'neu': 0.692, 'pos': 0.256, 'compound': 0.9678}
+
+I want to sell a sham and 50 in Dhaka. I do not have any problem in my mobile phone. I want to sell a sham in Dhaka and I do not have any problem. There is no problem in my mobile phone. All the internet data can be downloaded. Understand the memory of the cameras, the memory behind the camera is 24163, the price of this phone is 5800 taka and I bought 9400 taka Contact Us 01961962626 Amelia
+Sentiment(polarity=-0.26666666666666666, subjectivity=0.4333333333333333)
+{'neg': 0.028, 'neu': 0.853, 'pos': 0.119, 'compound': 0.6339}
+
+I would like to buy the oldest mobile phone at Tk 20,000. Or want to change me and 60. If necessary, we will replace mobile with money. Want at least 8 megapixel sets. Contact 01717139399
+Sentiment(polarity=-0.15, subjectivity=0.7)
+{'neg': 0.0, 'neu': 0.855, 'pos': 0.145, 'compound': 0.4767}
+
+We will be selling Sankranti Andrida and 100 sets so we will sell low price at 0173558172
+Sentiment(polarity=0.0, subjectivity=0.3)
+{'neg': 0.116, 'neu': 0.884, 'pos': 0.0, 'compound': -0.2732}
+
+This mobile phone is not available
+Sentiment(polarity=-0.2, subjectivity=0.4)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Shamsung galaksy yr olton love is better than brick
+Sentiment(polarity=0.5, subjectivity=0.55)
+{'neg': 0.0, 'neu': 0.496, 'pos': 0.504, 'compound': 0.7964}
+
+Eighty-seven times at the time of Raiyyeded:
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+It would have been better if DOM was a little less
+Sentiment(polarity=0.04861111111111111, subjectivity=0.35555555555555557)
+{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.4404}
+
+No bal
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.688, 'neu': 0.312, 'pos': 0.0, 'compound': -0.296}
+
+Poor lull
+Sentiment(polarity=-0.4, subjectivity=0.6)
+{'neg': 0.756, 'neu': 0.244, 'pos': 0.0, 'compound': -0.4767}
+
+Atma Michrrmak's nose is written with a sophisticated Kanta Fan
+Sentiment(polarity=0.5, subjectivity=1.0)
+{'neg': 0.0, 'neu': 0.543, 'pos': 0.457, 'compound': 0.7096}
+
+Micrometex showroom
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Micrometex a lot of fun on the head, a lot of cocculous fun
+Sentiment(polarity=0.3, subjectivity=0.2)
+{'neg': 0.0, 'neu': 0.577, 'pos': 0.423, 'compound': 0.765}
+
+Do not buy the price even if you have low, not auadio / mp3
+Sentiment(polarity=0.0, subjectivity=0.3)
+{'neg': 0.149, 'neu': 0.851, 'pos': 0.0, 'compound': -0.2732}
+
+Hau shuld o ose tha akab rayad chapiton that ii builat inat mabile hangs
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I Wint The Fine 01767005122
+Sentiment(polarity=0.4166666666666667, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.2023}
+
+Pahadai flower hangs one hand
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.4939}
+
+This Is Low Mechramax X111
+Sentiment(polarity=0.0, subjectivity=0.3)
+{'neg': 0.344, 'neu': 0.656, 'pos': 0.0, 'compound': -0.2732}
+
+Orang Chapition Price Shaos Samanthi Bhutta Ie as Micherax
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Buy Used Micrometex X11 Mobil on Veriza Affarabade Preaches from Khazlein:
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Is this really 10th internal memory and in this world?
+Sentiment(polarity=0.1, subjectivity=0.1)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Be sure to use UE Intennext Micrometex X320 model
+Sentiment(polarity=0.5, subjectivity=0.8888888888888888)
+{'neg': 0.0, 'neu': 0.777, 'pos': 0.223, 'compound': 0.3182}
+
+Betty Mobille
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I have a snapshot of 2 phones but the mother of the phone has lost the motherboard
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.185, 'neu': 0.815, 'pos': 0.0, 'compound': -0.4497}
+
+Shamsu Galakshi Shabu Brands Neo & Intintasusha, Ashseyamy Neo Galaxa 3, Fan Te Selkar Karchi Phulk Box Approblemlalaya 7 Diseases Ushpreet 14000 (Fixta) Takaashamsu Galaksya Shaban Brands Neo & Intikhusa to Ashseyami, Needs Neelmaxa 3 and Fone It Sell Karchi Fool Box Proceedings 7 Responses to UPSP 14000 (fixed) No: 0177434093 (dead) Seal dead
+Sentiment(polarity=-0.10000000000000002, subjectivity=0.3333333333333333)
+{'neg': 0.166, 'neu': 0.794, 'pos': 0.041, 'compound': -0.7964}
+
+Mirpur 11, Dhakai Winters, Saille Mancha, and 86 Seven Educators 100% Fate 1, Chowdhury 7500, Kokirpur 11, Dhakai Winters and Saille Maine, and 86 Seven Ed 100% Fit 1, Utsedpreet 7500, Taqfan: 017715922227
+Sentiment(polarity=0.4, subjectivity=0.4)
+{'neg': 0.138, 'neu': 0.796, 'pos': 0.066, 'compound': -0.4019}
+
+I bought WALPAD 7 on 05-05-2014, 100% full frustrations, and if I was excited with the 11th or the 111th or the 1st year, I would have been excited with the Xperia F, then I was able to sell the wallet on 05-05-2014 and bought 100% FULL If you are interested in using Fresh X2 or V1 or any other version, you can do it with the 11th or 111th, Xperia F, and then look forward to the world.
+Sentiment(polarity=0.296875, subjectivity=0.575)
+{'neg': 0.037, 'neu': 0.844, 'pos': 0.12, 'compound': 0.7003}
+
+I am Shamshu Galakshi Shi Efei Mini 14,500 / Fuxed [Chomsky from Uk] 2 Vox Ustad (Fully Fresh) with my Shamsu Gallacce Shi Efei Mini 14,500 / Fuxed [Chames from Yak] 2 Wux Usad (However) Full-blown fenugreek seeds [0175671334] can be found on Mayfood fever / cold weather
+Sentiment(polarity=-0.15, subjectivity=0.75)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will do my best, but I will not be able to do the same thing. But I will not be able to do it, but I will not be able to do it. I will be able to do it in the free memory of Nimba- 01674-8905. I will be able to do this for the first time, but I am very happy to play the role of Pyaasas- Prize Feeds - 7000 In the Wittha Memphis, Nimber-01674-89052001838-086275Flur Free Freeze Woman Sey die in the rear
+Sentiment(polarity=0.5045454545454546, subjectivity=0.5893939393939394)
+{'neg': 0.052, 'neu': 0.692, 'pos': 0.256, 'compound': 0.9678}
+
+Or to make it intensely, gin this grue
+Sentiment(polarity=0.2, subjectivity=1.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Almost 12 months warranty Shah Walloon F3E Prize 7500 (fixed) Intestad Bauer's death number 01620414045
+Sentiment(polarity=0.1, subjectivity=0.2)
+{'neg': 0.19, 'neu': 0.585, 'pos': 0.224, 'compound': -0.0772}
+
+Almost 12 months warranty Shah Walloon F3E Prize 7500 (fixed) Intestad Bauer's death number 01620414045
+Sentiment(polarity=0.1, subjectivity=0.2)
+{'neg': 0.19, 'neu': 0.585, 'pos': 0.224, 'compound': -0.0772}
+
+I would like to make Mitchellaxes A25 Sellles on Preiche 3300 Birampur Dinajpur 01784936042
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.828, 'pos': 0.172, 'compound': 0.3612}
+
+I will make a MicroCax A25 cell per prize 3300 Birampur, Dinajpur
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.732, 'pos': 0.268, 'compound': 0.5106}
+
+I will tell and 65 only 4000 marks will be recorded on the night at 6600 100% Frees 13 Giga Pachayo and I will do 65 and at least 4000 counters at night, 6600 Taka 100% Frees 13 Giga Pachayoor Andrade Fone Sprayad Atat Besi 4 "Despaliya Verthecharera Kinaita Chalayya May 0177197395
+Sentiment(polarity=-0.15, subjectivity=0.7)
+{'neg': 0.0, 'neu': 0.914, 'pos': 0.086, 'compound': 0.5267}
+
+I'll make MicroMax A25 Sill Priche 2000000 only 0184940170
+Sentiment(polarity=0.0, subjectivity=1.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Nokia Asha 210 (Ilio) will be able to make 3500 takasat aan pablum nitaka so Sallamdhadhaka quintinmant (ray 01854138561)
+Sentiment(polarity=0.5, subjectivity=0.625)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I akti maksimumasa Max 906 3 c seta sella will setaphullya phreyasa Three churning useda 9 maunthbararantya abhalaibleyami akti maksimumasa Max 906 3 c seta sella will setaphullya phreyasa Three churning useda 9 maunthbararantya abhalaiblesathe find the Affirmative cabhara, matta sin, 4 Gaba macaradaphri, h eksatre batteryaprice phiksedah ​​4400 jatrabari Sea dies
+Sentiment(polarity=-0.13333333333333333, subjectivity=0.9)
+{'neg': 0.079, 'neu': 0.921, 'pos': 0.0, 'compound': -0.5574}
+
+I'll sail it on Nokia Asha 305 phone to 3000 to 01987748345
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will make Micrometeus a 25 sel 2 objection 01926091688
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Capital> neosa> syamphanya eksaplarera and 35 syamphanya eksaplarera and 35 capital> neosa> syamphanya eksaplarera and 35 syamphanya eksaplarera and 35 syamphanya and 35 mighata Bay Cut cheyapesta andraida jellya bey; debhice from syamphanya syamphanya and 35 image cauratesya: The syamphanyasyamphanya eksaplarera and 35 sapeciphicationa Osh: The 41 jellyabeyana displaya siye: The 35 "taphata capacitibhe blooming taucha Dislocation in Dislaw Havga (320480) East: 1 Ghazal Saptag 31-Initral Internal Memorial Dm 512 Md (Due 475 m in the river) Domb 4 Gob (Dome 786 m in the air base) Exnded sub-32 Goma Chamera Faitur: Flush lighthouse Battery: 2000 Mahbha Olaan: WEE-FE 80211, WEE-FEE is a staggering gossip: between twenty-two thousand rupees (about a hundred percent), at the time of 5 years (Dependent on Financial Settlement) Dive Plume: 3, AA, A + +, AACH +, AMR, OB-AMR, MIDI, WANJA BHARISHIS, Pacham Dechad Aidhio, Fifth Grade: 3 GOP, M.P. 4, Makov, AVI Visvedo: 3 GOP, M.P. 4, Makov, AV 35 MJ: Future's Delivery: 117562513 Jaysh Usab Medem: Jais MESH: Jesse Emile: Josh Bewyllt in Applichtons: Aung Bardes, Higha Rid, Fachabuk, Yuuteb, Andrade Marka (Playa), Mx Play, Mimi, Gmile, Shkpey Shappy Faytures: Gape, Proximity Sensor, Champs Preserve In Bangladesh - Sumfan Xplore And 35 Priache & Fully Shoopichitatenu's Opinionbalachme Azmul Pintoo Logutsereziamul Pinto Fayo Sechandas Agu ag 35 It is impossible to download from all the endoads market. I'll buy new 82 so live. 5500 with memory 5000 without memory. The warranty has 10 months. Leather cover, Skin paper free. Contact 01717200850 01718505552 01911211909 Azmulpintu @Gamailchum Azmulpinto @Jahucham Azmulpinu @ Fachabkamacharapalarelememedadamamat septar sere
+Sentiment(polarity=0.04842171717171717, subjectivity=0.6045454545454545)
+{'neg': 0.015, 'neu': 0.951, 'pos': 0.034, 'compound': 0.6908}
+
+Pacha Akhta Fanairakam Bamya Chamera Jibon Nahi Nahi Nahi Chamera Ki Chhaicha
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+On the other hand, on the other side of the blog, on the other side of the blog, the celebration of the observance of the celebration is honorable, the games are available in the website - the ambassador of the @@@ Sea Dead
+Sentiment(polarity=-0.034999999999999996, subjectivity=0.38499999999999995)
+{'neg': 0.086, 'neu': 0.78, 'pos': 0.134, 'compound': 0.34}
+
+Java has this funnel
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.727, 'pos': 0.273, 'compound': 0.0323}
+
+Oyelacame the micra Max mabile campanya micra Max x 293 Pussy handasetathisa handaseta geta sbarupakathi police his barisala micra Max custamera four centera sbarupakathisa nideda micra Max cuoelacame the micra Max mabile campanya micra Max x 293 Pussy handasetathisa handaseta geta sbarupakathi police his barisala micra Max custamera four centera Swarupukathi's Neidad Mikro Maks Chost Surroundings in the four sides die
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.063, 'neu': 0.937, 'pos': 0.0, 'compound': -0.5994}
+
+Brother will give it a good start
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+And the current price is 3970 taka
+Sentiment(polarity=0.0, subjectivity=0.4)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+In the world, the people of this world are in the world, and the people of the world are in the same way.
+Sentiment(polarity=0.0, subjectivity=0.125)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Ata can be found in any showroom
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I want to sell my shampoos. I would like to sell mohailatikamam well. There is no problem in the phone. All of the paperwork. I want to sell my shampoos. Even better than the mobile phone price, there is no problem in the phone. There are no problems in the phone. If you want to buy 8500 thousand rupees, contact this number 019256924344 Home Mymensingh Sey dead
+Sentiment(polarity=0.15, subjectivity=0.45)
+{'neg': 0.232, 'neu': 0.611, 'pos': 0.156, 'compound': -0.8491}
+
+We will take 7 months to start the process of 21000 on May 01818336782
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Take it to the play or give it to Pritch, or I'll buy it
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.844, 'pos': 0.156, 'compound': 0.34}
+
+I'll sell 3 to get a shamsung glaucoma. There is no problem in the phone. I've used it for 42 days only. What I'll get with the phone: - I'll sell 3 to get a shamsung glaucoma. There is no problem in the phone. I have used it for 42 days only. I will get it with the phone: 1 Fone 2 Battyareya 3 Charga 4 Airfone 5 Datta Chabale 6 Warranty Chard 7 Fool Box: Get one with this: 1 Flip Chowbe-9 00 Talk 2 Charger -300 Talk 3 Shakin Sin - 200 Tackfone is the reason for my personal reason to sell. I will sell it only from Dubai. If someone is calling the phone at 35,500 If you are interested to take a call then contact us. Fan Numbar: 01960-660641 Sey Murray
+Sentiment(polarity=0.05, subjectivity=0.76)
+{'neg': 0.127, 'neu': 0.834, 'pos': 0.039, 'compound': -0.8834}
+
+I will sell the crap for 4 times but I will be playing the game for more than 30 years.
+Sentiment(polarity=-0.2333333333333334, subjectivity=0.5666666666666668)
+{'neg': 0.095, 'neu': 0.789, 'pos': 0.116, 'compound': 0.1027}
+
+How many are now in AITA's mark prize
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.68, 'pos': 0.32, 'compound': 0.5106}
+
+I'm going to sell it to my friend. If I need to spend my money, then I need to pay the money. So I need to pay Rs. 10,000 for the amount of money you need to pay 10,000 rupees. If you want to pay Rs. If you want to buy it, you can buy 10,000 Fiksad by charging someone in the world 01717138420
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.086, 'neu': 0.826, 'pos': 0.089, 'compound': 0.296}
+
+I will also get the benefit of using the Apni i421 in the Aita Jelly Bean 421.
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.833, 'pos': 0.167, 'compound': 0.4588}
+
+PRECH>
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+How can I do this for the brother, how can I do this because I am not able to do it?
+Sentiment(polarity=-0.25, subjectivity=0.625)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will make Michelromex x 321 with 1500 Taka Chaplila Chauraa Kahle to let you know Fan Numbar: 01849142393
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.874, 'pos': 0.126, 'compound': 0.3182}
+
+Aadhaar market prize 2150 is why Bashundhara Tia
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.765}
+
+I will tell and 65 only 4000 marks will be recorded on the night at 6600 100% Frees 13 Giga Pachayo and I will do 65 and at least 4000 counters at night, 6600 Taka 100% Frees 13 Giga Pachayoor Andrade Fone Sprayad Atat Besi 4 "Despaliya Verthecharera Kinaita Chalayya May 0177197395
+Sentiment(polarity=-0.15, subjectivity=0.7)
+{'neg': 0.0, 'neu': 0.914, 'pos': 0.086, 'compound': 0.5267}
+
+I akti maksimumasa Max 906 3 c seta sella will setaphullya phreyasa Three churning useda 9 maunthbararantya abhalaibleyami akti maksimumasa Max 906 3 c seta sella will setaphullya phreyasa Three churning useda 9 maunthbararantya abhalaiblesathe find the Affirmative cabhara, matta sin, 4 Gaba macaradaphri, h eksatre batteryaprice phiksedah ​​4400 jatrabari Sea dies
+Sentiment(polarity=-0.13333333333333333, subjectivity=0.9)
+{'neg': 0.079, 'neu': 0.921, 'pos': 0.0, 'compound': -0.5574}
+
+Ankia 311 will be 6 years old, but it is not a problem. 3C will be 311, it will be 6, it does not have any problem in the U.Sc., so that it does not have 3C: 6999, 01689776269/01777588806/01839318720.
+Sentiment(polarity=0.1, subjectivity=0.2)
+{'neg': 0.0, 'neu': 0.858, 'pos': 0.142, 'compound': 0.6979}
+
+OHIS and Eis Betty's Michelemax A 27-minute and Shamfan Xplorer and the 16th in the Conois Plays at the Arena by Wighting Tee Hare
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.917, 'pos': 0.083, 'compound': 0.25}
+
+Capital> neosa> syamphanya eksaplarera and 35 syamphanya eksaplarera and 35 capital> neosa> syamphanya eksaplarera and 35 syamphanya eksaplarera and 35 syamphanya and 35 mighata Bay Cut cheyapesta andraida jellya bey; debhice from syamphanya syamphanya and 35 image cauratesya: The syamphanyasyamphanya eksaplarera and 35 sapeciphicationa Osh: The 41 jellyabeyana displaya siye: The 35 "taphata capacitibhe blooming taucha Dislocation in Dislaw Havga (320480) East: 1 Ghazal Saptag 31-Initral Internal Memorial Dm 512 Md (Due 475 m in the river) Domb 4 Gob (Dome 786 m in the air base) Exnded sub-32 Goma Chamera Faitur: Flush lighthouse Battery: 2000 Mahbha Olaan: WEE-FE 80211, WEE-FEE is a staggering gossip: between twenty-two thousand rupees (about a hundred percent), at the time of 5 years (Dependent on Financial Settlement) Dive Plume: 3, AA, A + +, AACH +, AMR, OB-AMR, MIDI, WANJA BHARISHIS, Pacham Dechad Aidhio, Fifth Grade: 3 GOP, M.P. 4, Makov, AVI Visvedo: 3 GOP, M.P. 4, Makov, AV 35 MJ: Future's Delivery: 117562513 Jaysh Usab Medem: Jais MESH: Jesse Emile: Josh Bewyllt in Applichtons: Aung Bardes, Higha Rid, Fachabuk, Yuuteb, Andrade Marka (Playa), Mx Play, Mimi, Gmile, Shkpey Shappy Faytures: Gape, Proximity Sensor, Champs Preserve In Bangladesh - Sumfan Xplore And 35 Priache & Fully Shoopichitatenu's Opinionbalachme Azmul Pintoo Logutsereziamul Pinto Fayo Sechandas Agu ag 35 It is impossible to download from all the endoads market. I'll buy new 82 so live. 5500 with memory 5000 without memory. The warranty has 10 months. Leather cover, Skin paper free. Contact 01717200850 01718505552 01911211909 Azmulpintu @Gamailchum Azmulpinto @Jahucham Azmulpinu @ Fachabkamacharapalarelememedadamamat septar sere
+Sentiment(polarity=0.04842171717171717, subjectivity=0.6045454545454545)
+{'neg': 0.015, 'neu': 0.951, 'pos': 0.034, 'compound': 0.6908}
+
+There is no good money in the streets of the city of Eisa, sala gurachal
+Sentiment(polarity=-0.35, subjectivity=0.6000000000000001)
+{'neg': 0.122, 'neu': 0.718, 'pos': 0.16, 'compound': 0.1779}
+
+Limitid Budgat is a very nice and funny fan
+Sentiment(polarity=0.515, subjectivity=1.0)
+{'neg': 0.0, 'neu': 0.369, 'pos': 0.631, 'compound': 0.8204}
+
+Walton love love 1 or better
+Sentiment(polarity=0.5, subjectivity=0.5666666666666667)
+{'neg': 0.0, 'neu': 0.15, 'pos': 0.85, 'compound': 0.9062}
+
+Falatu on a phone
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I am gaung te sel michrmacs quasvas a 92 numbar 01924459539 texath or rice mile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I bought WALPAD 7 on 05-05-2014, 100% full frustrations, and if I was excited with the 11th or the 111th or the 1st year, I would have been excited with the Xperia F, then I was able to sell the wallet on 05-05-2014 and bought 100% FULL If you are interested in using Fresh X2 or V1 or any other version, you can do it with the 11th or 111th, Xperia F, and then look forward to the world.
+Sentiment(polarity=0.296875, subjectivity=0.575)
+{'neg': 0.037, 'neu': 0.844, 'pos': 0.12, 'compound': 0.7003}
+
+Expiry with Prim E2 14 days Runeing comes
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Micrrmacs will love to take on Urventa 25 responses
+Sentiment(polarity=0.5, subjectivity=0.6)
+{'neg': 0.0, 'neu': 0.656, 'pos': 0.344, 'compound': 0.6369}
+
+I will take a 9 to 9 thousand 9 thousand to get 6 liability Useed e Niede Ugarnetteastang 01670030530
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.141, 'neu': 0.859, 'pos': 0.0, 'compound': -0.2023}
+
+I will do my best, but I will not be able to do the same thing. But I will not be able to do it, but I will not be able to do it. I will be able to do it in the free memory of Nimba- 01674-8905. I will be able to do this for the first time, but I am very happy to play the role of Pyaasas- Prize Feeds - 7000 In the Wittha Memphis, Nimber-01674-89052001838-086275Flur Free Freeze Woman Sey die in the rear
+Sentiment(polarity=0.5045454545454546, subjectivity=0.5893939393939394)
+{'neg': 0.052, 'neu': 0.692, 'pos': 0.256, 'compound': 0.9678}
+
+Madmallin 21121 @ Gomelcham
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Almost 12 months warranty Shah Walloon F3E Prize 7500 (fixed) Intestad Bauer's death number 01620414045
+Sentiment(polarity=0.1, subjectivity=0.2)
+{'neg': 0.19, 'neu': 0.585, 'pos': 0.224, 'compound': -0.0772}
+
+Aa Chawsaw Lie AA 92 is not good, 88 is a little better than a little balls
+Sentiment(polarity=-0.056249999999999994, subjectivity=0.525)
+{'neg': 0.134, 'neu': 0.722, 'pos': 0.145, 'compound': 0.0518}
+
+I have been impersonating myself in the world, and I have played a lot less in the heart of the guitar, but I did not get 100% unacceptable and crazy. But I did not like it, but I am still in love. Imprinted from Mabel & Market Chavez, it's a little less than 100% non-excitement, and the password is in my preference to the Millee store prelite - Nokia Lumia 720-19, 800 3 - Gaya - 74,000 Taka - 4 (32 Gb) - 75,800 Taka - 4 Sons (16 Gb Wth 7-8 Responsibility Above) - 28,000 Tasks - 40 Feet Waste Do not impose only the ray ban on the ray-2200- 01687364242, do not impose all the bronze grains, do not impose the thunderbolt, or the thunderstorms,
+Sentiment(polarity=-0.10260416666666666, subjectivity=0.4041666666666667)
+{'neg': 0.142, 'neu': 0.726, 'pos': 0.133, 'compound': -0.5022}
+
+Mirpur 11, Dhakai Winters, Saille Mancha, and 86 Seven Educators 100% Fate 1, Chowdhury 7500, Kokirpur 11, Dhakai Winters and Saille Maine, and 86 Seven Ed 100% Fit 1, Utsedpreet 7500, Taqfan: 017715922227
+Sentiment(polarity=0.4, subjectivity=0.4)
+{'neg': 0.138, 'neu': 0.796, 'pos': 0.066, 'compound': -0.4019}
+
+I will tell and 65 only 4000 marks will be recorded on the night at 6600 100% Frees 13 Giga Pachayo and I will do 65 and at least 4000 counters at night, 6600 Taka 100% Frees 13 Giga Pachayoor Andrade Fone Sprayad Atat Besi 4 "Despaliya Verthecharera Kinaita Chalayya May 0177197395
+Sentiment(polarity=-0.15, subjectivity=0.7)
+{'neg': 0.0, 'neu': 0.914, 'pos': 0.086, 'compound': 0.5267}
+
+I will tell and 65 only 4000 marks will be recorded on the night at 6600 100% Frees 13 Giga Pachayo and I will do 65 and at least 4000 counters at night, 6600 Taka 100% Frees 13 Giga Pachayoor Andrade Fone Sprayad Atat Besi 4 "Despaliya Verthecharera Kinaita Chalayya May 0177197395
+Sentiment(polarity=-0.15, subjectivity=0.7)
+{'neg': 0.0, 'neu': 0.914, 'pos': 0.086, 'compound': 0.5267}
+
+Nokia Asha 210 (Ilio) will be able to make 3500 takasat aan pablum nitaka so Sallamdhadhaka quintinmant (ray 01854138561)
+Sentiment(polarity=0.5, subjectivity=0.625)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I bought a WALLPHANT PRICE F3. I used one month for any type of stain or not to be sprayed. 5 cups cut off 4 gob + dum 512 45 in three hours. 1800 Amp. Battery. I need a lot of money. I bought a walnut premium phone for one month. Type blur or sour did not have 5 drops of sperms 4 gab + dum 512 45 in t 3 c. 1800 amp balatri my money is very important to the phone and there is no problem in the phone If I want to buy 8,200 rupees, I would pay Rs. 7500 to call someone if you would like to call 01778444430 Ranihati Chapai Nawabganj Sea dead
+Sentiment(polarity=0.056666666666666664, subjectivity=0.5)
+{'neg': 0.114, 'neu': 0.833, 'pos': 0.053, 'compound': -0.7787}
+
+Ankia 311 will be 6 years old, but it is not a problem. 3C will be 311, it will be 6, it does not have any problem in the U.Sc., so that it does not have 3C: 6999, 01689776269/01777588806/01839318720.
+Sentiment(polarity=0.1, subjectivity=0.2)
+{'neg': 0.0, 'neu': 0.858, 'pos': 0.142, 'compound': 0.6979}
+
+++++++++++ Shello Shellle Cellulose +++++++++++ Microphones A 54 Preaches 4500 ++++++++++ Shell Shelly Cells ++++++++ +++ MicroSmax A 54Price 4500To 35Inde Display - Andromeda 235, 1Well Kualchmma7225AAA.Ayward- 256MM DOM- GOPARSHEED: EGS, 3C, WEE-FE 80211B / C / N-3Ep Chamera- 32 GAB EXPANDABLE MICRO SHADD SLOAT- 1300 MAH BATTERY 3 Wyeth Warranty Chowdhury Udygantya Neyedelchatyon: Mohammedpur Challa 01965- 700538 Late Dat: 031013 Dead Sea
+Sentiment(polarity=-0.25, subjectivity=0.5)
+{'neg': 0.073, 'neu': 0.927, 'pos': 0.0, 'compound': -0.6486}
+
+I am imposing Imam from Imam on behalf of Bangladesh, at a market in Bangladesh, at a very low price, I have been sold at a very low price. I am the owner of Phul Pachchikai am. Imperat I am from Imphal Imam The price of the price is very low, and I sell it at a very low price. I used to wear a whistle in 22,200 fuchsa pacacetta intaa & non-wesad moulele mantra mah 016
+Sentiment(polarity=0.0, subjectivity=0.39)
+{'neg': 0.155, 'neu': 0.845, 'pos': 0.0, 'compound': -0.839}
+
+++++++++++ Shello Shellle Cellulose +++++++++++ Microphones A 54 Preaches 4500 ++++++++++ Shell Shelly Cells ++++++++ +++ MicroSmax A 54Price 4500To 35Inde Display - Andromeda 235, 1Well Kualchmma7225AAA.Ayward- 256MM DOM- GOPARSHEED: EGS, 3C, WEE-FE 80211B / C / N-3Ep Chamera- 32 GAB EXPANDABLE MICRO SHADD SLOAT- 1300 MAH BATTERY 3 Wyeth Warranty Chowdhury Udygantya Neyedelchatyon: Mohammedpur Challa 01965- 700538 Late Dat: 031013 Dead Sea
+Sentiment(polarity=-0.25, subjectivity=0.5)
+{'neg': 0.073, 'neu': 0.927, 'pos': 0.0, 'compound': -0.6486}
+
+This is not good at all
+Sentiment(polarity=-0.35, subjectivity=0.6000000000000001)
+{'neg': 0.325, 'neu': 0.675, 'pos': 0.0, 'compound': -0.3412}
+
+Ami nanakia x2 dual bean ke rako ko kobo koi kint ki chilelejagge 017772222640 Dye Cholaur 5 mp Chamera 4 Gob Ohms 1 Gham Dhanath Alono Palebleme 23 Das Uses Pichi Ish 11000
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Custodial fertility cardiaca Information 01618622633
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I have done the Valtan Hummy Sill Crab Lollipop. If you want to buy 8000 rupees at the same time, then you will be able to buy Vardhan Humma Svelle Karbal Llipip. If you want to buy 8000 rupees at one time, please excel 01783221650 Akram Fraz, the problem is particularly good. If you buy, you can tell. , I bought this phone with the new 11590, the new donut has its donation of 11590 rupees. Sea dead
+Sentiment(polarity=0.21212121212121213, subjectivity=0.4431818181818182)
+{'neg': 0.081, 'neu': 0.79, 'pos': 0.129, 'compound': 0.2716}
+
+I want to sell my shampoos. I would like to sell mohailatikamam well. There is no problem in the phone. All of the paperwork. I want to sell my shampoos. Even better than the mobile phone price, there is no problem in the phone. There are no problems in the phone. If you want to buy 8500 thousand rupees, contact this number 019256924344 Home Mymensingh Sey dead
+Sentiment(polarity=0.15, subjectivity=0.45)
+{'neg': 0.232, 'neu': 0.611, 'pos': 0.156, 'compound': -0.8491}
+
+I think Micrmacs A220 is only 20 hours to see the Prehee-5000, 1 gm ram 8 gram and 5 megapro teaspoons of zinc- I need a microsex A2, only 2 times, we can see it in the pre-5000, 1 gm ram 8 gb and 5 megaw per cent of the seeds -01953450898
+Sentiment(polarity=0.0, subjectivity=1.0)
+{'neg': 0.0, 'neu': 0.965, 'pos': 0.035, 'compound': 0.128}
+
+I will start my journey at 4 am, but it will be 100 percent or more than 100 percent from the Singapore airport. I will be able to make sure that I will be able to do the same. I will be able to do the same. I will do this for the first time. I will do this at 4 am, then 100% or more than 100% of students from Singapore will go to Nayami 12000. I'll tell you (fixed) I have been 180 years ago, I am 2600, 32, 32, 000, 802 1 c / c / nfane 0160194637 Sey death
+Sentiment(polarity=0.335, subjectivity=0.45472222222222225)
+{'neg': 0.057, 'neu': 0.912, 'pos': 0.031, 'compound': -0.5267}
+
+Shamsu Galakshi Shabu Brands Neo & Intintasusha, Ashseyamy Neo Galaxa 3, Fan Te Selkar Karchi Phulk Box Approblemlalaya 7 Diseases Ushpreet 14000 (Fixta) Takaashamsu Galaksya Shaban Brands Neo & Intikhusa to Ashseyami, Needs Neelmaxa 3 and Fone It Sell Karchi Fool Box Proceedings 7 Responses to UPSP 14000 (fixed) No: 0177434093 (dead) Seal dead
+Sentiment(polarity=-0.10000000000000002, subjectivity=0.3333333333333333)
+{'neg': 0.166, 'neu': 0.794, 'pos': 0.041, 'compound': -0.7964}
+
+I'll sell a BlancerBar 10. Just used for 3 months. Set flower fries Set bring from Singapore Made-in-Mechich 100% of the original set of accessories, chargers, headphones, boxes, everything will sell a BlancerBar 10. Just used for 3 months. Set flower fries Set bring from Singapore MadE-in-Mensich 100% organic set with charger, headphone, box all. I need emergency money so I'm forced to sell. The set price is Tk 22,000 If anyone is interested, call me 01860363664 Sey Murray
+Sentiment(polarity=0.10833333333333332, subjectivity=0.48333333333333334)
+{'neg': 0.073, 'neu': 0.865, 'pos': 0.062, 'compound': -0.2212}
+
+I bought prima and three for two months. Then I will buy 13,500 / i only bought prima and three two months. Then the price was 13500 / I would sell only 11500 / taka. Set Fresh. If someone is interested in buying My Address: Hospital Road, Barisal Mobile: 01714 900839 Dead Sea
+Sentiment(polarity=0.07, subjectivity=0.6799999999999999)
+{'neg': 0.082, 'neu': 0.822, 'pos': 0.096, 'compound': -0.0772}
+
+I bought walpad 7 on 05-05-2014 and need 100% FULL FRESH, so I'll try 500 ft. Free FRESH Free 12500 (fixed-price) charger: 01620-286166
+Sentiment(polarity=0.35, subjectivity=0.6300000000000001)
+{'neg': 0.0, 'neu': 0.573, 'pos': 0.427, 'compound': 0.913}
+
+'WALNAN PRIM G'SAELLA. Uses only two months. The charger, headphone and 2 Gb external memorycard will be there. One year warranty will also be there. The price will be fixed at 8,000 taka (Setter's market 'Walton prash Ghasel'), only two months have been done, chargers, headphones and 2 hours of external memory card, and one year warranty, the price is fixed at Tk 8,000 (Setter Market Prach 9, 990 taka). The set is absolutely intact, please contact this number: 01683-021712
+Sentiment(polarity=0.05714285714285715, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.926, 'pos': 0.074, 'compound': 0.6087}
+
+I bought WALPAD 7 on 05-05-2014, 100% full frustrations, and if I was excited with the 11th or the 111th or the 1st year, I would have been excited with the Xperia F, then I was able to sell the wallet on 05-05-2014 and bought 100% FULL If you are interested in using Fresh X2 or V1 or any other version, you can do it with the 11th or 111th, Xperia F, and then look forward to the world.
+Sentiment(polarity=0.296875, subjectivity=0.575)
+{'neg': 0.037, 'neu': 0.844, 'pos': 0.12, 'compound': 0.7003}
+
+Yur Chamomentha Herashahrier Rahman Mizan- I will sell Aktimichramx Chavan A 74 mbail, all kisu oak kunaprabalem priyec -4,500
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Chan e haye ur fatechat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+You will sell Amber Mitchemx Chashaw A 74 mbail, you will not be able to sell Prich-5000 @ 01922-610529 Yur Chamomentha Herashaharia's Rahaman Mizan- I will sell Akhta Mitchemx Chavan A 74, I will sell all Kisu oak kun problems. Prehe-5000 Tejagajgo @ 01922-610529 01910-865199 Sey Mare
+Sentiment(polarity=0.5, subjectivity=0.625)
+{'neg': 0.063, 'neu': 0.937, 'pos': 0.0, 'compound': -0.4019}
+
+To sell my samsung glaucoma dosas, ash, whip flush with flip flap, tacha chav, Italian cottage, maid in vietnam, 3 festivities for 18 hours, ash for selling my samsung galaxy sweets, whipped freshenthis warmth flip, Chirp Chav, Italy Tired, Maid in Vietnam, 3 months to buy 18 days, buy Grade 2, so sell 9000 per day, Maid to Bina / Shamsung, to thousands of wellpic utensils, plus rice
+Sentiment(polarity=-0.2, subjectivity=0.35)
+{'neg': 0.04, 'neu': 0.833, 'pos': 0.127, 'compound': 0.7506}
+
+I'll sell Micrmacs Chawawas Phoon A 74 and I'll buy Fools Only 3 Months to buy. Anyone can buy ii nomba a zugajug 017111315919
+Sentiment(polarity=0.0, subjectivity=1.0)
+{'neg': 0.138, 'neu': 0.862, 'pos': 0.0, 'compound': -0.4939}
+
+Mirpur 11, Dhakai Winters, Saille Mancha, and 86 Seven Educators 100% Fate 1, Chowdhury 7500, Kokirpur 11, Dhakai Winters and Saille Maine, and 86 Seven Ed 100% Fit 1, Utsedpreet 7500, Taqfan: 017715922227
+Sentiment(polarity=0.4, subjectivity=0.4)
+{'neg': 0.138, 'neu': 0.796, 'pos': 0.066, 'compound': -0.4019}
+
+There will be a Walt Disney Prize Sale, two months have passed, Nao's mother has no problem. The current prize has been kept for 12000 thousand rupees, please dial for details. A walnery pre-sets 2 sets will be sold, new months have passed, there is no problem in the set. The current prize has been kept for 12000 thousand rupees, please dial for details Mobile Number: 0 1740 488957 01737934619
+Sentiment(polarity=0.04545454545454545, subjectivity=0.41818181818181815)
+{'neg': 0.12, 'neu': 0.686, 'pos': 0.194, 'compound': 0.7184}
+
+94 set of rotten set virus is much better than 74
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.217, 'neu': 0.592, 'pos': 0.191, 'compound': -0.1027}
+
+I'll make my Microflac quesaw a 74 Foon set cell, Maa used 2 months, need money for special work, there is no problem in the set, I will give everything to the phone, with a phone, Hiadafane, Warra, I will make my Micrmacs quasaw A 74 Foon Set, I Months used, special needs for money, there is no problem in the set, there is no problem in the phone, a phone with everything, the hedaphone, the warranty round, the idea
+Sentiment(polarity=0.1714285714285714, subjectivity=0.5142857142857142)
+{'neg': 0.175, 'neu': 0.761, 'pos': 0.064, 'compound': -0.8074}
+
+I'll sell it for my A74 only. I bought it a week only, but if you still have it, then give me a fun time to get my mom's nagra 01622250340
+Sentiment(polarity=0.09999999999999999, subjectivity=0.7333333333333334)
+{'neg': 0.0, 'neu': 0.859, 'pos': 0.141, 'compound': 0.6652}
+
+In the world
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will give you a full-fledged explanation and a full-fledged excitement of 35 steps will be done by the youth in the field of Fools Box 3C Witho Chilling Priche (4,200) Lacataion Dhaka Uttara Fan (0183 Surfan Exporter) Thighthought foil box 3c Wth video stealing priche (4,200) Lachatian dhaka Uttara phane n (01839056479)
+Sentiment(polarity=0.2333333333333333, subjectivity=0.9)
+{'neg': 0.19, 'neu': 0.718, 'pos': 0.092, 'compound': -0.7096}
+
+I'm excited about Maximus Maks 950 15 liability incidence of False Fresh or non-probable 8000 rupees by means of intraction, but if anybody says I am not able to extract it, then Maximus MACS 950 15 liability incidence is not to be found in the spring or 8000 If you want to do it with the help of an i-moon, then say no- 0178935357
+Sentiment(polarity=0.006249999999999978, subjectivity=0.61875)
+{'neg': 0.09, 'neu': 0.792, 'pos': 0.118, 'compound': 0.2382}
+
+I have a 1 meter MicroRax quadrice muscill A 88 to make the ash-priech 8700 I can only do it for 18 days free warranty + heydfone + 500 times by charger Chavez + Flip Chowring Akam free I am 1 Micherax Chanvas Musheque A 88 Shelling to Ash-Prachi 8700 I Only 18 days of free warranty + HYD Function + 500 taka by Chavez + Flip Chowring Akam free I need money
+Sentiment(polarity=0.26666666666666666, subjectivity=0.8666666666666667)
+{'neg': 0.0, 'neu': 0.801, 'pos': 0.199, 'compound': 0.9217}
+
+I will do my best, but I will not be able to do the same thing. But I will not be able to do it, but I will not be able to do it. I will be able to do it in the free memory of Nimba- 01674-8905. I will be able to do this for the first time, but I am very happy to play the role of Pyaasas- Prize Feeds - 7000 In the Wittha Memphis, Nimber-01674-89052001838-086275Flur Free Freeze Woman Sey die in the rear
+Sentiment(polarity=0.5045454545454546, subjectivity=0.5893939393939394)
+{'neg': 0.052, 'neu': 0.692, 'pos': 0.256, 'compound': 0.9678}
+
+Madmallin 21121 @ Gomelcham
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+In order to achieve the goal, 8 students will be eligible to participate in the 8th round of the program. Students will be eligible to apply for the CWL, 3C / 4GW, in Bangladesh, on the other side of the Bangladeshi nation, 8th December, 2013, from the University of Bangladesh, Ushavirya Strong Baptism, Lifofee. , 3C / 4GW Want Us All Bangladeshi Bangladeshi Aparets's Sheem Chardes 16C is Fasting 2 Gomaraya Cham 5th
+Sentiment(polarity=0.036111111111111094, subjectivity=0.5027777777777778)
+{'neg': 0.0, 'neu': 0.935, 'pos': 0.065, 'compound': 0.5574}
+
+In order to achieve the goal, 8 students will be eligible to participate in the 8th round of the program. Students will be eligible to apply for the CWL, 3C / 4GW, in Bangladesh, on the other side of the Bangladeshi nation, 8th December, 2013, from the University of Bangladesh, Ushavirya Strong Baptism, Lifofee. , 3C / 4GW Want Us All Bangladeshi Bangladeshi Aparets's Sheem Chardes 16C is Fasting 2 Gomaraya Cham 5th
+Sentiment(polarity=0.036111111111111094, subjectivity=0.5027777777777778)
+{'neg': 0.0, 'neu': 0.935, 'pos': 0.065, 'compound': 0.5574}
+
+I would recommend to sell a whisker to sell 3-Fuel Fresh and Oak Stit Mede in Hyrule Con problem. I need to sell 7,000 liters of water at 3500, so I need to sell as much as 3500 so as to fill the Honey Fresh Fresh and Oak Stit There is no problem in Madhe Pruech. I have sold 7,200 rupees for the sale of 3500 rupees, so we need to sell as much as possible, but sell it. Dr 01955317335 Sie dead
+Sentiment(polarity=0.15000000000000002, subjectivity=0.5166666666666667)
+{'neg': 0.128, 'neu': 0.796, 'pos': 0.076, 'compound': -0.7615}
+
+Preisch and Chelle Breath Seven Filgrass Alesse Cunt
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.314, 'neu': 0.686, 'pos': 0.0, 'compound': -0.4939}
+
+I will tell and 65 only 4000 marks will be recorded on the night at 6600 100% Frees 13 Giga Pachayo and I will do 65 and at least 4000 counters at night, 6600 Taka 100% Frees 13 Giga Pachayoor Andrade Fone Sprayad Atat Besi 4 "Despaliya Verthecharera Kinaita Chalayya May 0177197395
+Sentiment(polarity=-0.15, subjectivity=0.7)
+{'neg': 0.0, 'neu': 0.914, 'pos': 0.086, 'compound': 0.5267}
+
+Jaisa cooks
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+It will be good in the amount of years. Mechramaxe ek albas tha beta
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.4404}
+
+Is brick brick bread
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+1500 would have been good
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.0, 'neu': 0.58, 'pos': 0.42, 'compound': 0.4404}
+
+For the Grams for the Sisters of the day, the sadhakarmadan is expected to be 19 in the 19th year of the Gymes for the Sermon on the Sabbath, the second day will be 19 in the morning, 7 in the 12th of the month (Unleimed), 5,200 for the Speaker, Most Wanted, 2013, 19, in the world, 14 years, 3 800 marks, 921, GB, 950, MB, 3, 1. Unleimed) Broth's in Arms 1, Gobfring Lynn Chaman's Liability, 320 Medvede 150 Mts In the 400-meter long trek, 400 magnetic ftballo 2012 400 400 mb Ftball 2013 800 mphifa 14 cabs 2012 178 in the Mid-Day Spas 700 700 ft (2, 3, Winters) King of Fühtheras (All Sericher + MULTIPULAR) 200 Monsignee 1,4 (500 m) Chuest 150 mantra akur rachinga 2 Gaibpur chassis 370 mune gamesasphalat 8 in ieroban 16 c
+Sentiment(polarity=0.024999999999999998, subjectivity=0.32)
+{'neg': 0.013, 'neu': 0.987, 'pos': 0.0, 'compound': -0.2023}
+
+Dame basie hay gache
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+It would have been better if the price was 3500.
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.4404}
+
+The price is ok The rate you rate is Indian Rate:
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.82, 'pos': 0.18, 'compound': 0.296}
+
+He said that he was mine
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I am very pleased with the 68 nmumba 01798018445
+Sentiment(polarity=0.65, subjectivity=1.0)
+{'neg': 0.0, 'neu': 0.687, 'pos': 0.313, 'compound': 0.4927}
+
+I will tell and 65 only 4000 marks will be recorded on the night at 6600 100% Frees 13 Giga Pachayo and I will do 65 and at least 4000 counters at night, 6600 Taka 100% Frees 13 Giga Pachayoor Andrade Fone Sprayad Atat Besi 4 "Despaliya Verthecharera Kinaita Chalayya May 0177197395
+Sentiment(polarity=-0.15, subjectivity=0.7)
+{'neg': 0.0, 'neu': 0.914, 'pos': 0.086, 'compound': 0.5267}
+
+I will tell and 65 only 4000 marks will be recorded on the night at 6600 100% Frees 13 Giga Pachayo and I will do 65 and at least 4000 counters at night, 6600 Taka 100% Frees 13 Giga Pachayoor Andrade Fone Sprayad Atat Besi 4 "Despaliya Verthecharera Kinaita Chalayya May 0177197395
+Sentiment(polarity=-0.15, subjectivity=0.7)
+{'neg': 0.0, 'neu': 0.914, 'pos': 0.086, 'compound': 0.5267}
+
+Buying the Falto Bridge, in the face of danger, MicheraMax's shoe sticks on the forehead
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.195, 'neu': 0.805, 'pos': 0.0, 'compound': -0.5267}
+
+I'm excited about MicroRax quotes 9 94. I'm going to do 90000 with Kinsilamen 6500, I'll be snatching on 0179484684
+Sentiment(polarity=0.375, subjectivity=0.75)
+{'neg': 0.0, 'neu': 0.882, 'pos': 0.118, 'compound': 0.34}
+
+The Mia Apna's head is lost or not, why should we buy new clothes and buy 9499?
+Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
+{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.5423}
+
+The Mia Apna's head is lost or not, why should we buy new clothes and buy 9499?
+Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
+{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.5423}
+
+Mikrashtat Lumia 430 will be sold by anyone, rice 01861400726 Gaibandha
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I'll sell a MicroMax quadruple Mad AA 94. Used only for 5 months. Box, Charger, I'll sell a MicroMax quartz Mad AA 94. Used only for 5 months. Box, charger, warranty card, headphone, manual, purchase receipt, everything will be given. Buy 9499, now I will sell 8,000 rupees. Our customers are being requested to contact us on 01767379535. Mear Hat, Nesarabad, (Sarakkathi), Pirojpur, Barisal Division, Dhaka, Bangladesh, My name is Md. Mahinpita Nurul Islamgram Baldia Dubi Post Raja House my number 01767379535-01818069190 Sie dead
+Sentiment(polarity=-0.29, subjectivity=0.8800000000000001)
+{'neg': 0.123, 'neu': 0.862, 'pos': 0.015, 'compound': -0.886}
+
+I'm going to sell a Micrometeus quadrant august 118. Just used for 5 months. Box, charger, warranty card, headphone, manual, purchase receipt, everything will be given. I bought 13,900 rupees, now I'll sell a MicroCams quadrant toe aha 118. Just used for 5 months. Box, charger, warranty card, headphone, manual, purchase receipt, everything will be given. I bought 13,900 taka, now I can sell only 10,000 rupees. Interested buyers are requested to contact 01717006555. Sea dead
+Sentiment(polarity=0.016666666666666663, subjectivity=0.6333333333333333)
+{'neg': 0.058, 'neu': 0.905, 'pos': 0.036, 'compound': -0.3818}
+
+(Jatrabari / Gulshan-2 Dhaka) Moba: 016202031600 I will sell a samsung galaxy s duce (Got-Sh-7562). It has been used for 5 months. Made In Vietnam is worth only Rs 8500. Fan (Jatrabari / Gulshan-2 Dhaka): 016202031600 I will sell a samsung galaxy s duce (Gt-7550). It has been used for 5 months. Madhe in Vietnam is worth only Rs 8500.Funfoam 768mm-165 Gaobchamara 5+ Videishpla 4 "Tought Sey Dead
+Sentiment(polarity=0.07999999999999999, subjectivity=0.52)
+{'neg': 0.068, 'neu': 0.836, 'pos': 0.096, 'compound': -0.0516}
+
+I will set up a Wallant F2 model. I bought the movie 01-11-14. I will set up a Vatan F2 model. I bought the movie for 01-11-14. Only Rs. 6700 is worth. Likshan: Namgatilakshmipur01830-720781 Sea dead
+Sentiment(polarity=0.033333333333333326, subjectivity=0.5)
+{'neg': 0.126, 'neu': 0.819, 'pos': 0.056, 'compound': -0.5267}
+
+Shamsu Galakshi Shabu Brands Neo & Intintasusha, Ashseyamy Neo Galaxa 3, Fan Te Selkar Karchi Phulk Box Approblemlalaya 7 Diseases Ushpreet 14000 (Fixta) Takaashamsu Galaksya Shaban Brands Neo & Intikhusa to Ashseyami, Needs Neelmaxa 3 and Fone It Sell Karchi Fool Box Proceedings 7 Responses to UPSP 14000 (fixed) No: 0177434093 (dead) Seal dead
+Sentiment(polarity=-0.10000000000000002, subjectivity=0.3333333333333333)
+{'neg': 0.166, 'neu': 0.794, 'pos': 0.041, 'compound': -0.7964}
+
+To sell my samsung glaucoma dosas, ash, whip flush with flip flap, tacha chav, Italian cottage, maid in vietnam, 3 festivities for 18 hours, ash for selling my samsung galaxy sweets, whipped freshenthis warmth flip, Chirp Chav, Italy Tired, Maid in Vietnam, 3 months to buy 18 days, buy Grade 2, so sell 9000 per day, Maid to Bina / Shamsung, to thousands of wellpic utensils, plus rice
+Sentiment(polarity=-0.2, subjectivity=0.35)
+{'neg': 0.04, 'neu': 0.833, 'pos': 0.127, 'compound': 0.7506}
+
+Mobil Bazar is the son of Unhendra on all phones in Meherpur
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I'll sell a MicroMax quadruple Mad AA 94. Used only for 5 months. Box, Charger, I'll sell a MicroMax quartz Mad AA 94. Used only for 5 months. Box, charger, warranty card, headphone, manual, purchase receipt, everything will be given. Buy 9499, now I will sell only 8000. Our customers are being requested to contact us on 01767379535.My adresas are available at Miair Hat, Nesarabad, (Sarukkathi), Pirojpur, Barisal Division, Dhaka, Bangladesh, My Name Mahinapita Nurul Islamgram Ballyadia DubiPost Raja House My Number 01767379535-01818069190 Sie dead
+Sentiment(polarity=-0.15, subjectivity=0.8285714285714286)
+{'neg': 0.122, 'neu': 0.864, 'pos': 0.015, 'compound': -0.886}
+
+I'm not worried about the bad price, but it's more than worth it
+Sentiment(polarity=0.03333333333333338, subjectivity=0.4222222222222222)
+{'neg': 0.137, 'neu': 0.607, 'pos': 0.256, 'compound': 0.241}
+
+I am going to sell my new cot for two months, and I can buy it for 7 months, 017954121100, I can buy a crooler in Bastarat. I am aka Alkatel on tauch sel cel crab sakkham new bridge 2 months ago kiichi kanichi kanichi dham 7200 taka 017954121100 phane Caps will be able to win in the better
+Sentiment(polarity=0.41454545454545455, subjectivity=0.4868181818181818)
+{'neg': 0.0, 'neu': 0.882, 'pos': 0.118, 'compound': 0.7717}
+
+I bought WALPAD 7 on 05-05-2014, 100% full frustrations, and if I was excited with the 11th or the 111th or the 1st year, I would have been excited with the Xperia F, then I was able to sell the wallet on 05-05-2014 and bought 100% FULL If you are interested in using Fresh X2 or V1 or any other version, you can do it with the 11th or 111th, Xperia F, and then look forward to the world.
+Sentiment(polarity=0.296875, subjectivity=0.575)
+{'neg': 0.037, 'neu': 0.844, 'pos': 0.12, 'compound': 0.7003}
+
+Aatantibanloton Pichimo Shellal Koda Hobelesh Shanti Aa Molla Ushad AtteniBolton Pichimo Sheel Koda Hobelesh Shanti Aa Molha Ushad E Wille Give U Avaray Thing Wihat A Phult Chav Pachi-11000 [Fuxed] Manalay Dual Boyce Playa Chalah-017332761734 Sie dead
+Sentiment(polarity=-0.2, subjectivity=0.4)
+{'neg': 0.115, 'neu': 0.885, 'pos': 0.0, 'compound': -0.6486}
+
+I am going to sell Akhta Walton Prix, I am just free, full Fresh Wattle Fluff Box, with the warranty Chargers, only on the Freepiece-8000 Online Zone: 01689788490 Tangail
+Sentiment(polarity=0.19, subjectivity=0.63)
+{'neg': 0.0, 'neu': 0.817, 'pos': 0.183, 'compound': 0.6808}
+
+Walhan caught near Khair. Bettak Than Waltan, I've bought a MicroMax and got caught
+Sentiment(polarity=0.1, subjectivity=0.4)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+How many times did your Microflex model of how much night
+Sentiment(polarity=0.35, subjectivity=0.35)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Cheap Pram S2
+Sentiment(polarity=0.4, subjectivity=0.7)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+How is i phone it
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Bad market
+Sentiment(polarity=-0.6999999999999998, subjectivity=0.6666666666666666)
+{'neg': 0.778, 'neu': 0.222, 'pos': 0.0, 'compound': -0.5423}
+
+It is said that the brother was not happy with the name of his brother, and he was not allowed to marry him. He said, "We have a lot of things to do." No 1 Mahi Aita Dewan Moulin Bin Bin Bhi Bachal Brandy balls 15 Ghaz / 13 Ghaz / 12 Ghaz Chapu Segal is actually 1 Ghaz Chapu and Dulal Chare not only Shamsung, Knock
+Sentiment(polarity=-0.13333333333333333, subjectivity=0.7000000000000001)
+{'neg': 0.08, 'neu': 0.92, 'pos': 0.0, 'compound': -0.6367}
+
+I bought WALPAD 7 on 05-05-2014, 100% full frustrations, and if I was excited with the 11th or the 111th or the 1st year, I would have been excited with the Xperia F, then I was able to sell the wallet on 05-05-2014 and bought 100% FULL If you are interested in using Fresh X2 or V1 or any other version, you can do it with the 11th or 111th, Xperia F, and then look forward to the world.
+Sentiment(polarity=0.296875, subjectivity=0.575)
+{'neg': 0.037, 'neu': 0.844, 'pos': 0.12, 'compound': 0.7003}
+
+Aatantibanloton Pichimo Shellal Koda Hobelesh Shanti Aa Molla Ushad AtteniBolton Pichimo Sheel Koda Hobelesh Shanti Aa Molha Ushad E Wille Give U Avaray Thing Wihat A Phult Chav Pachi-11000 [Fuxed] Manalay Dual Boyce Playa Chalah-017332761734 Sie dead
+Sentiment(polarity=-0.2, subjectivity=0.4)
+{'neg': 0.115, 'neu': 0.885, 'pos': 0.0, 'compound': -0.6486}
+
+Falto Mobil
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Hmmm
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+At the end of the 14th day of the 14th day of the 14th day of the 14th day of the 14th day of the 14th day of the 14th day of the 19th day, there will be a loss of 14,000 to 19 years, and will be played in the playground in Benaznehs A Gifat and Unsayed 12 Ghaz Kuadachar, 1 Gob Rama, Eppspla, 13 Megapixel Rare and 8 Mega Pixels, Frant Chamera, 2600m Battery Warranty Left 1 Yayer Baccheus N On the Warriors, the pitch of the Olympic pitch will be won Everethin Wyatt Boxuktara Chakra Chakra 01622889503 Sie dead
+Sentiment(polarity=0.033333333333333326, subjectivity=0.43333333333333335)
+{'neg': 0.063, 'neu': 0.879, 'pos': 0.058, 'compound': -0.128}
+
+At the end of the 14th day of the 14th day of the 14th day of the 14th day of the 14th day of the 14th day of the 14th day of the 19th day, there will be a loss of 14,000 to 19 years, and will be played in the playground in Benaznehs A Gifat and Unsayed 12 Ghaz Kuadachar, 1 Gob Rama, Eppspla, 13 Megapixel Rare and 8 Mega Pixels, Frant Chamera, 2600m Battery Warranty Left 1 Yayer Baccheus N On the Warriors, the pitch of the Olympic pitch will be won Everethin Wyatt Boxuktara Chakra Chakra 01622889503 Sie dead
+Sentiment(polarity=0.033333333333333326, subjectivity=0.43333333333333335)
+{'neg': 0.063, 'neu': 0.879, 'pos': 0.058, 'compound': -0.128}
+
+19 Responses to Prasheb Chitra in the playlist will be played in the play, will be played on 12 Ghazuddin Kewadchar, 1 Gob Rama, Ips Due to the loss of prize in the play, the player will be playing in the play, Benaznas A Gifat and Unsaid 12 Ghaz Kahadcher, 1 Gob Ram, Eppspla, 13 Megapixel Rare And 8 megapixel franatchara, 2600 mah battery warranty warranty
+Sentiment(polarity=0.0875, subjectivity=0.6375)
+{'neg': 0.031, 'neu': 0.736, 'pos': 0.233, 'compound': 0.9153}
+
+I want to sell my shampoos. I would like to sell mohailatikamam well. There is no problem in the phone. All of the paperwork. I want to sell my shampoos. Even better than the mobile phone price, there is no problem in the phone. There are no problems in the phone. If you want to buy 8500 thousand rupees, contact this number 019256924344 Home Mymensingh Sey dead
+Sentiment(polarity=0.15, subjectivity=0.45)
+{'neg': 0.232, 'neu': 0.611, 'pos': 0.156, 'compound': -0.8491}
+
+I am complimentary and 160 sel kharti ash prive-7500 / -Full freshenes are not suitable N-0174996096
+Sentiment(polarity=0.12499999999999996, subjectivity=0.6)
+{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.4404}
+
+I would like to add 1 cylinders to 100% FULL FRESHMEMADIATALYA, to give the cellulose to the intestine.
+Sentiment(polarity=0.35, subjectivity=0.55)
+{'neg': 0.0, 'neu': 0.857, 'pos': 0.143, 'compound': 0.3612}
+
+It is said that the brother was not happy with the name of his brother, and he was not allowed to marry him. He said, "We have a lot of things to do." No 1 Mahi Aita Dewan Moulin Bin Bin Bhi Bachal Brandy balls 15 Ghaz / 13 Ghaz / 12 Ghaz Chapu Segal is actually 1 Ghaz Chapu and Dulal Chare not only Shamsung, Knock
+Sentiment(polarity=-0.13333333333333333, subjectivity=0.7000000000000001)
+{'neg': 0.08, 'neu': 0.92, 'pos': 0.0, 'compound': -0.6367}
+
+Non-removable trick drops on the same name @michramax
+Sentiment(polarity=0.0, subjectivity=0.125)
+{'neg': 0.146, 'neu': 0.854, 'pos': 0.0, 'compound': -0.0516}
+
+Ajaiara Khaya-dahya and do not missmichramks Champani. So if the price of the phone is taken by the price, then Shamsung, Shan, lag, Hitachi are blaming. Now everyone in Rangpuera Mofiz thinks that the kamazaiya khaya-dahya and do not missmichramax Champani. If the price is taken by the price of the phone, then Shamsung, Shan, Lung, Hitachi are blaming. Do Rangpura Mofiz thinks everyone is the company
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.121, 'neu': 0.879, 'pos': 0.0, 'compound': -0.8316}
+
+Mayabay
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% smile
+Sentiment(polarity=0.3, subjectivity=0.1)
+{'neg': 0.0, 'neu': 0.286, 'pos': 0.714, 'compound': 0.3612}
+
+I bought WALPAD 7 on 05-05-2014, 100% full frustrations, and if I was excited with the 11th or the 111th or the 1st year, I would have been excited with the Xperia F, then I was able to sell the wallet on 05-05-2014 and bought 100% FULL If you are interested in using Fresh X2 or V1 or any other version, you can do it with the 11th or 111th, Xperia F, and then look forward to the world.
+Sentiment(polarity=0.296875, subjectivity=0.575)
+{'neg': 0.037, 'neu': 0.844, 'pos': 0.12, 'compound': 0.7003}
+
+Phone down
+Sentiment(polarity=-0.15555555555555559, subjectivity=0.2888888888888889)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Shamsu Galakshi Shabu Brands Neo & Intintasusha, Ashseyamy Neo Galaxa 3, Fan Te Selkar Karchi Phulk Box Approblemlalaya 7 Diseases Ushpreet 14000 (Fixta) Takaashamsu Galaksya Shaban Brands Neo & Intikhusa to Ashseyami, Needs Neelmaxa 3 and Fone It Sell Karchi Fool Box Proceedings 7 Responses to UPSP 14000 (fixed) No: 0177434093 (dead) Seal dead
+Sentiment(polarity=-0.10000000000000002, subjectivity=0.3333333333333333)
+{'neg': 0.166, 'neu': 0.794, 'pos': 0.041, 'compound': -0.7964}
+
+To sell my samsung glaucoma dosas, ash, whip flush with flip flap, tacha chav, Italian cottage, maid in vietnam, 3 festivities for 18 hours, ash for selling my samsung galaxy sweets, whipped freshenthis warmth flip, Chirp Chav, Italy Tired, Maid In Vietnam, 3 months to 18 years, Ustad, Grand 2 will buy, so sell 9000 taka per month, Maida sina / Shamsung / Sankar Expressia Ch Tehajargun is good Pitch Ushes, Placed in May 01977102100 Dead Sea
+Sentiment(polarity=0.11999999999999997, subjectivity=0.5399999999999999)
+{'neg': 0.082, 'neu': 0.744, 'pos': 0.174, 'compound': 0.7906}
+
+I will sell my Maximus MACS 990 mobile. His good side is that Chamera 8 mega pixel, pent 13, in the Kwaad Chare Possesser End Nail 4 Gab, Ushebal 2 Gazleya Ben 421 If anyone wants to buy I will sell my Maximus Maks 990 mobile. His good side is that Chamera 8 mega pixel, penti 13 kusad chare pasesar intelli nal 4 gab, uşebla 2 gazelle ben 421, please contact, 018125595058/01917887877, 90 days Ustad, Battat 6800 feni, Comilla, Chattras and noakhali, among those They are able to take, Sea dead
+Sentiment(polarity=0.37999999999999995, subjectivity=0.465)
+{'neg': 0.047, 'neu': 0.864, 'pos': 0.089, 'compound': 0.4215}
+
+Phone down
+Sentiment(polarity=-0.15555555555555559, subjectivity=0.2888888888888889)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I bought WALPAD 7 on 05-05-2014, 100% full frustrations, and if I was excited with the 11th or the 111th or the 1st year, I would have been excited with the Xperia F, then I was able to sell the wallet on 05-05-2014 and bought 100% FULL If you are interested in using Fresh X2 or V1 or any other version, you can do it with the 11th or 111th, Xperia F, and then look forward to the world.
+Sentiment(polarity=0.296875, subjectivity=0.575)
+{'neg': 0.037, 'neu': 0.844, 'pos': 0.12, 'compound': 0.7003}
+
+This is the best way to go down here, and you have to go to the flush. Let's see if you want to get a good drink, but you will be able to pay a good amount of money and you will be able to pay them. The problem is that he has a good balance in the middle of the financial year, but he will die in this fashion.
+Sentiment(polarity=0.4382716049382716, subjectivity=0.404320987654321)
+{'neg': 0.145, 'neu': 0.695, 'pos': 0.16, 'compound': 0.0772}
+
+Phone down
+Sentiment(polarity=-0.15555555555555559, subjectivity=0.2888888888888889)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+If one has bought ausaam in a word, please give autumn review please
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.685, 'pos': 0.315, 'compound': 0.5574}
+
+We're waiting for unit 2
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I'm not sure how to call the phone
+Sentiment(polarity=-0.25, subjectivity=0.8888888888888888)
+{'neg': 0.219, 'neu': 0.781, 'pos': 0.0, 'compound': -0.2411}
+
+I will make a samsung galaxy s4 cell. If you want to call 018288625498 .... Price is subject to price
+Sentiment(polarity=-0.16666666666666666, subjectivity=0.3333333333333333)
+{'neg': 0.0, 'neu': 0.929, 'pos': 0.071, 'compound': 0.0772}
+
+Why does Anita 2 come?
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will sell WALL PRINT Foam 2 FULL FRESH FINALLY 7 MONTH UTS FULL BOX GIFT & CAPTCHA 4 GAB MEMORY CHURCH Frypripe-5500 Nitya Chaila Fanayami Walaan Prima F2 will Sell FULL FRESH FEEL 7 FUN FULL BOX DAILY & FIGURES 4 GAB MEMORY CHURDFREEPREVE-5500 NITA SHAILA FANKARUN- 01689054897 Sie dead
+Sentiment(polarity=0.20999999999999996, subjectivity=0.48)
+{'neg': 0.077, 'neu': 0.678, 'pos': 0.245, 'compound': 0.8567}
+
+৪২০০
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Well not good
+Sentiment(polarity=-0.35, subjectivity=0.6000000000000001)
+{'neg': 0.437, 'neu': 0.182, 'pos': 0.381, 'compound': -0.0788}
+
+I want to sell my shampoos. I would like to sell mohailatikamam well. There is no problem in the phone. All of the paperwork. I want to sell my shampoos. Even better than the mobile phone price, there is no problem in the phone. There are no problems in the phone. If you want to buy 8500 thousand rupees, contact this number 019256924344 Home Mymensingh Sey dead
+Sentiment(polarity=0.15, subjectivity=0.45)
+{'neg': 0.232, 'neu': 0.611, 'pos': 0.156, 'compound': -0.8491}
+
+However, the helpline of the Helm's husband, Micrmaks Chawsha 2, was turned off to pay a fine of Tk 120, but it was turned off that he was off, but he did not get the help of Bangladesh and in the field of help, he was getting off to pay the money to his mother. Nah, Fan tah was anindian Bangladesh, and because of the reason for the payment, Aman was saying that Achan Kue
+Sentiment(polarity=0.4166666666666667, subjectivity=0.5)
+{'neg': 0.125, 'neu': 0.822, 'pos': 0.053, 'compound': -0.5892}
+
+I would like to know that I will be able to serve the full amount of water, so that I am not able to have any problems, I am not able to give 11000 deaths, Air Furnace, Sagar Sabbi Dev Feni Numbar-016. I will be able to serve a full-time service. The problem is not 11000 Taka Warranty Chadar, Air Fone, Sagar Sabbir Dev Fane Numbar-01674890520, 01681476972 Sea Die
+Sentiment(polarity=0.16999999999999998, subjectivity=0.61)
+{'neg': 0.131, 'neu': 0.833, 'pos': 0.035, 'compound': -0.7783}
+
+If the set is hot, what will I say is that the skin is rough at the Akhbar
+Sentiment(polarity=0.075, subjectivity=0.625)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+(Jatrabari / Gulshan-2 Dhaka) Moba: 016202031600 I will sell a samsung galaxy s duce (Got-Sh-7562). It has been used for 5 months. Made In Vietnam is worth only Rs 8500. Fan (Jatrabari / Gulshan-2 Dhaka): 016202031600 I will sell a samsung galaxy s duce (Gt-7550). It has been used for 5 months. Madhe in Vietnam is worth only Rs 8500.Funfoam 768mm-165 Gaobchamara 5+ Videishpla 4 "Tought Sey Dead
+Sentiment(polarity=0.07999999999999999, subjectivity=0.52)
+{'neg': 0.068, 'neu': 0.836, 'pos': 0.096, 'compound': -0.0516}
+
+Mechramax will make 2 A 106 Sill 5 Responses to Ustad Fulghesh Paste Club 8500 / Mementung 01734475171
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Shamsu Galakshi Shabu Brands Neo & Intintasusha, Ashseyamy Neo Galaxa 3, Fan Te Selkar Karchi Phulk Box Approblemlalaya 7 Diseases Ushpreet 14000 (Fixta) Takaashamsu Galaksya Shaban Brands Neo & Intikhusa to Ashseyami, Needs Neelmaxa 3 and Fone It Sell Karchi Fool Box Proceedings 7 Responses to UPSP 14000 (fixed) No: 0177434093 (dead) Seal dead
+Sentiment(polarity=-0.10000000000000002, subjectivity=0.3333333333333333)
+{'neg': 0.166, 'neu': 0.794, 'pos': 0.041, 'compound': -0.7964}
+
+To sell my samsung glaucoma dosas, ash, whip flush with flip flap, tacha chav, Italian cottage, maid in vietnam, 3 festivities for 18 hours, ash for selling my samsung galaxy sweets, whipped freshenthis warmth flip, Chirp Chav, Italy Tired, Maid in Vietnam, 3 months to buy 18 days, buy Grade 2, so sell 9000 per day, Maid to Bina / Shamsung, to thousands of wellpic utensils, plus rice
+Sentiment(polarity=-0.2, subjectivity=0.35)
+{'neg': 0.04, 'neu': 0.833, 'pos': 0.127, 'compound': 0.7506}
+
+Visit the new tips and learn new tips every day.
+Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I bought prima and three for two months. Then I will buy 13,500 / i only bought prima and three two months. Then the price was 13,500 / I would only sell at Tk 11000 /. Set Fresh. If someone is interested in buying My Address: Hospital Road, Barisal Mobile: 01714 900839 Dead Sea
+Sentiment(polarity=0.07, subjectivity=0.6799999999999999)
+{'neg': 0.079, 'neu': 0.829, 'pos': 0.092, 'compound': -0.0772}
+
+I'm in the middle of the 9th week, we have a patch on the pitch, and the 24-minute interchangeable shots will be read in the evening.
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I want to sell my shampoos. I would like to sell mohailatikamam well. There is no problem in the phone. All of the paperwork. I want to sell my shampoos. Even better than the mobile phone price, there is no problem in the phone. There are no problems in the phone. If you want to buy 8500 thousand rupees, contact this number 019256924344 Home Mymensingh Sey dead
+Sentiment(polarity=0.15, subjectivity=0.45)
+{'neg': 0.232, 'neu': 0.611, 'pos': 0.156, 'compound': -0.8491}
+
+I would like to know that I will be able to serve the full amount of water, so that I am not able to have any problems, I am not able to give 11000 deaths, Air Furnace, Sagar Sabbi Dev Feni Numbar-016. I will be able to serve a full-time service. The problem is not 11000 Taka Warranty Chadar, Air Fone, Sagar Sabbir Dev Fane Numbar-01674890520, 01681476972 Sea Die
+Sentiment(polarity=0.16999999999999998, subjectivity=0.61)
+{'neg': 0.131, 'neu': 0.833, 'pos': 0.035, 'compound': -0.7783}
+
+Reduce the price of shaishi and Indiëan Dalal prices should be paid by the buffalo
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+If you did not buy the candybabal bark go off the mouth
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Hmm Righat said #Mainul Hassain
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+(Jatrabari / Gulshan-2 Dhaka) Moba: 016202031600 I will sell a samsung galaxy s duce (Got-Sh-7562). It has been used for 5 months. Made In Vietnam is worth only Rs 8500. Fan (Jatrabari / Gulshan-2 Dhaka): 016202031600 I will sell a samsung galaxy s duce (Gt-7550). It has been used for 5 months. Madhe in Vietnam is worth only Rs 8500.Funfoam 768mm-165 Gaobchamara 5+ Videishpla 4 "Tought Sey Dead
+Sentiment(polarity=0.07999999999999999, subjectivity=0.52)
+{'neg': 0.068, 'neu': 0.836, 'pos': 0.096, 'compound': -0.0516}
+
+Hello, I am Tauhidami, I will not have any problem, I will not have any problem, I will not have any problem, I will not have any problem, I will pay Rs. 6500 Artists Sanyam Charmar 2015 Mega Pixels Millions De Pixelsee Vit and Saille Only for Khulna Districts Mr. Moeen-e-01986675078 Siege
+Sentiment(polarity=0.0, subjectivity=1.0)
+{'neg': 0.027, 'neu': 0.797, 'pos': 0.176, 'compound': 0.7672}
+
+Shamsung Galakshya Tub 3 70 to 211 orginallichum kwait, on 15th day, Ose-Osh-Khetakat 442, Dum-1 Gob, Drum 16 Gabanthaan Chem-315, Chakkam Chem 5 can be buried by Egilanal Shamsunshamsung Galaksya Tub 3 70 to 211 orginallichamphum kuaiyat, Onlaya 15th day, Usse Osh -Katkat 442, Dum-1 Gob, Dum 16 Gabanthaan Chem-315, Chakkam Chum 5 Egg, can be taken by Oginalal Shamsung, I'm shocked to make it sel, any jadi kings
+Sentiment(polarity=-0.7, subjectivity=0.8)
+{'neg': 0.035, 'neu': 0.965, 'pos': 0.0, 'compound': -0.3182}
+
+I will sell a WALAN PRICES DX2 Address Naogaon Mobile No. 017209798301851544670 New Mobile Intake is my mobile shop I'm going to go out of the country so I'm selling
+Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
+{'neg': 0.075, 'neu': 0.925, 'pos': 0.0, 'compound': -0.296}
+
+If you have missed the match, I will sell Micrometeus A220, please check out Pricech-4000 1 Gob Rama 8 Gob Dome 5 Mega Chamberlain Jatte Chal-01953450898
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.09, 'neu': 0.816, 'pos': 0.094, 'compound': 0.0258}
+
+I want to sell my shampoos. I would like to sell mohailatikamam well. There is no problem in the phone. All of the paperwork. I want to sell my shampoos. Even better than the mobile phone price, there is no problem in the phone. There are no problems in the phone. If you want to buy 8500 thousand rupees, contact this number 019256924344 Home Mymensingh Sey dead
+Sentiment(polarity=0.15, subjectivity=0.45)
+{'neg': 0.232, 'neu': 0.611, 'pos': 0.156, 'compound': -0.8491}
+
+You can buy 20 Chemistry Hermione Micrmacs A022 Only 20 Responses to Precious -5000 Looks 1 Grama Ram 8 Gob Dome 5 Mega Skin Disease- 01953450898 You Can Sell Only Chemistry Hermione Micromete A220 Only 20 Responses to Precious -5000 Looks 1 Gram Ram 8 Gob Dome 5 Mega Chamber Diseases- 01953450898
+Sentiment(polarity=0.2, subjectivity=1.0)
+{'neg': 0.0, 'neu': 0.856, 'pos': 0.144, 'compound': 0.8126}
+
+I bought one and it's really good
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.0, 'neu': 0.61, 'pos': 0.39, 'compound': 0.4927}
+
+Good
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4404}
+
+(Gulshan-2 Dhaka / 016202031600) I will sell a samsung galaxy. Made In Vietnam Chamber 5+ Ram Rama-768 Dispatch 4 "Toufatak Chakra Chakra only 4 Mwt Us Awat (Gulshan-2 Dhaka / 016202031600) I will sell a samsung galaxy souza. Made In Vietna Chamera 5+ Bhagwan Ram-768 Dispto 4" Toufattaklakchak Only 4 minutes below the hidden value below -7999 free seed dies
+Sentiment(polarity=0.05833333333333334, subjectivity=0.7833333333333334)
+{'neg': 0.0, 'neu': 0.896, 'pos': 0.104, 'compound': 0.6908}
+
+I spent five days before that time, but now we need Arjenta Chowdhury 53000, 01521403812, Lachatiyon, Bagra
+Sentiment(polarity=-0.1, subjectivity=0.1)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+What
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Sheet said it was unbearable
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will set up a Wallant F2 model. I bought the movie 01-11-14. I will set up a Vatan F2 model. I bought the movie for 01-11-14. Only Rs. 6700 is worth. Likshan: Namgatilakshmipur01830-720781 Sea dead
+Sentiment(polarity=0.033333333333333326, subjectivity=0.5)
+{'neg': 0.126, 'neu': 0.819, 'pos': 0.056, 'compound': -0.5267}
+
+(Jatrabari / Gulshan-2 Dhaka) Moba: 016202031600 I will sell a samsung galaxy s duce (Got-Sh-7562). It has been used for 5 months. Made In Vietnam is worth only Rs 8500. Fan (Jatrabari / Gulshan-2 Dhaka): 016202031600 I will sell a samsung galaxy s duce (Gt-7550). It has been used for 5 months. Madhe in Vietnam is worth only Rs 8500.Funfoam 768mm-165 Gaobchamara 5+ Videishpla 4 "Tought Sey Dead
+Sentiment(polarity=0.07999999999999999, subjectivity=0.52)
+{'neg': 0.068, 'neu': 0.836, 'pos': 0.096, 'compound': -0.0516}
+
+To sell my samsung glaucoma dosas, ash, whip flush with flip flap, tacha chav, Italian cottage, maid in vietnam, 3 festivities for 18 hours, ash for selling my samsung galaxy sweets, whipped freshenthis warmth flip, Chirp Chav, Italy Tired, Maid in Vietnam, 3 months to buy 18 days, buy Grade 2, so sell 9000 per day, Maid to Bina / Shamsung, to thousands of wellpic utensils, plus rice
+Sentiment(polarity=-0.2, subjectivity=0.35)
+{'neg': 0.04, 'neu': 0.833, 'pos': 0.127, 'compound': 0.7506}
+
+Dancers are not perfect in the epic Junkbus
+Sentiment(polarity=-0.2, subjectivity=0.7)
+{'neg': 0.3, 'neu': 0.7, 'pos': 0.0, 'compound': -0.4585}
+
+For Sallamamah: Waltan Prize F1 Androd Version: Ech-Chrayam Shandhithe 41 (Upgradian Jungle Beyon) for Sallamamah: Walton Prizes F1 Androd Version: Yich-Chrayam Shandhithe 41 (Upagadayya Jungle Bain) Dia Chamera 5 Mph Witth Aut Fuchus Frant Chamarah 03 Blind: 512 Mm Doom 4 Gavvideo Platonic: 720-1080 Pensile Censors and Google Map: 1500 mahab
+Sentiment(polarity=-0.5, subjectivity=0.6666666666666666)
+{'neg': 0.131, 'neu': 0.76, 'pos': 0.109, 'compound': -0.0772}
+
+Mirpur 11, Dhakai Winters, Saille Mancha, and 86 Seven Educators 100% Fate 1, Chowdhury 7500, Kokirpur 11, Dhakai Winters and Saille Maine, and 86 Seven Ed 100% Fit 1, Utsedpreet 7500, Taqfan: 017715922227
+Sentiment(polarity=0.4, subjectivity=0.4)
+{'neg': 0.138, 'neu': 0.796, 'pos': 0.066, 'compound': -0.4019}
+
+It seems like Pryache seems like a brother
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.5, 'pos': 0.5, 'compound': 0.6124}
+
+Maximus Mux 406 Boot Highth Piece, known as Everthong
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+To sell my samsung glaucoma dosas, ash, whip flush with flip flap, tacha chav, Italian cottage, maid in vietnam, 3 festivities for 18 hours, ash for selling my samsung galaxy sweets, whipped freshenthis warmth flip, Chirp Chav, Italy Tired, Maid in Vietnam, 3 months to buy 18 days, buy Grade 2, so sell 9000 per day, Maid to Bina / Shamsung, to thousands of wellpic utensils, plus rice
+Sentiment(polarity=-0.2, subjectivity=0.35)
+{'neg': 0.04, 'neu': 0.833, 'pos': 0.127, 'compound': 0.7506}
+
+I want to sell my shampoos. I would like to sell mohailatikamam well. There is no problem in the phone. All of the paperwork. I want to sell my shampoos. Even better than the mobile phone price, there is no problem in the phone. There are no problems in the phone. If you want to buy 8500 thousand rupees, contact this number 019256924344 Home Mymensingh Sey dead
+Sentiment(polarity=0.15, subjectivity=0.45)
+{'neg': 0.232, 'neu': 0.611, 'pos': 0.156, 'compound': -0.8491}
+
+However, the helpline of the Helm's husband, Micrmaks Chawsha 2, was turned off to pay a fine of Tk 120, but it was turned off that he was off, but he did not get the help of Bangladesh and in the field of help, he was getting off to pay the money to his mother. Nah, Fan tah was anindian Bangladesh, and because of the reason for the payment, Aman was saying that Achan Kue
+Sentiment(polarity=0.4166666666666667, subjectivity=0.5)
+{'neg': 0.125, 'neu': 0.822, 'pos': 0.053, 'compound': -0.5892}
+
+I would like to know that I will be able to serve the full amount of water, so that I am not able to have any problems, I am not able to give 11000 deaths, Air Furnace, Sagar Sabbi Dev Feni Numbar-016. I will be able to serve a full-time service. The problem is not 11000 Taka Warranty Chadar, Air Fone, Sagar Sabbir Dev Fane Numbar-01674890520, 01681476972 Sea Die
+Sentiment(polarity=0.16999999999999998, subjectivity=0.61)
+{'neg': 0.131, 'neu': 0.833, 'pos': 0.035, 'compound': -0.7783}
+
+(Jatrabari / Gulshan-2 Dhaka) Moba: 016202031600 I will sell a samsung galaxy s duce (Got-Sh-7562). It has been used for 5 months. Made In Vietnam is worth only Rs 8500. Fan (Jatrabari / Gulshan-2 Dhaka): 016202031600 I will sell a samsung galaxy s duce (Gt-7550). It has been used for 5 months. Madhe in Vietnam is worth only Rs 8500.Funfoam 768mm-165 Gaobchamara 5+ Videishpla 4 "Tought Sey Dead
+Sentiment(polarity=0.07999999999999999, subjectivity=0.52)
+{'neg': 0.068, 'neu': 0.836, 'pos': 0.096, 'compound': -0.0516}
+
+Mechramax will make 2 A 106 Sill 5 Responses to Ustad Fulghesh Paste Club 8500 / Mementung 01734475171
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Shamsu Galakshi Shabu Brands Neo & Intintasusha, Ashseyamy Neo Galaxa 3, Fan Te Selkar Karchi Phulk Box Approblemlalaya 7 Diseases Ushpreet 14000 (Fixta) Takaashamsu Galaksya Shaban Brands Neo & Intikhusa to Ashseyami, Needs Neelmaxa 3 and Fone It Sell Karchi Fool Box Proceedings 7 Responses to UPSP 14000 (fixed) No: 0177434093 (dead) Seal dead
+Sentiment(polarity=-0.10000000000000002, subjectivity=0.3333333333333333)
+{'neg': 0.166, 'neu': 0.794, 'pos': 0.041, 'compound': -0.7964}
+
+To sell my samsung glaucoma dosas, ash, whip flush with flip flap, tacha chav, Italian cottage, maid in vietnam, 3 festivities for 18 hours, ash for selling my samsung galaxy sweets, whipped freshenthis warmth flip, Chirp Chav, Italy Tired, Maid in Vietnam, 3 months to buy 18 days, buy Grade 2, so sell 9000 per day, Maid to Bina / Shamsung, to thousands of wellpic utensils, plus rice
+Sentiment(polarity=-0.2, subjectivity=0.35)
+{'neg': 0.04, 'neu': 0.833, 'pos': 0.127, 'compound': 0.7506}
+
+Visit the new tips and learn new tips every day.
+Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I bought prima and three for two months. Then I will buy 13,500 / i only bought prima and three two months. Then the price was 13,500 / I would only sell at Tk 11000 /. Set Fresh. If someone is interested in buying My Address: Hospital Road, Barisal Mobile: 01714 900839 Dead Sea
+Sentiment(polarity=0.07, subjectivity=0.6799999999999999)
+{'neg': 0.079, 'neu': 0.829, 'pos': 0.092, 'compound': -0.0772}
+
+I'm in the middle of the 9th week, we have a patch on the pitch, and the 24-minute interchangeable shots will be read in the evening.
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I want to sell my shampoos. I would like to sell mohailatikamam well. There is no problem in the phone. All of the paperwork. I want to sell my shampoos. Even better than the mobile phone price, there is no problem in the phone. There are no problems in the phone. If you want to buy 8500 thousand rupees, contact this number 019256924344 Home Mymensingh Sey dead
+Sentiment(polarity=0.15, subjectivity=0.45)
+{'neg': 0.232, 'neu': 0.611, 'pos': 0.156, 'compound': -0.8491}
+
+I would like to know that I will be able to serve the full amount of water, so that I am not able to have any problems, I am not able to give 11000 deaths, Air Furnace, Sagar Sabbi Dev Feni Numbar-016. I will be able to serve a full-time service. The problem is not 11000 Taka Warranty Chadar, Air Fone, Sagar Sabbir Dev Fane Numbar-01674890520, 01681476972 Sea Die
+Sentiment(polarity=0.16999999999999998, subjectivity=0.61)
+{'neg': 0.131, 'neu': 0.833, 'pos': 0.035, 'compound': -0.7783}
+
+Reduce the price of shaishi and Indiëan Dalal prices should be paid by the buffalo
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+If you did not buy the candybabal bark go off the mouth
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+(Jatrabari / Gulshan-2 Dhaka) Moba: 016202031600 I will sell a samsung galaxy s duce (Got-Sh-7562). It has been used for 5 months. Made In Vietnam is worth only Rs 8500. Fan (Jatrabari / Gulshan-2 Dhaka): 016202031600 I will sell a samsung galaxy s duce (Gt-7550). It has been used for 5 months. Madhe in Vietnam is worth only Rs 8500.Funfoam 768mm-165 Gaobchamara 5+ Videishpla 4 "Tought Sey Dead
+Sentiment(polarity=0.07999999999999999, subjectivity=0.52)
+{'neg': 0.068, 'neu': 0.836, 'pos': 0.096, 'compound': -0.0516}
+
+Hello, I am Tauhidami, I will not have any problem, I will not have any problem, I will not have any problem, I will not have any problem, I will pay Rs. 6500 Artists Sanyam Charmar 2015 Mega Pixels Millions De Pixelsee Vit and Saille Only for Khulna Districts Mr. Moeen-e-01986675078 Siege
+Sentiment(polarity=0.0, subjectivity=1.0)
+{'neg': 0.027, 'neu': 0.797, 'pos': 0.176, 'compound': 0.7672}
+
+Shamsung Galakshya Tub 3 70 to 211 orginallichum kwait, on 15th day, Ose-Osh-Khetakat 442, Dum-1 Gob, Drum 16 Gabanthaan Chem-315, Chakkam Chem 5 can be buried by Egilanal Shamsunshamsung Galaksya Tub 3 70 to 211 orginallichamphum kuaiyat, Onlaya 15th day, Usse Osh -Katkat 442, Dum-1 Gob, Dum 16 Gabanthaan Chem-315, Chakkam Chum 5 Egg, can be taken by Oginalal Shamsung, I'm shocked to make it sel, any jadi kings
+Sentiment(polarity=-0.7, subjectivity=0.8)
+{'neg': 0.035, 'neu': 0.965, 'pos': 0.0, 'compound': -0.3182}
+
+I will sell a WALAN PRICES DX2 Address Naogaon Mobile No. 017209798301851544670 New Mobile Intake is my mobile shop I'm going to go out of the country so I'm selling
+Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
+{'neg': 0.075, 'neu': 0.925, 'pos': 0.0, 'compound': -0.296}
+
+If you have missed the match, I will sell Micrometeus A220, please check out Pricech-4000 1 Gob Rama 8 Gob Dome 5 Mega Chamberlain Jatte Chal-01953450898
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.09, 'neu': 0.816, 'pos': 0.094, 'compound': 0.0258}
+
+I want to sell my shampoos. I would like to sell mohailatikamam well. There is no problem in the phone. All of the paperwork. I want to sell my shampoos. Even better than the mobile phone price, there is no problem in the phone. There are no problems in the phone. If you want to buy 8500 thousand rupees, contact this number 019256924344 Home Mymensingh Sey dead
+Sentiment(polarity=0.15, subjectivity=0.45)
+{'neg': 0.232, 'neu': 0.611, 'pos': 0.156, 'compound': -0.8491}
+
+You can buy 20 Chemistry Hermione Micrmacs A022 Only 20 Responses to Precious -5000 Looks 1 Grama Ram 8 Gob Dome 5 Mega Skin Disease- 01953450898 You Can Sell Only Chemistry Hermione Micromete A220 Only 20 Responses to Precious -5000 Looks 1 Gram Ram 8 Gob Dome 5 Mega Chamber Diseases- 01953450898
+Sentiment(polarity=0.2, subjectivity=1.0)
+{'neg': 0.0, 'neu': 0.856, 'pos': 0.144, 'compound': 0.8126}
+
+(Gulshan-2 Dhaka / 016202031600) I will sell a samsung galaxy. Made In Vietnam Chamber 5+ Ram Rama-768 Dispatch 4 "Toufatak Chakra Chakra only 4 Mwt Us Awat (Gulshan-2 Dhaka / 016202031600) I will sell a samsung galaxy souza. Made In Vietna Chamera 5+ Bhagwan Ram-768 Dispto 4" Toufattaklakchak Only 4 minutes below the hidden value below -7999 free seed dies
+Sentiment(polarity=0.05833333333333334, subjectivity=0.7833333333333334)
+{'neg': 0.0, 'neu': 0.896, 'pos': 0.104, 'compound': 0.6908}
+
+I spent five days before that time, but now we need Arjenta Chowdhury 53000, 01521403812, Lachatiyon, Bagra
+Sentiment(polarity=-0.1, subjectivity=0.1)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+What
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Sheet said it was unbearable
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will set up a Wallant F2 model. I bought the movie 01-11-14. I will set up a Vatan F2 model. I bought the movie for 01-11-14. Only Rs. 6700 is worth. Likshan: Namgatilakshmipur01830-720781 Sea dead
+Sentiment(polarity=0.033333333333333326, subjectivity=0.5)
+{'neg': 0.126, 'neu': 0.819, 'pos': 0.056, 'compound': -0.5267}
+
+(Jatrabari / Gulshan-2 Dhaka) Moba: 016202031600 I will sell a samsung galaxy s duce (Got-Sh-7562). It has been used for 5 months. Made In Vietnam is worth only Rs 8500. Fan (Jatrabari / Gulshan-2 Dhaka): 016202031600 I will sell a samsung galaxy s duce (Gt-7550). It has been used for 5 months. Madhe in Vietnam is worth only Rs 8500.Funfoam 768mm-165 Gaobchamara 5+ Videishpla 4 "Tought Sey Dead
+Sentiment(polarity=0.07999999999999999, subjectivity=0.52)
+{'neg': 0.068, 'neu': 0.836, 'pos': 0.096, 'compound': -0.0516}
+
+To sell my samsung glaucoma dosas, ash, whip flush with flip flap, tacha chav, Italian cottage, maid in vietnam, 3 festivities for 18 hours, ash for selling my samsung galaxy sweets, whipped freshenthis warmth flip, Chirp Chav, Italy Tired, Maid in Vietnam, 3 months to buy 18 days, buy Grade 2, so sell 9000 per day, Maid to Bina / Shamsung, to thousands of wellpic utensils, plus rice
+Sentiment(polarity=-0.2, subjectivity=0.35)
+{'neg': 0.04, 'neu': 0.833, 'pos': 0.127, 'compound': 0.7506}
+
+Dancers are not perfect in the epic Junkbus
+Sentiment(polarity=-0.2, subjectivity=0.7)
+{'neg': 0.3, 'neu': 0.7, 'pos': 0.0, 'compound': -0.4585}
+
+For Sallamamah: Waltan Prize F1 Androd Version: Ech-Chrayam Shandhithe 41 (Upgradian Jungle Beyon) for Sallamamah: Walton Prizes F1 Androd Version: Yich-Chrayam Shandhithe 41 (Upagadayya Jungle Bain) Dia Chamera 5 Mph Witth Aut Fuchus Frant Chamarah 03 Blind: 512 Mm Doom 4 Gavvideo Platonic: 720-1080 Pensile Censors and Google Map: 1500 mahab
+Sentiment(polarity=-0.5, subjectivity=0.6666666666666666)
+{'neg': 0.131, 'neu': 0.76, 'pos': 0.109, 'compound': -0.0772}
+
+Mirpur 11, Dhakai Winters, Saille Mancha, and 86 Seven Educators 100% Fate 1, Chowdhury 7500, Kokirpur 11, Dhakai Winters and Saille Maine, and 86 Seven Ed 100% Fit 1, Utsedpreet 7500, Taqfan: 017715922227
+Sentiment(polarity=0.4, subjectivity=0.4)
+{'neg': 0.138, 'neu': 0.796, 'pos': 0.066, 'compound': -0.4019}
+
+Maximus Mux 406 Boot Highth Piece, known as Everthong
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+To sell my samsung glaucoma dosas, ash, whip flush with flip flap, tacha chav, Italian cottage, maid in vietnam, 3 festivities for 18 hours, ash for selling my samsung galaxy sweets, whipped freshenthis warmth flip, Chirp Chav, Italy Tired, Maid in Vietnam, 3 months to buy 18 days, buy Grade 2, so sell 9000 per day, Maid to Bina / Shamsung, to thousands of wellpic utensils, plus rice
+Sentiment(polarity=-0.2, subjectivity=0.35)
+{'neg': 0.04, 'neu': 0.833, 'pos': 0.127, 'compound': 0.7506}
+
+(Gulshan-2 Dhaka / 016202031600) I will sell a samsung galaxy. Made In Vietnam Chamber 5+ Ram Rama-768 Dispatch 4 "Toufatak Chakra Chakra only 4 Mwt Us Awat (Gulshan-2 Dhaka / 016202031600) I will sell a samsung galaxy souza. Made In Vietna Chamera 5+ Bhagwan Ram-768 Dispto 4" Toufattaklakchak Only 4 minutes below the hidden value below -7999 free seed dies
+Sentiment(polarity=0.05833333333333334, subjectivity=0.7833333333333334)
+{'neg': 0.0, 'neu': 0.896, 'pos': 0.104, 'compound': 0.6908}
+
+We believe in our love for the world, and we will be blessed with the blessings of God, and we will be blessed with the blessings of God, and we shall be blessed with all things, and we shall be blessed with holy things and with our whole heart, and with all our soul, and with all our heart, and with all their soul, and with all their soul, with all their heart, and with all their soul, with all their heart, and with all their soul; 32 Gabbueweth Yehs, v 40 Ushab Jis, and Uhsab Otginfarrade Nouighit 137 Gmtutus Avalabledisp Late 5 "in the body of the body (1280 px 720 px), the furious Dual Shim Dual Syndrome, and 442 kitakat, in the 15-hour hexa char, 2200 mah Battariya, Aachelmermeer (3d), lighat (Brightness) censor, Proximity censor, Hull censor, gape Wyth A-Gopash, 825mm Thefischer Fresh Worth Arginic Flip Choice Bush Bucksharag, Airfinternational Spread Piece 11000
+Sentiment(polarity=0.2, subjectivity=0.44000000000000006)
+{'neg': 0.068, 'neu': 0.742, 'pos': 0.189, 'compound': 0.9702}
+
+Below On And E Ville Buy It
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+(Jatrabari / Gulshan-2 Dhaka) Moba: 016202031600 I will sell a samsung galaxy s duce (Got-Sh-7562). It has been used for 5 months. Made In Vietnam is worth only Rs 8500. Fan (Jatrabari / Gulshan-2 Dhaka): 016202031600 I will sell a samsung galaxy s duce (Gt-7550). It has been used for 5 months. Madhe in Vietnam is worth only Rs 8500.Funfoam 768mm-165 Gaobchamara 5+ Videishpla 4 "Tought Sey Dead
+Sentiment(polarity=0.07999999999999999, subjectivity=0.52)
+{'neg': 0.068, 'neu': 0.836, 'pos': 0.096, 'compound': -0.0516}
+
+I do not think Micrmaxes and Battersa are beautiful enough to be so beautiful in all directions
+Sentiment(polarity=0.5666666666666667, subjectivity=0.8333333333333334)
+{'neg': 0.0, 'neu': 0.642, 'pos': 0.358, 'compound': 0.8316}
+
+What is the 444 kitkat show?
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Maiya cheman
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+What is the meaning of brother otag
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Chamara dichane how much foul talk salapasanjida
+Sentiment(polarity=0.2, subjectivity=0.2)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+There are in the past.
+Sentiment(polarity=-0.25, subjectivity=0.25)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Yu laughs, but the price has gone higher, Micrmacus A255
+Sentiment(polarity=0.25, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.811, 'pos': 0.189, 'compound': 0.2732}
+
+Yu has lost hope to see my mobile is very liked
+Sentiment(polarity=0.78, subjectivity=1.0)
+{'neg': 0.141, 'neu': 0.491, 'pos': 0.368, 'compound': 0.5709}
+
+Yur Chemnet Heritata kan saath hai is like them
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.762, 'pos': 0.238, 'compound': 0.3612}
+
+Robbers
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Look like rotten eggs
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.423, 'neu': 0.256, 'pos': 0.321, 'compound': -0.2023}
+
+1 in a very bad second, many people have a lot of 47 47. In the first day, there is a lot of bad news in 3 weeks.
+Sentiment(polarity=-0.17199999999999993, subjectivity=0.47333333333333333)
+{'neg': 0.265, 'neu': 0.735, 'pos': 0.0, 'compound': -0.8218}
+
+Hmmm
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+This phone offers a very good service
+Sentiment(polarity=0.505, subjectivity=0.39000000000000007)
+{'neg': 0.0, 'neu': 0.61, 'pos': 0.39, 'compound': 0.4927}
+
+Micrmakkas Chavan Hua Ak 5000 is the mobile phone of this model but after a few days, only additional automatic restorer takes 10-30 times a day after giving the mobile restore function and the work is on. I have a mobile phone of this model but after a few days only the additional automatic restruct It does not work after 10 to 20 times the mobile restore work, and for a few days Then it's okay. Please kindly let me know why. Sea dead
+Sentiment(polarity=0.037499999999999985, subjectivity=0.5125000000000001)
+{'neg': 0.062, 'neu': 0.745, 'pos': 0.192, 'compound': 0.8847}
+
+My phone did not have such a problem
+Sentiment(polarity=0.0, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.727, 'pos': 0.273, 'compound': 0.3089}
+
+Earn from 5 to 10 thousand taka per month only works of shignup. Those who are interested in earning, they can talk through Mubail or Escapee. Molley: 01878931078 Earn money from 25405 to 10 thousand taka earn money per month only. Those who are interested in earning, they can talk through Mubail or Escapee. Mabel: 01878931078 Sakkapaye Akas 2540 Dead Sea
+Sentiment(polarity=0.06, subjectivity=0.6799999999999999)
+{'neg': 0.064, 'neu': 0.855, 'pos': 0.081, 'compound': 0.0258}
+
+My name: Idris Ali, I will sell a mobile, the model is Shamsung galaxy s 5 market prize only 26,000 taka, I will sell only 10000 taka only, my name for details: Idris Ali, I will sell a mobile, model is Shamsung galaxy s5 market prize Only 26,000 taka, I will sell only 10000 taka only, please dial for details: Mabelle 0172
+Sentiment(polarity=0.0, subjectivity=1.0)
+{'neg': 0.0, 'neu': 0.851, 'pos': 0.149, 'compound': 0.836}
+
+I used to store 1800 bottles of oil in the Dishwarya Akon Problem naypriche 600 (fixed prize), I used to store 1800 vials in the field of Dakshit Akon Probleme Naypriche 600 (fixed prize), Lateaton Razendrapur Chaitta, Gazipuranumbar: 0197276878, 016127160891
+Sentiment(polarity=0.1, subjectivity=0.2)
+{'neg': 0.068, 'neu': 0.932, 'pos': 0.0, 'compound': -0.4019}
+
+I want to sell my shampoos. I would like to sell mohailatikamam well. There is no problem in the phone. All of the paperwork. I want to sell my shampoos. Even better than the mobile phone price, there is no problem in the phone. There are no problems in the phone. If you want to buy 8500 thousand rupees, contact this number 019256924344 Home Mymensingh Sey dead
+Sentiment(polarity=0.15, subjectivity=0.45)
+{'neg': 0.232, 'neu': 0.611, 'pos': 0.156, 'compound': -0.8491}
+
+Take care of Ata Achan 10990
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.61, 'pos': 0.39, 'compound': 0.4939}
+
+Canvas Silver 5 does not have Datiles
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will sell Walton Prim Rox 3 phone for the 14/6/15 phone. There is no problem on the phone, the phone is an uneven phone. On the 13000fune 01735643575. I will sell the Wallatum pre rox 3 phone. I'm buying the phone 14/6/15. There is no problem on the phone, the phone is an uneven phone. On 13000 Phane 01735643575 Chitkara Kurigram
+Sentiment(polarity=-0.2, subjectivity=0.2)
+{'neg': 0.154, 'neu': 0.846, 'pos': 0.0, 'compound': -0.8316}
+
+I will sell Walton M phone. There are flowers in philipakarta. Tangail and Manikganj will sell the Bolwalant M phone. There are flowers in philipakarta. Tangail and Manikganj take away from. Prefections: 4300 TPF: 01777663511 Sea dead
+Sentiment(polarity=-0.2, subjectivity=0.4)
+{'neg': 0.115, 'neu': 0.885, 'pos': 0.0, 'compound': -0.6486}
+
+If I'm surprised, I'll try to get 20 more responses for only 20 hours and I will take a look at 5 times. I will get a 5-megapixel spoon. I need Microsex A220 only. Only 20 responses will be taken to the 5000. I will be able to give you 5 months to complete the 5-megapixel phase -01953450898.
+Sentiment(polarity=0.17142857142857146, subjectivity=0.7750000000000001)
+{'neg': 0.0, 'neu': 0.963, 'pos': 0.037, 'compound': 0.2263}
+
+On the phone it is the Andrith 443 kitakat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+A Symphony and 70 sets will be sold. 5 megapixel camera. 2500 Power Battery. Good set. One Symphony and 70 sets will be sold. 5 megapixel camera. 2500 Power Battery. Good Setup: 3000 Taka. Communication 01933468002 Place Negotiable. Your person will give the message. I will call Insha Allah Se killed
+Sentiment(polarity=0.39999999999999997, subjectivity=0.4000000000000001)
+{'neg': 0.083, 'neu': 0.81, 'pos': 0.107, 'compound': 0.0772}
+
+Nokia Lumia 535 for sales 01749743835 launched in May
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.842, 'pos': 0.158, 'compound': 0.128}
+
+Earn from 5 to 10 thousand taka per month only works of shignup. Those who are interested in earning, they can talk through Mubail or Escapee. Molley: 01878931078 Earn money from 25405 to 10 thousand taka earn money per month only. Those who are interested in earning, they can talk through Mubail or Escapee. Mabel: 01878931078 Sakkapaye Akas 2540 Dead Sea
+Sentiment(polarity=0.06, subjectivity=0.6799999999999999)
+{'neg': 0.064, 'neu': 0.855, 'pos': 0.081, 'compound': 0.0258}
+
+Yur Chemmt Hieramer Herriam Lumia 535 to Sell Dev Kon Prablom Nayakhyan 7 month warranty Asha Chash Memon box box All Dia Debuu 7500 Taqi 7000 Neelhe Selle Debenah Rajbari 01 yure Chemnet Herayamro Lumea 535 to Salele Dev Kon Prablam Nayakhan 7 months warranty Asha Chash Memon Box All Dia Debuo 7500 Taques 7000 Nijhe Selel Debnah Rajbari 01789535200 Sey Murray
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+My name: Idris Ali, I will sell a mobile, the model is Shamsung galaxy s 5 market prize only 26,000 taka, I will sell only 10000 taka only, my name for details: Idris Ali, I will sell a mobile, model is Shamsung galaxy s5 market prize Only 26,000 taka, I will sell only 10000 taka only, please dial for details: Mabelle 0172
+Sentiment(polarity=0.0, subjectivity=1.0)
+{'neg': 0.0, 'neu': 0.851, 'pos': 0.149, 'compound': 0.836}
+
+Mikrashtat Lumia 430 Selle rice May 01861400726 Gaibandha
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Walton Prim Ram will sell 2 0171735441 Naogaon
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Old head wasted ....
+Sentiment(polarity=-0.05, subjectivity=0.1)
+{'neg': 0.516, 'neu': 0.484, 'pos': 0.0, 'compound': -0.4939}
+
+I used to store 1800 bottles of oil in the Dishwarya Akon Problem naypriche 600 (fixed prize), I used to store 1800 vials in the field of Dakshit Akon Probleme Naypriche 600 (fixed prize), Lateaton Razendrapur Chaitta, Gazipuranumbar: 0197276878, 016127160891
+Sentiment(polarity=0.1, subjectivity=0.2)
+{'neg': 0.068, 'neu': 0.932, 'pos': 0.0, 'compound': -0.4019}
+
+Ohhere wilhe i gthe here
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I want to sell my shampoos. I would like to sell mohailatikamam well. There is no problem in the phone. All of the paperwork. I want to sell my shampoos. Even better than the mobile phone price, there is no problem in the phone. There are no problems in the phone. If you want to buy 8500 thousand rupees, contact this number 019256924344 Home Mymensingh Sey dead
+Sentiment(polarity=0.15, subjectivity=0.45)
+{'neg': 0.232, 'neu': 0.611, 'pos': 0.156, 'compound': -0.8491}
+
+Earn from 5 to 10 thousand taka per month only works of shignup. Those who are interested in earning, they can talk through Mubail or Escapee. Molley: 01878931078 Earn money from 25405 to 10 thousand taka earn money per month only. Those who are interested in earning, they can talk through Mubail or Escapee. Mabel: 01878931078 Sakkapaye Akas 2540 Dead Sea
+Sentiment(polarity=0.06, subjectivity=0.6799999999999999)
+{'neg': 0.064, 'neu': 0.855, 'pos': 0.081, 'compound': 0.0258}
+
+Yur Chemmt Hieramer Herriam Lumia 535 to Sell Dev Kon Prablom Nayakhyan 7 month warranty Asha Chash Memon box box All Dia Debuu 7500 Taqi 7000 Neelhe Selle Debenah Rajbari 01 yure Chemnet Herayamro Lumea 535 to Salele Dev Kon Prablam Nayakhan 7 months warranty Asha Chash Memon Box All Dia Debuo 7500 Taques 7000 Nijhe Selel Debnah Rajbari 01789535200 Sey Murray
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Down
+Sentiment(polarity=-0.15555555555555559, subjectivity=0.2888888888888889)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+It is very good on the smartphone
+Sentiment(polarity=0.9099999999999999, subjectivity=0.7800000000000001)
+{'neg': 0.0, 'neu': 0.653, 'pos': 0.347, 'compound': 0.4927}
+
+Good phone
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.0, 'neu': 0.256, 'pos': 0.744, 'compound': 0.4404}
+
+I would like to sell Marksmrmkkus Avenue 69 Pipli 3000 / Lachation Mirpur, Dhaka van Nambar: 017724486087
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.848, 'pos': 0.152, 'compound': 0.3612}
+
+I would like to say that Micrmakx would be selling 69th Preiche 3000 / Lachatian Mirpur, Poke
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.848, 'pos': 0.152, 'compound': 0.3612}
+
+২০০০টক
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Tell someone who will be like it
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.706, 'pos': 0.294, 'compound': 0.3612}
+
+Did anyone call the phone?
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Please tell me how will the phone be?
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.753, 'pos': 0.247, 'compound': 0.3182}
+
+What is the phone
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+

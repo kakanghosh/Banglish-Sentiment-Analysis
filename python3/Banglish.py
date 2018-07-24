@@ -27,18 +27,6 @@ def isEnglish(word):
 
 
 
-def sentimentAnalysis(linesCollection):
-    if len(linesCollection.strip()) is not 0:
-        translator = Translator()
-        lines = translator.translate(avro.parse(linesCollection))
-        #print(lines.text)
-        analyze = TextBlob(str(lines.text))
-        textBlobresult.append(analyze.sentiment)
-        #
-        # analyzer = SentimentIntensityAnalyzer()
-        # vs = analyzer.polarity_scores(lines)
-        # vaderSentimentResult.append(vs)
-
 def splitByNewLine(text):
 
     def spliteLine(line):

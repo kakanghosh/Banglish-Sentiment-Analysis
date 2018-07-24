@@ -1,0 +1,200 @@
+Free group messaging, photo messaging, international texting and calling, emoji, sticker and voicemail for the iPhone, this is the only messaging application you can use. For all, free group messaging, photo messaging, international texting and calling for emoticons, emoji , Sticker and voicemail, this is the only messaging app that you can use for 'All Free' signs. Visit: GL / GL / HQ
+Sentiment(polarity=0.17142857142857146, subjectivity=0.6285714285714287)
+{'neg': 0.0, 'neu': 0.775, 'pos': 0.225, 'compound': 0.9429}
+
+Ein eup khad raasheed, All four of them have died
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.286, 'neu': 0.714, 'pos': 0.0, 'compound': -0.5574}
+
+(Way T1) I have been left out of the list of lawyers, in the case of Bangladesh, if you were to see him in the open from there, he would have been arrested on the basis of the crime. , Bechauce If you see him at least from the time, he is in the fate of Minutes Yew. Wear the Dead Sea
+Sentiment(polarity=-0.125, subjectivity=0.325)
+{'neg': 0.161, 'neu': 0.839, 'pos': 0.0, 'compound': -0.8979}
+
+When I was in front of the house, I went to the house where I was in the house and I went out to meet him, and he said to me, "It is not possible for you to take it out of the mouth of the thunder in the wall." If you are out of your hands, you will not be able to take it out of your hands, because it is not possible for you to take care of yourself.
+Sentiment(polarity=0.16666666666666666, subjectivity=0.875)
+{'neg': 0.0, 'neu': 0.96, 'pos': 0.04, 'compound': 0.4939}
+
+Down
+Sentiment(polarity=-0.15555555555555559, subjectivity=0.2888888888888889)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Falto Mobil
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+This mobile is not good
+Sentiment(polarity=-0.35, subjectivity=0.6000000000000001)
+{'neg': 0.376, 'neu': 0.624, 'pos': 0.0, 'compound': -0.3412}
+
+Fone is good
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.4404}
+
+How To Make It Into Mobilia Chemmetsus
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+How To Make It Into Mobilia Chemmetsus
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+How To Make It Into Mobilia Chemmetsus
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Yur Chemthet defeated when he told how he was
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.279, 'neu': 0.721, 'pos': 0.0, 'compound': -0.4767}
+
+How do speed speed and camera
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+C Ahayad Way Brands
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I'll sell a Shamsung galaxy s2. I sent the phone from Singapore. I am using the phone for only one month or nine. There is no problem with the hair on the phone. The phone has been made in Vietnam. China is not writing any place. I've sent a tab for it, so sell it. You will win. Rs 8,599. Aadhaara: Dhaka Division. I will sell a Shamsung galaxy s2. Lesson from Singapore I am using the phone for just a month or so. There is no problem with the hair on the phone. The phone is made in Vietnam. China has not written any place. I have sent a tab for my sale. So sell it. If you buy the phone, you will win Rs 8,599. Dhaka Division.jelamadaripur.upazela.arajair.I am Rajair.Mobile: 017727479466 or 01938492105 dead
+Sentiment(polarity=0.35000000000000003, subjectivity=0.5499999999999999)
+{'neg': 0.101, 'neu': 0.845, 'pos': 0.054, 'compound': -0.6705}
+
+Lulazja fountain
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Yuur chemnet loses down
+Sentiment(polarity=-0.2277777777777778, subjectivity=0.19444444444444448)
+{'neg': 0.434, 'neu': 0.566, 'pos': 0.0, 'compound': -0.3182}
+
+All the things that came in the market have come from less than 100 hours of grape-eating.
+Sentiment(polarity=-0.16666666666666666, subjectivity=0.06666666666666667)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Lie Werth Mabel Chumpy Everi at the Sunny Levy Everina, Chan Chan Chan Chan
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.823, 'pos': 0.177, 'compound': 0.4215}
+
+I'll sell a Shamsung galaxy s2. I sent the phone from Singapore. I am using the phone for only one month or nine. There is no problem with the hair on the phone. The phone has been made in Vietnam. China is not writing any place. I've sent a tab for it, so sell it. You will win. Rs 8,599. Aadhaara: Dhaka Division. I will sell a Shamsung galaxy s2. Lesson from Singapore I am using the phone for just a month or so. There is no problem with the hair on the phone. The phone is made in Vietnam. China has not written any place. I have sent a tab for my sale. So sell it. If you buy the phone, you will win Rs 8,599. Dhaka Division.jelamadaripur.upazela.arajair.I am Rajair.Mobile: 017727479466 or 01938492105 dead
+Sentiment(polarity=0.35000000000000003, subjectivity=0.5499999999999999)
+{'neg': 0.101, 'neu': 0.845, 'pos': 0.054, 'compound': -0.6705}
+
+Good
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4404}
+
+It would not be good to grow the Kubo bad just 1 mile
+Sentiment(polarity=5.551115123125783e-17, subjectivity=0.6333333333333333)
+{'neg': 0.371, 'neu': 0.629, 'pos': 0.0, 'compound': -0.7101}
+
+Pride shows Bubbab Chaud Hav Bein Bettre
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.34}
+
+How will the phone be?
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I used to say that I have a good time and I have a lot of speculation in my voice, and I have a lot of speculation in my voice. I used to say that I have a good time and I have a lot of speculation in my voice. -What is my conservative opinion?
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.0, 'neu': 0.876, 'pos': 0.124, 'compound': 0.7003}
+
+I would like to call them to the common people
+Sentiment(polarity=-0.3, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.762, 'pos': 0.238, 'compound': 0.3612}
+
+Way to the market
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Get the word
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I'll sell a Shamsung galaxy s2. I sent the phone from Singapore. I am using the phone for only one month or nine. There is no problem with the hair on the phone. The phone has been made in Vietnam. China is not writing any place. I've sent a tab for it, so sell it. You will win. Rs 8,599. Aadhaara: Dhaka Division. I will sell a Shamsung galaxy s2. Lesson from Singapore I am using the phone for just a month or so. There is no problem with the hair on the phone. The phone is made in Vietnam. China has not written any place. I have sent a tab for my sale. So sell it. If you buy the phone, you will win Rs 8,599. Dhaka Division.jelamadaripur.upazela.arajair.I am Rajair.Mobile: 017727479466 or 01938492105 dead
+Sentiment(polarity=0.35000000000000003, subjectivity=0.5499999999999999)
+{'neg': 0.101, 'neu': 0.845, 'pos': 0.054, 'compound': -0.6705}
+
+Yur Chemtte defeats Falto Fone
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.365, 'neu': 0.635, 'pos': 0.0, 'compound': -0.3182}
+
+My brother got out
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+A tropical fan
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.303, 'pos': 0.697, 'compound': 0.3182}
+
+What do you mean
+Sentiment(polarity=-0.3125, subjectivity=0.6875)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I'll sell a Shamsung galaxy s2. I sent the phone from Singapore. I am using the phone for only one month or nine. There is no problem with the hair on the phone. The phone has been made in Vietnam. China is not writing any place. I've sent a tab for it, so sell it. You will win. Rs 8,599. Aadhaara: Dhaka Division. I will sell a Shamsung galaxy s2. Lesson from Singapore I am using the phone for just a month or so. There is no problem with the hair on the phone. The phone is made in Vietnam. China has not written any place. I have sent a tab for my sale. So sell it. If you buy the phone, you will win Rs 8,599. Dhaka Division.jelamadaripur.upazela.arajair.I am Rajair.Mobile: 017727479466 or 01938492105 dead
+Sentiment(polarity=0.35000000000000003, subjectivity=0.5499999999999999)
+{'neg': 0.101, 'neu': 0.845, 'pos': 0.054, 'compound': -0.6705}
+
+Is it good on the phone
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Is it good on the phone
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Mobile is thick
+Sentiment(polarity=-0.30000000000000004, subjectivity=0.475)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+It's okay but the music would have been better at 720 x 1080p
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.654, 'pos': 0.346, 'compound': 0.6486}
+
+Halara 4000 mah has written down the fact that all the foul brands
+Sentiment(polarity=-0.15555555555555559, subjectivity=0.2888888888888889)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I am where i am gazipur
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will sell samsung grade 2 016201070255 pre-8000
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I'll sell a Shamsung galaxy s2. I sent the phone from Singapore. I am using the phone for only one month or nine. There is no problem with the hair on the phone. The phone has been made in Vietnam. China is not writing any place. I've sent a tab for it, so sell it. You will win. Rs 8,599. Aadhaara: Dhaka Division. I will sell a Shamsung galaxy s2. Lesson from Singapore I am using the phone for just a month or so. There is no problem with the hair on the phone. The phone is made in Vietnam. China has not written any place. I have sent a tab for my sale. So sell it. If you buy the phone, you will win Rs 8,599. Dhaka Division.jelamadaripur.upazela.arajair.I am Rajair.Mobile: 017727479466 or 01938492105 dead
+Sentiment(polarity=0.35000000000000003, subjectivity=0.5499999999999999)
+{'neg': 0.101, 'neu': 0.845, 'pos': 0.054, 'compound': -0.6705}
+
+Camera quality is absolutely bad. If there is a problem in Pone, it may take more than a month to get the warranty service.
+Sentiment(polarity=-0.09999999999999992, subjectivity=0.5833333333333333)
+{'neg': 0.245, 'neu': 0.755, 'pos': 0.0, 'compound': -0.7574}
+
+Yur Chemmeet Herfalto Mobilie Chowdhury Jainah Hoyer Chemnet Herfalto Mauli Chowda Paawa Zainah Hai Sey Murray
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Chave Paaoa Jaina Sheta is not talking about the phone's perforation
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Zara A Fone has bought it in Tara Playa with a trick, it is called Kamna Perforarmache and Chamera Kualitya Playa
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.062, 'neu': 0.938, 'pos': 0.0, 'compound': -0.0516}
+
+Oyalatana Primer rocks two non interanala or eksateranala Tim 15 manthasa useda & aphacaurase h handeda usedaluka likesa Take oyitha sacrina glasasa pratecataraprice Yum 6000 / - analyamya lacationa Yum Gulistan / nbalatana Primer rocks two non interanala or eksateranala Tim 15 manthasa useda & aphacaurase h handeda usedaluka likesa Take oyitha sacrina glasasa pratecataraprice Ish 6000 / - Only Lachatioan Gul Gulton / Naobpur Roy
+Sentiment(polarity=0.0, subjectivity=1.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Free 2000 Millionaire The Thinking T Will Laughs A Halft Off Liability
+Sentiment(polarity=0.4, subjectivity=0.8)
+{'neg': 0.118, 'neu': 0.458, 'pos': 0.425, 'compound': 0.6908}
+
+There was a lot of fun but everything was there
+Sentiment(polarity=0.3, subjectivity=0.2)
+{'neg': 0.0, 'neu': 0.788, 'pos': 0.212, 'compound': 0.2846}
+
+The soldiers will be in the 5th of the 32500 on the manti 019471261735
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+

@@ -1,0 +1,2724 @@
+I got the phone number Iphone 5 at 01811001011
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.822, 'pos': 0.178, 'compound': 0.0772}
+
+I would like to make ambitious phone calls but I would like to call it 01688139224
+Sentiment(polarity=0.25, subjectivity=0.75)
+{'neg': 0.0, 'neu': 0.609, 'pos': 0.391, 'compound': 0.7227}
+
+How many prize
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.377, 'pos': 0.623, 'compound': 0.5106}
+
+Now it comes to the phone
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I got the phone number Iphone 5 at 01811001011
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.822, 'pos': 0.178, 'compound': 0.0772}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Fate - 01711414951
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Yu Justa Prava Wu
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+I would prefer to have 5 capsules on 01 May, 01743498811
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+The new number of the new cellular launch of E Neon Ifnes
+Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
+{'neg': 0.0, 'neu': 0.885, 'pos': 0.115, 'compound': 0.0772}
+
+01626959000 or Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Bossasaidrahman@gmailchem.com
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I am going to sell a lump sum of 5 to 32 times but if you want 01679265589
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.906, 'pos': 0.094, 'compound': 0.1154}
+
+How long will it be in Priche?
+Sentiment(polarity=-0.05, subjectivity=0.4)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I did not know if I could not eat the fat but I did not know Saad e Like Yue Applele X Mobil Fone
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.129, 'neu': 0.871, 'pos': 0.0, 'compound': -0.395}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+Free group messaging, photo messaging, international texting and calling, emoji, sticker and voicemail for the iPhone, this is the only messaging application you can use. For all, free group messaging, photo messaging, international texting and calling for emoticons, emoji , Sticker and voicemail, this is the only messaging app that you can use for 'All Free' signs. Visit: Die Sey
+Sentiment(polarity=0.17142857142857146, subjectivity=0.6285714285714287)
+{'neg': 0.057, 'neu': 0.799, 'pos': 0.144, 'compound': 0.7184}
+
+Here is the episode 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Airan thinks this is a liability 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.265, 'neu': 0.735, 'pos': 0.0, 'compound': -0.2023}
+
+Eid "Expedition"> Part 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Airan thinks this is a liability 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.265, 'neu': 0.735, 'pos': 0.0, 'compound': -0.2023}
+
+Sea dead
+Sentiment(polarity=-0.2, subjectivity=0.4)
+{'neg': 0.811, 'neu': 0.189, 'pos': 0.0, 'compound': -0.6486}
+
+Here is the episode 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Airan thinks this is a liability 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.265, 'neu': 0.735, 'pos': 0.0, 'compound': -0.2023}
+
+Eid "Expedition"> Part 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Airan thinks this is a liability 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.265, 'neu': 0.735, 'pos': 0.0, 'compound': -0.2023}
+
+Sea dead
+Sentiment(polarity=-0.2, subjectivity=0.4)
+{'neg': 0.811, 'neu': 0.189, 'pos': 0.0, 'compound': -0.6486}
+
+Here is the episode 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Airan thinks this is a liability 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.265, 'neu': 0.735, 'pos': 0.0, 'compound': -0.2023}
+
+Eid "Expedition"> Part 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Airan thinks this is a liability 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.265, 'neu': 0.735, 'pos': 0.0, 'compound': -0.2023}
+
+Sea dead
+Sentiment(polarity=-0.2, subjectivity=0.4)
+{'neg': 0.811, 'neu': 0.189, 'pos': 0.0, 'compound': -0.6486}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+If you have not forgotten why Ramon Bum
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.808, 'pos': 0.192, 'compound': 0.1695}
+
+If you sell 5 or 5fons, you will be able to sell it +8801745459358
+Sentiment(polarity=0.5, subjectivity=0.625)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Chalash Off Runs L 9 Maks Eid Sailxp.16 Chalash Off Runs L 9 Maks Eid Sailxpo: 126 Brewers: 5 Games: 978 Alla Maksalle Level: 9 Kinna Chal Dannumbar: 01992833568 Sie dead
+Sentiment(polarity=-0.2, subjectivity=0.4)
+{'neg': 0.152, 'neu': 0.848, 'pos': 0.0, 'compound': -0.6486}
+
+21000 thousand db, said 01744393424
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will sell my helio s1. I have bought the phone at the last 2103016 14900. For the sake of me, Shamsung has sent alpha from. So, I want to sell the phone. Give it to the phone. I will sell my helio s1 at the time of the camera. I will call the last 2103016 14900 I bought it. I have sent shamsung alpha from i.e. to the phone. So I want to sell the phone. Give it to the phone.Cashmemo and Diva. The phone is on the right side of the phone. The phone's color is white. The phone is very smoother and very thin. There are 13 mega cameras in front of this phone and 8 mega cameras in front. The flush is very very good. There is a Gorilla Glass in front of the other. 4C Network with 16 Gb Phone Memory 2 Gob Dham. 5 "Bill Dipple 51 Lollipop VERSION for charging is 2400 mAh laplum battery. 100% charging time is 75 minutes. Much time is charged. You have everything you need on a mobile phone. This phone is the best phone in the phone. If you want to buy this beautiful phone then contact me. I bought the phone at 12990 taka.
+Sentiment(polarity=0.2546103896103896, subjectivity=0.4203679653679654)
+{'neg': 0.009, 'neu': 0.906, 'pos': 0.085, 'compound': 0.9405}
+
+300 / - (01711414951) If you have your Emel Ead, you will be able to earn 300 rupees (Chash / bKash) - 01711414951. If your Emel Ead will be your idle, then you will be safe. ................ Off to Emery: Off to the Gymnasium: For the safety of the underworld. I will explain the divination of Ku-chistion and its intensity. Sea dead
+Sentiment(polarity=0.26666666666666666, subjectivity=0.5083333333333333)
+{'neg': 0.065, 'neu': 0.807, 'pos': 0.128, 'compound': 0.4767}
+
+Whether it is to be 32,500 sun louns in the 5th of the month, 019472161735 Pabna & Gazipur have no objectionable post
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.099, 'neu': 0.901, 'pos': 0.0, 'compound': -0.296}
+
+I'll do the Lumia 535 for 4 hours. I do not know if the lucky person comes to you now.
+Sentiment(polarity=0.3333333333333333, subjectivity=0.8333333333333334)
+{'neg': 0.0, 'neu': 0.859, 'pos': 0.141, 'compound': 0.4215}
+
+I will sell a Samsung galaxy A8. Ram 2 GB, Internal memory 32GB, Front camera 5 mega, Beck Kemera 16 mega. I will sell a Samsung galaxy A8, RAM 2 GB, Internal memory 32GB, Front camera 5 mega, Beck Kemera 16 Mega Battery Empire, 3050 will get everything in the box, which was in some boxes, price will be 290000 / (1500 thousand five hundred) black color cover cover, bake cover. White color It is almost new to see. Gazipur, adjacent to the National University. 01711716419/01813333777 Seep dead near Sea
+Sentiment(polarity=-0.018614718614718615, subjectivity=0.24112554112554113)
+{'neg': 0.051, 'neu': 0.949, 'pos': 0.0, 'compound': -0.6486}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+After several days, the event was destroyed, and after a few days the event was lost
+Sentiment(polarity=-0.1, subjectivity=0.05)
+{'neg': 0.297, 'neu': 0.703, 'pos': 0.0, 'compound': -0.6705}
+
+I have an Iphone 6S + 64 gab set that has just used one month
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Set the blossom and fill box
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will sell the set 40000
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+If anyone is interested in
+Sentiment(polarity=0.25, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.597, 'pos': 0.403, 'compound': 0.4019}
+
+Contact Us 01788771110 This is one of my iPhone 6S + 64 GAB set I have used only one month
+Sentiment(polarity=0.0, subjectivity=1.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Please contact 01788771110 on this number.
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.521, 'pos': 0.479, 'compound': 0.397}
+
+I have an Iphone 6S + 64 gab set that has just used one month
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Contact Us 01788771110 This is one of my iPhone 6S + 64 GAB set I have used only one month
+Sentiment(polarity=0.0, subjectivity=1.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I have an Iphone 6S + 64 gab set that has just used one month
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Contact Us 01788771110 This is one of my iPhone 6S + 64 GAB set I have used only one month
+Sentiment(polarity=0.0, subjectivity=1.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I'll sell 5 to get a smiling face. I will buy Iphone 7 Flu at the I I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I love the phone so I'll sell it. 01951543416 I will sell 45,000 of the price. I will sell 5 to get a smiling face. I will buy Iphone 7 Flu at the I I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I prefer ifon I will sell it. 01951543416 We will sell 45,000 of the price. By saying this, the price will be reduced. Sea dead
+Sentiment(polarity=0.012499999999999997, subjectivity=0.4375)
+{'neg': 0.087, 'neu': 0.761, 'pos': 0.152, 'compound': 0.7964}
+
+I'll sell 5 to get a smiling face. Only 15 levels will buy Iphone 7 Plus. I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I love the phone so I'll sell it. 01951543416 We will sell the price of 50000. I will sell 5 to get a smiling face. Only 15 levels will buy Iphone 7 Plus. I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I prefer to buy it so I will sell it. 01951543416 We will sell the price of 50000. By saying, the price will be reduced. Sea dead
+Sentiment(polarity=0.008333333333333331, subjectivity=0.625)
+{'neg': 0.039, 'neu': 0.812, 'pos': 0.15, 'compound': 0.9062}
+
+I'll sell 5 to get a smiling face. I will buy 7 phones at the Iphone 7 only. I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I love ifon I'll sell it. 01951543416 We will sell the price of 60000. I will sell 5 to get a smiling face. I will buy 7 phones at the Iphone 7 only. I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I love ifon I'll sell it. 01951543416 We will sell the price of 60000. By saying something, the price will be reduced. Sea dead
+Sentiment(polarity=0.07857142857142858, subjectivity=0.6214285714285716)
+{'neg': 0.039, 'neu': 0.772, 'pos': 0.189, 'compound': 0.9477}
+
+I am very happy that I am not able to do anything because I am very happy, but I am very happy to do it. 01725449322
+Sentiment(polarity=0.6875, subjectivity=0.90625)
+{'neg': 0.0, 'neu': 0.644, 'pos': 0.356, 'compound': 0.8881}
+
+If I am between 6 am and 64 gabatak 20000 / - then I am going to have two ammunition fumar shamsu j 7 a
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+How to earn a lot from affiliate marketing
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+Aak said it was better than Ayan Chahan 2 years ago
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.4404}
+
+And because of the good smile gulaxa 6 is good
+Sentiment(polarity=0.5666666666666667, subjectivity=0.4333333333333334)
+{'neg': 0.0, 'neu': 0.42, 'pos': 0.58, 'compound': 0.8074}
+
+Fad
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.2263}
+
+In the 5th of the month, 32,500 will be slaughtered. 016472161735 Whether to be in Pabnaagaypur Shorem
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Brother-brother, like you, I love Chashpute's love. So hopefully your help is available. Brother-in-law, like you, I feel like I love you. So hopefully your help is available. I use it on an iphone & patch, Ioos and Mach operating a lot understand. I have a bushache. Boostinas in Eid / Itunes Eid Finding some money as unemployed. It is here, sales.com, that's where I left my four friends. The request is that we invite you to buy your id from Apulle (Ifne, Ipad, Ethip) Usus from me. Although know that the affair is 100% commercial. Here it is probably a humana Also, like many others, this is my Bushinashshasha, you will get promotional help just like brothers and sisters. Your iPhone, you do not have to download the application, just open the ID for the price of 200 rupees, within 2 hours, please tell me about the problem of any type of delivery phone in Phone- 01711414951. Follow me on 100% Trufest Servech ProviderFacebook: Yue Sea dies
+Sentiment(polarity=0.3111111111111111, subjectivity=0.4)
+{'neg': 0.014, 'neu': 0.733, 'pos': 0.253, 'compound': 0.9919}
+
+Oh sk lemon key ball
+Sentiment(polarity=0.0, subjectivity=1.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I have it and Iphone 5 is there
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+My taniya jaio 16500 5000 If yes, the numerator
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.748, 'pos': 0.252, 'compound': 0.4019}
+
+I can do 8+ or 8+ hours on 7+
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+If you want to do 6 times, you will be able to squeeze. 45 in If you need a new information form, please contact 01985909091
+Sentiment(polarity=0.3181818181818182, subjectivity=0.5397727272727273)
+{'neg': 0.0, 'neu': 0.854, 'pos': 0.146, 'compound': 0.3818}
+
+I'll sell 5 to get a smiling face. I will buy 7 phones at the Iphone 7 only. I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I love ifon I'll sell it. 01951543416 We will sell the price of 60000. I will sell 5 to get a smiling face. I will buy 7 phones at the Iphone 7 only. I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I love ifon I'll sell it. 01951543416 We will sell the price of 60000. By saying something, the price will be reduced. Sea dead
+Sentiment(polarity=0.07857142857142858, subjectivity=0.6214285714285716)
+{'neg': 0.039, 'neu': 0.772, 'pos': 0.189, 'compound': 0.9477}
+
+If you want to take 6 capsules on the phone, please take a leaf please 01985909091 Numbera
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.67, 'pos': 0.33, 'compound': 0.5994}
+
+I'll sell a Shamsung galaxy s2. I sent the phone from Singapore. I am using the phone for only one month or nine. There is no problem with the hair on the phone. The phone has been made in Vietnam. China is not writing any place. I've sent a tab for it, so sell it. You will win. Rs 8,599. Aadhaara: Dhaka Division. I will sell a Shamsung galaxy s2. Lesson from Singapore I am using the phone for just a month or so. There is no problem with the hair on the phone. The phone is made in Vietnam. China has not written any place. I have sent a tab for my sale. So sell it. If you buy the phone, you will win Rs 8,599. Dhaka Division.jelamadaripur.upazela.arajair.I am Rajair.Mobile: 017727479466 or 01938492105 dead
+Sentiment(polarity=0.35000000000000003, subjectivity=0.5499999999999999)
+{'neg': 0.101, 'neu': 0.845, 'pos': 0.054, 'compound': -0.6705}
+
+Brother Iphone, Amak, I have been in my Via Pitaiseaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa. I do not understand what I do, but I would like to think about the price of 01764622552. I will sell the jaba to talk about it.
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.905, 'pos': 0.095, 'compound': 0.5023}
+
+How much will it cost?
+Sentiment(polarity=0.2, subjectivity=0.2)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Running off the road l 9max eed selxpo 119 Running off the wheel of the l 9 mux eed selxpo 119 119. The bollards in the game: 5 Games 1103 Kings: 10 Qune 9Wall Valley 8th and 9th level F2FFLC May 01992833568
+Sentiment(polarity=-0.4, subjectivity=0.4)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Shamsung galaksya 2 saral ki 2 gab dama 32 gab seit marya 3100 baksharipri fixtures 13000 people do not have any problems, but I do not have any problem in this way. I will give you two things to do as well as possible. I do not know if you have a problem of 32,000 points. In order to get rid of fat, I am not able to take it, but I am not able to take it.
+Sentiment(polarity=-0.16666666666666666, subjectivity=0.75)
+{'neg': 0.0, 'neu': 0.868, 'pos': 0.132, 'compound': 0.8423}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+I'll have an iPhone 2
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+If you have 4 or 4 cylinders, please give us 01911015675
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.777, 'pos': 0.223, 'compound': 0.3182}
+
+If you have 4 or 4 cylinders, please give us 01911015675
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.777, 'pos': 0.223, 'compound': 0.3182}
+
+Shello kumphulla box with offensive warranty 10 mo 01911339903
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.273, 'neu': 0.727, 'pos': 0.0, 'compound': -0.4588}
+
+There is no speculation on how many muscles in the prich
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.18, 'neu': 0.82, 'pos': 0.0, 'compound': -0.296}
+
+I'll do my cell phone at 16 times
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I'll sail 9a
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will buy Amani to sell Jadi
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+০১৯১২১৮৫৪৩৫
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Apple started the Eid 50 / Smas +8801724043557
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will sell the Iphone 5 blancerFraseTradeTranslationConstructionPlan 01737738119 Lachatian Moulvibazar
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+I will sell an ifon 5 16 gal orginal phone price of 20000 taka mobile 01771941727
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Get 10000
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+If you sell 5 or 5fons, you will be able to sell it +8801745459358
+Sentiment(polarity=0.5, subjectivity=0.625)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will sell an ifon 5 one month using 01814325336 Chittagong Nasira excluded
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.194, 'neu': 0.806, 'pos': 0.0, 'compound': -0.34}
+
+How much to sell
+Sentiment(polarity=0.2, subjectivity=0.2)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+On the phone, Navy Blue is running,
+Sentiment(polarity=0.0, subjectivity=0.1)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+০১৮৫২৮৫১৩৬৩
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Chalak 01611818191
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+How much to sell
+Sentiment(polarity=0.2, subjectivity=0.2)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+How long did it take?
+Sentiment(polarity=-0.05, subjectivity=0.4)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+Effan will be 5 shells, wishing to do corrosion, Tara I am a cankid 01776971885
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.853, 'pos': 0.147, 'compound': 0.2263}
+
+How much is the iPhone 5S 32 GHP in Bangladesh
+Sentiment(polarity=0.2, subjectivity=0.2)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+A
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+
+Anyone selling iPhone 5S + 8801745249358
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+If you have someone on the cell phone please, please 01631866632, Chamilla / Dhaka Lachatioon
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.723, 'pos': 0.277, 'compound': 0.5574}
+
+Iphone 5 I am the perfect bust and Fool Neo Fone
+Sentiment(polarity=1.0, subjectivity=1.0)
+{'neg': 0.213, 'neu': 0.515, 'pos': 0.272, 'compound': 0.2023}
+
+Want to sell Amp F1 Plus at 30,000 / -
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.843, 'pos': 0.157, 'compound': 0.0772}
+
+I will sell my helio s1. I have bought the phone at the last 2103016 14900. For the sake of me, Shamsung has sent alpha from. So, I want to sell the phone. Give it to the phone. I will sell my helio s1 at the time of the camera. I will call the last 2103016 14900 I bought it. I have sent shamsung alpha from i.e. to the phone. So I want to sell the phone. Give it to the phone.Cashmemo and Diva. The phone is on the right side of the phone. The phone's color is white. The phone is very smoother and very thin. There are 13 mega cameras in front of this phone and 8 mega cameras in front. The flush is very very good. There is a Gorilla Glass in front of the other. 4C Network with 16 Gb Phone Memory 2 Gob Dham. 5 "Bill Dipple 51 Lollipop VERSION for charging is 2400 mAh laplum battery. 100% charging time is 75 minutes. Much time is charged. You have everything you need on a mobile phone. This phone is the best phone in the phone. If you want to buy this beautiful phone then contact me. I bought the phone at 12990 taka.
+Sentiment(polarity=0.2546103896103896, subjectivity=0.4203679653679654)
+{'neg': 0.009, 'neu': 0.906, 'pos': 0.085, 'compound': 0.9405}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+I will sell someone 7
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+TiPhone 7 Taka 35000 Mb 01920899799 Tangi
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I Phone 5 Talk 12000 Tangi May 01920899799
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Hmmm 5 32 We will sell the cow
+Sentiment(polarity=-0.13333333333333333, subjectivity=0.16666666666666666)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+In the phone 5 to 16 hours 12000 taka 01920899799 Tongi
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I'll sell a Shamsung galaxy s2. I sent the phone from Singapore. I am using the phone for only one month or nine. There is no problem with the hair on the phone. The phone has been made in Vietnam. China is not writing any place. I've sent a tab for it, so sell it. You will win. Rs 8,599. Aadhaara: Dhaka Division. I will sell a Shamsung galaxy s2. Lesson from Singapore I am using the phone for just a month or so. There is no problem with the hair on the phone. The phone is made in Vietnam. China has not written any place. I have sent a tab for my sale. So sell it. If you buy the phone, you will win Rs 8,599. Dhaka Division.jelamadaripur.upazela.arajair.I am Rajair.Mobile: 017727479466 or 01938492105 dead
+Sentiment(polarity=0.35000000000000003, subjectivity=0.5499999999999999)
+{'neg': 0.101, 'neu': 0.845, 'pos': 0.054, 'compound': -0.6705}
+
+Down in the market
+Sentiment(polarity=-0.15555555555555559, subjectivity=0.2888888888888889)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Running off the road l 9max eed selxpo 119 Running off the wheel of the l 9 mux eed selxpo 119 119. The bollards in the game: 5 Games 1103 Kings: 10 Qune 9Wall Valley 8th and 9th level F2FFLC May 01992833568
+Sentiment(polarity=-0.4, subjectivity=0.4)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+I'll sell 5 to get a smiling face. I will buy Iphone 7 Flu at the I I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I love the phone so I'll sell it. 01951543416 I will sell 45,000 of the price. I will sell 5 to get a smiling face. I will buy Iphone 7 Flu at the I I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I prefer ifon I will sell it. 01951543416 We will sell 45,000 of the price. By saying this, the price will be reduced. Sea dead
+Sentiment(polarity=0.012499999999999997, subjectivity=0.4375)
+{'neg': 0.087, 'neu': 0.761, 'pos': 0.152, 'compound': 0.7964}
+
+Shello kumphulla box with offensive warranty 10 mo 01911339903
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.273, 'neu': 0.727, 'pos': 0.0, 'compound': -0.4588}
+
+Good luck with a good amount of money
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.8316}
+
+I'll sell 5 to get a smiling face. Only 15 levels will buy Iphone 7 Plus. I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I love the phone so I'll sell it. 01951543416 We will sell the price of 50000. I will sell 5 to get a smiling face. Only 15 levels will buy Iphone 7 Plus. I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I prefer to buy it so I will sell it. 01951543416 We will sell the price of 50000. By saying, the price will be reduced. Sea dead
+Sentiment(polarity=0.008333333333333331, subjectivity=0.625)
+{'neg': 0.039, 'neu': 0.812, 'pos': 0.15, 'compound': 0.9062}
+
+I'll sell 5 to get a smiling face. I will buy 7 phones at the Iphone 7 only. I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I love ifon I'll sell it. 01951543416 We will sell the price of 60000. I will sell 5 to get a smiling face. I will buy 7 phones at the Iphone 7 only. I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I love ifon I'll sell it. 01951543416 We will sell the price of 60000. By saying something, the price will be reduced. Sea dead
+Sentiment(polarity=0.07857142857142858, subjectivity=0.6214285714285716)
+{'neg': 0.039, 'neu': 0.772, 'pos': 0.189, 'compound': 0.9477}
+
+I Went T Saille 5, Started 019191993535
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I'll sell a Shamsung galaxy s2. I sent the phone from Singapore. I am using the phone for only one month or nine. There is no problem with the hair on the phone. The phone has been made in Vietnam. China is not writing any place. I've sent a tab for it, so sell it. You will win. Rs 8,599. Aadhaara: Dhaka Division. I will sell a Shamsung galaxy s2. Lesson from Singapore I am using the phone for just a month or so. There is no problem with the hair on the phone. The phone is made in Vietnam. China has not written any place. I have sent a tab for my sale. So sell it. If you buy the phone, you will win Rs 8,599. Dhaka Division.jelamadaripur.upazela.arajair.I am Rajair.Mobile: 017727479466 or 01938492105 dead
+Sentiment(polarity=0.35000000000000003, subjectivity=0.5499999999999999)
+{'neg': 0.101, 'neu': 0.845, 'pos': 0.054, 'compound': -0.6705}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+Shamsung galaksya 2 saral ki 2 gab dama 32 gab seit marya 3100 baksharipri fixtures 13000 people do not have any problems, but I do not have any problem in this way. I will give you two things to do as well as possible. I do not know if you have a problem of 32,000 points. In order to get rid of fat, I am not able to take it, but I am not able to take it.
+Sentiment(polarity=-0.16666666666666666, subjectivity=0.75)
+{'neg': 0.0, 'neu': 0.868, 'pos': 0.132, 'compound': 0.8423}
+
+I will take 2 slabs for 2 hours and 3 times in the morning. If you do not have any problem, then I will take 13000 rupees in memory. If I do not have any problem then I will take it and I will give it 2 times I will do this. I do not want to take it, but Gita is not like that, but I do not want to do it. But I do not want to do it (017977268206).
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.089, 'neu': 0.867, 'pos': 0.045, 'compound': -0.2924}
+
+I will take 2 slabs for 2 hours and 3 times in the morning. If you do not have any problem, then I will take 13000 rupees in memory. If I do not have any problem then I will take it and I will give it 2 times I will do this. I do not want to take it, but Gita is not like that, but I do not want to do it. But I do not want to do it (017977268206).
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.089, 'neu': 0.867, 'pos': 0.045, 'compound': -0.2924}
+
+If anyone sells the iPhone 6 serials, contact Ruhat 36@unnimailcham. I'm willing to buy.
+Sentiment(polarity=0.25, subjectivity=0.75)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will sell my helio s1. I have bought the phone at the last 2103016 14900. For the sake of me, Shamsung has sent alpha from. So, I want to sell the phone. Give it to the phone. I will sell my helio s1 at the time of the camera. I will call the last 2103016 14900 I bought it. I have sent shamsung alpha from i.e. to the phone. So I want to sell the phone. Give it to the phone.Cashmemo and Diva. The phone is on the right side of the phone. The phone's color is white. The phone is very smoother and very thin. There are 13 mega cameras in front of this phone and 8 mega cameras in front. The flush is very very good. There is a Gorilla Glass in front of the other. 4C Network with 16 Gb Phone Memory 2 Gob Dham. 5 "Bill Dipple 51 Lollipop VERSION for charging is 2400 mAh laplum battery. 100% charging time is 75 minutes. Much time is charged. You have everything you need on a mobile phone. This phone is the best phone in the phone. If you want to buy this beautiful phone then contact me. I bought the phone at 12990 taka.
+Sentiment(polarity=0.2546103896103896, subjectivity=0.4203679653679654)
+{'neg': 0.009, 'neu': 0.906, 'pos': 0.085, 'compound': 0.9405}
+
+I will sell my helio s1. I have bought the phone at the last 2103016 14900. For the sake of me, Shamsung has sent alpha from. So, I want to sell the phone. Give it to the phone. I will sell my helio s1 at the time of the camera. I will call the last 2103016 14900 I bought it. I have sent shamsung alpha from i.e. to the phone. So I want to sell the phone. Give it to the phone.Cashmemo and Diva. The phone is on the right side of the phone. The phone's color is white. The phone is very smoother and very thin. There are 13 mega cameras in front of this phone and 8 mega cameras in front. The flush is very very good. There is a Gorilla Glass in front of the other. 4C Network with 16 Gb Phone Memory 2 Gob Dham. 5 "Bill Dipple 51 Lollipop VERSION for charging is 2400 mAh laplum battery. 100% charging time is 75 minutes. Much time is charged. You have everything you need on a mobile phone. This phone is the best phone in the phone. If you want to buy this beautiful phone then contact me. I bought the phone at 12990 taka.
+Sentiment(polarity=0.2546103896103896, subjectivity=0.4203679653679654)
+{'neg': 0.009, 'neu': 0.906, 'pos': 0.085, 'compound': 0.9405}
+
+300 / - (01711414951) If you have your Emel Ead, you will be able to earn 300 rupees (Chash / bKash) - 01711414951. If your Emel Ead will be your idle, then you will be safe. ................ Off to Emery: Off to the Gymnasium: For the safety of the underworld. I will explain the divination of Ku-chistion and its intensity. Sea dead
+Sentiment(polarity=0.26666666666666666, subjectivity=0.5083333333333333)
+{'neg': 0.065, 'neu': 0.807, 'pos': 0.128, 'compound': 0.4767}
+
+I Love This Fun
+Sentiment(polarity=0.4, subjectivity=0.4)
+{'neg': 0.0, 'neu': 0.118, 'pos': 0.882, 'compound': 0.8176}
+
+Whether it is to be 32,500 rooms in the 5th position, 019472161735, Pabna & Gazipur,
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+Samsonung 7 can be cured if you do not have it, but you can add 01772711912
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Anyone selling iPhone 5S + 8801745249358
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Akita Shamsung Galakshi Shaw 7 will be sold for 100% (orginalis) by Free Doubi Bani Bhaya Pathaiya Chama Shamsung Galakshi Shaila 7 (Molasses) will be sold at 100% Free Doubi Bani Bhai in Patna, in Patiyejustast 1, Ushad, Bhi Mathshette Aank Problem / Sachatrecha Nayapramiyaat According to Dami Mobil Ammur, the sale of a grandson will be Rs 56000 (Value Added) number 0186
+Sentiment(polarity=0.4, subjectivity=0.8)
+{'neg': 0.041, 'neu': 0.838, 'pos': 0.12, 'compound': 0.6369}
+
+If you sell 6 copies, you can contact 01796202040
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will sell 4 to seven times in seven days. If you do not have to pay Rs. 8000 in cash, you will have to pay Rs. 8000 to get the money. 01610987182. I will sell 4 to your manganiganghami samsung galaksya 7. I do not want to eat it. 28000 Hazar kao kintita khaila khila chal me noam 01610987182 Dissaman Mimensigong Sea dead
+Sentiment(polarity=-0.2, subjectivity=0.4)
+{'neg': 0.087, 'neu': 0.871, 'pos': 0.041, 'compound': -0.6033}
+
+I'll sack iPhone 6 plus 16 gabs and fill 35000 plus Fresh Fresh
+Sentiment(polarity=0.3, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.685, 'pos': 0.315, 'compound': 0.5574}
+
+Sala Fahinhi Shob Jaggaa Aad dich (Bichrochamam) is placed in the table with the help of Fahinini
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.856, 'pos': 0.144, 'compound': 0.4019}
+
+Whether it is to be 32,500 rooms in the 5th Dulal (3-1-2016) Problem No Waat & Dustffee Pabna & Gazipur 019472161735
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.224, 'neu': 0.776, 'pos': 0.0, 'compound': -0.5994}
+
+If you sell any iPhone 6S Plus, please let me know
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.813, 'pos': 0.187, 'compound': 0.3182}
+
+ROL 128 would be gov
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Chal- + 8801685474030
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+Running off the road l 9max eed selxpo 119 Running off the wheel of the l 9 mux eed selxpo 119 119. The bollards in the game: 5 Games 1103 Kings: 10 Qune 9Wall Valley 8th and 9th level F2FFLC May 01992833568
+Sentiment(polarity=-0.4, subjectivity=0.4)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will take 2 slabs for 2 hours and 3 times in the morning. If you do not have any problem, then I will take 13000 rupees in memory. If I do not have any problem then I will take it and I will give it 2 times I will do this. I do not want to take it, but Gita is not like that, but I do not want to do it. But I do not want to do it (017977268206).
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.089, 'neu': 0.867, 'pos': 0.045, 'compound': -0.2924}
+
+I will take 2 slabs for 2 hours and 3 times in the morning. If you do not have any problem, then I will take 13000 rupees in memory. If I do not have any problem then I will take it and I will give it 2 times I will do this. I do not want to take it, but Gita is not like that, but I do not want to do it. But I do not want to do it (017977268206).
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.089, 'neu': 0.867, 'pos': 0.045, 'compound': -0.2924}
+
+Yure Chemmante Hercidine Why is it possible to sell 5 to 5 but it is not possible.
+Sentiment(polarity=0.0, subjectivity=1.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Below the phone, I am the master of the sutan
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+If you want to buy this phone, please tell me how will you want to buy this phone. If you want to buy this phone, please tell me how will you know: Farifatmiankala-SherpurMobile: -01937350656
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.773, 'pos': 0.227, 'compound': 0.6705}
+
+Mofizar Bachcha Todar Boora Pataias Amee Deemu
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+Josta Joss Ekata Phone
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+Anyone selling iPhone 5S + 8801745249358
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will be able to do it in 15500 by the same time, in Singapore only 4 months, I do not have to do any kind of work, but I can take Fresh Chanditio for the reason. I will take it for 6 years, I will take it to the chorus 01859411399 Chal or Smas Karantkanta Waii Phane I will do fifteen hundred rupees in Singapore just 4 months away, do not forget to take Chulitya's new vault and not frresh Chanditio. The reason I am eksipane 6 Ise cree vera need to take jodi 01859411399 Chal or smash karantakta u
+Sentiment(polarity=0.2560606060606061, subjectivity=0.6007575757575757)
+{'neg': 0.0, 'neu': 0.946, 'pos': 0.054, 'compound': 0.6058}
+
+300 / - (01711414951) If you have your Emel Ead, you will be able to earn 300 rupees (Chash / bKash) - 01711414951. If your Emel Ead will be your idle, then you will be safe. ................ Off to Emery: Off to the Gymnasium: For the safety of the underworld. I will explain the divination of Ku-chistion and its intensity. Sea dead
+Sentiment(polarity=0.26666666666666666, subjectivity=0.5083333333333333)
+{'neg': 0.065, 'neu': 0.807, 'pos': 0.128, 'compound': 0.4767}
+
+E fone 5 F is a beautiful flower
+Sentiment(polarity=0.85, subjectivity=1.0)
+{'neg': 0.0, 'neu': 0.435, 'pos': 0.565, 'compound': 0.5994}
+
+Brushed it
+Sentiment(polarity=0.0, subjectivity=0.1)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Use iPhone, iPod, MacBook or iPad, but can not download any shells / Applesychology phone: 01711414951 Your iPhone is not able to download the application, just open the ID for 100 rupees, you will need a Gmail id, beware of cheating, iPhone, Use iPod, MacBook or iPad, but can not download any shells / Applesychology phone: 0 1711414951 You do not have to download the application, you can not download the application, just open the ID in exchange for 100 rupees, you will need a Gmail id, beware of cheating, delivery software can tell me about any kind of software problem within 2 hours, 100% Trufest Serveze Die
+Sentiment(polarity=0.0875, subjectivity=0.63125)
+{'neg': 0.16, 'neu': 0.84, 'pos': 0.0, 'compound': -0.967}
+
+So, I would like to give asylum to Jebel (Jasser + Satkhira)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.764, 'pos': 0.236, 'compound': 0.4173}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+Who can buy me (frustration)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Who can buy me (frustration)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Who can buy me (frustration)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Who can buy me (frustration)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Who can buy me (frustration)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I'll sell 5 to get a smiling face. I will buy 7 phones at the Iphone 7 only. I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I love ifon I'll sell it. 01951543416 We will sell the price of 60000. I will sell 5 to get a smiling face. I will buy 7 phones at the Iphone 7 only. I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I love ifon I'll sell it. 01951543416 We will sell the price of 60000. By saying something, the price will be reduced. Sea dead
+Sentiment(polarity=0.07857142857142858, subjectivity=0.6214285714285716)
+{'neg': 0.039, 'neu': 0.772, 'pos': 0.189, 'compound': 0.9477}
+
+That's 1 way
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will take 2 slabs for 2 hours and 3 times in the morning. If you do not have any problem, then I will take 13000 rupees in memory. If I do not have any problem then I will take it and I will give it 2 times I will do this. I do not want to take it, but Gita is not like that, but I do not want to do it. But I do not want to do it (017977268206).
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.089, 'neu': 0.867, 'pos': 0.045, 'compound': -0.2924}
+
+I will take 2 slabs for 2 hours and 3 times in the morning. If you do not have any problem, then I will take 13000 rupees in memory. If I do not have any problem then I will take it and I will give it 2 times I will do this. I do not want to take it, but Gita is not like that, but I do not want to do it. But I do not want to do it (017977268206).
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.089, 'neu': 0.867, 'pos': 0.045, 'compound': -0.2924}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+Shamsung galaksya 2 saral ki 2 gab dama 32 gab seit marya 3100 baksharipri fixtures 13000 people do not have any problems, but I do not have any problem in this way. I will give you two things to do as well as possible. I do not know if you have a problem of 32,000 points. In order to get rid of fat, I am not able to take it, but I am not able to take it.
+Sentiment(polarity=-0.16666666666666666, subjectivity=0.75)
+{'neg': 0.0, 'neu': 0.868, 'pos': 0.132, 'compound': 0.8423}
+
+I will take 2 slabs for 2 hours and 3 times in the morning. If you do not have any problem, then I will take 13000 rupees in memory. If I do not have any problem then I will take it and I will give it 2 times I will do this. I do not want to take it, but Gita is not like that, but I do not want to do it. But I do not want to do it (017977268206).
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.089, 'neu': 0.867, 'pos': 0.045, 'compound': -0.2924}
+
+I will take 2 slabs for 2 hours and 3 times in the morning. If you do not have any problem, then I will take 13000 rupees in memory. If I do not have any problem then I will take it and I will give it 2 times I will do this. I do not want to take it, but Gita is not like that, but I do not want to do it. But I do not want to do it (017977268206).
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.089, 'neu': 0.867, 'pos': 0.045, 'compound': -0.2924}
+
+E-Veray is down the phone
+Sentiment(polarity=-0.15555555555555559, subjectivity=0.2888888888888889)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Alamin I am Akhta Walton Fone in my name
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Boll
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+300 / - (01711414951) If you have your Emel Ead, you will be able to earn 300 rupees (Chash / bKash) - 01711414951. If your Emel Ead will be your idle, then you will be safe. ................ Off to Emery: Off to the Gymnasium: For the safety of the underworld. I will explain the divination of Ku-chistion and its intensity. Sea dead
+Sentiment(polarity=0.26666666666666666, subjectivity=0.5083333333333333)
+{'neg': 0.065, 'neu': 0.807, 'pos': 0.128, 'compound': 0.4767}
+
+How much is the price of a computer, the price of this brand is more than the money that he would buy, he would be better than the hero to make himself, I will buy the set by 5000 rupees. How much is the price of a computer, the price of this brand is more than the money that he would buy, he would be better than the hero to make himself, I will buy the set by 5000 rupees. Do not call the thief, do not call. Sea dead
+Sentiment(polarity=0.3142857142857142, subjectivity=0.39999999999999997)
+{'neg': 0.0, 'neu': 0.806, 'pos': 0.194, 'compound': 0.9597}
+
+Ekodom Tek Kotha Bolshenboot Alhamduliyyah mah Usshui 6th Aapon
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+Brother-brother, like you, I love Chashpute's love. So hopefully your help is available. Brother-in-law, like you, I feel like I love you. So hopefully your help is available. I use it on an iphone & patch, Ioos and Mach operating a lot understand. I have a bushache. Boostinas in Eid / Itunes Eid Finding some money as unemployed. It is here, sales.com, that's where I left my four friends. The request is that we invite you to buy your id from Apulle (Ifne, Ipad, Ethip) Usus from me. Although know that the affair is 100% commercial. Here it is probably a humana Also, like many others, this is my Bushinashshasha, like the brothers and sisters, you will get promotional help. Your iPhone, you do not have to download the application, just open the ID for 100 rupees, you will need a Gmail ID, you can tell me about the problem of any type of delivery phone within 2 hours. Follow me on 100% Trufest Servech ProviderFacebook: Yue Sea Dead
+Sentiment(polarity=0.25999999999999995, subjectivity=0.4)
+{'neg': 0.037, 'neu': 0.725, 'pos': 0.238, 'compound': 0.9888}
+
+Use iPhone, iPod, MacBook or iPad, but can not download any shells / Applesychology phone: 01711414951 Your iPhone is not able to download the application, just open the ID for 100 rupees, you will need a Gmail id, beware of cheating, iPhone, Use iPod, MacBook or iPad, but can not download any shells / Applesychology phone: 0 1711414951 You do not have to download the application, you can not download the application, just open the ID in exchange for 100 rupees, you will need a Gmail id, beware of cheating, delivery software can tell me about any kind of software problem within 2 hours, 100% Trufest Serveze Die
+Sentiment(polarity=0.0875, subjectivity=0.63125)
+{'neg': 0.16, 'neu': 0.84, 'pos': 0.0, 'compound': -0.967}
+
+I Wint Sillel A Itab Brand Applele-Vielle-A1219 - Sail Pritch / Fix-20,000 My Itab Deits
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+He wants to buy the mobile. Someone will tell if it is good or not 01911351217
+Sentiment(polarity=0.44999999999999996, subjectivity=0.35000000000000003)
+{'neg': 0.0, 'neu': 0.838, 'pos': 0.162, 'compound': 0.4404}
+
+Anyone selling iPhone 5S + 8801745249358
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+If you have 5 or iPhone 5, then let me know +8801745459358
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+If you sell Cai Iphone 5, please click 01679148753
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.777, 'pos': 0.223, 'compound': 0.3182}
+
+If you sell Cai Iphone 5, please click 01679148753
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.777, 'pos': 0.223, 'compound': 0.3182}
+
+If you sell Cai Iphone 5, please click 01679148753
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.777, 'pos': 0.223, 'compound': 0.3182}
+
+If you sell Cai Iphone 5, please click 01679148753
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.777, 'pos': 0.223, 'compound': 0.3182}
+
+I will take 2 slabs for 2 hours and 3 times in the morning. If you do not have any problem, then I will take 13000 rupees in memory. If I do not have any problem then I will take it and I will give it 2 times I will do this. I do not want to take it, but Gita is not like that, but I do not want to do it. But I do not want to do it (017977268206).
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.089, 'neu': 0.867, 'pos': 0.045, 'compound': -0.2924}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+Use iPhone, iPod, MacBook or iPad, but can not download any shells / Applesychology phone: 01711414951 Your iPhone is not able to download the application, just open the ID for 100 rupees, you will need a Gmail id, beware of cheating, iPhone, Use iPod, MacBook or iPad, but can not download any shells / Applesychology phone: 0 1711414951 You do not have to download the application, you can not download the application, just open the ID in exchange for 100 rupees, you will need a Gmail id, beware of cheating, delivery software can tell me about any kind of software problem within 2 hours, 100% Trufest Serveze Die
+Sentiment(polarity=0.0875, subjectivity=0.63125)
+{'neg': 0.16, 'neu': 0.84, 'pos': 0.0, 'compound': -0.967}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+Shamsung galaksya 2 saral ki 2 gab dama 32 gab seit marya 3100 baksharipri fixtures 13000 people do not have any problems, but I do not have any problem in this way. I will give you two things to do as well as possible. I do not know if you have a problem of 32,000 points. In order to get rid of fat, I am not able to take it, but I am not able to take it.
+Sentiment(polarity=-0.16666666666666666, subjectivity=0.75)
+{'neg': 0.0, 'neu': 0.868, 'pos': 0.132, 'compound': 0.8423}
+
+If you sell 6 copies, you can contact 01796202040
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Free Brother Eidy-Brother, free apple, brother-in-law, like you, I feel like I love you. So hopefully your help is available. I use it on an iphone & patch, Ioos and Mach operating a lot understand. I have a bushache. Boostinas in Eid / Itunes Eid Finding some money as unemployed. It is here, sales.com, that's where I left my four friends. The request is that we invite you to buy your id from Apulle (Ifne, Ipad, Ethip) Usus from me. Although know that the affair is 100% commercial. Here it is probably a humana Also, like many others, this is my Bushinashshasha, you will get promotional help just like brothers and sisters. Your iPhone, you do not have to download the application, just open the ID for the price of 200 rupees, within 2 hours, please tell me about the problem of any type of delivery phone in Phone- 01711414951. Follow me on 100% Trufest Servech ProviderFacebook: Yue Sea dies
+Sentiment(polarity=0.275, subjectivity=0.45)
+{'neg': 0.015, 'neu': 0.774, 'pos': 0.211, 'compound': 0.9849}
+
+It can open the Eid with the Bra-Digital timer itself.
+Sentiment(polarity=0.0, subjectivity=0.5)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+I am in charge of the I-500 and I am in November-01994209188,
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Down there
+Sentiment(polarity=-0.15555555555555559, subjectivity=0.2888888888888889)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+1000 dollars if you buy
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Chalash Off Runs L 9 Maks Eid Sailxp.16 Chalash Off Runs L 9 Maks Eid Sailxpo: 126 Brewers: 5 Games: 978 Alla Maksalle Level: 9 Kinna Chal Dannumbar: 01992833568 Sie dead
+Sentiment(polarity=-0.2, subjectivity=0.4)
+{'neg': 0.152, 'neu': 0.848, 'pos': 0.0, 'compound': -0.6486}
+
+Madinah price will be 1500 taka
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+In Vazail phone
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Yu Chetmente lost 10000
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.434, 'neu': 0.566, 'pos': 0.0, 'compound': -0.3182}
+
+Guess the Yew conveying the Lumia 640 Xlitus Blacq in the Churfurl Fresh Stretch 13, 5th, half-a-year, Guess the Yew conveyed Lumia 640 Exclamation Blachers in the Chancellery Fresh Stretch, 13th 5th Muffle Head, 57 "Lourgee Hood Disclaimed From Abraad 9500 to 016767332709
+Sentiment(polarity=0.19999999999999998, subjectivity=0.3333333333333333)
+{'neg': 0.0, 'neu': 0.899, 'pos': 0.101, 'compound': 0.5574}
+
+It is 300000 but it is not so expensive at the cost
+Sentiment(polarity=-0.5, subjectivity=0.7)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+I would like to buy someone who sells 64 mobile phones 01732414622
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.8, 'pos': 0.2, 'compound': 0.3612}
+
+I need one of these phones. Want to buy a new mobile. If someone has this mobile please let me know. 01911351217
+Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
+{'neg': 0.0, 'neu': 0.833, 'pos': 0.167, 'compound': 0.3818}
+
+Anyone selling iPhone 5S + 8801745249358
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Expectives
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will buy this bell phone at such a price. 4 "Display 5" / 55 "is a word
+Sentiment(polarity=0.0, subjectivity=0.5)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+If I have money, I will not buy Smsung 7 and 5
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+The price of this phone should be 12000-15000 taka.
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+This prize is bought by Shamsuhu 1000%
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.5106}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+I'll sell 5 to get a smiling face. Only 15 levels will buy Iphone 7 Plus. I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I love the phone so I'll sell it. 01951543416 We will sell the price of 50000. I will sell 5 to get a smiling face. Only 15 levels will buy Iphone 7 Plus. I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I prefer to buy it so I will sell it. 01951543416 We will sell the price of 50000. By saying, the price will be reduced. Sea dead
+Sentiment(polarity=0.008333333333333331, subjectivity=0.625)
+{'neg': 0.039, 'neu': 0.812, 'pos': 0.15, 'compound': 0.9062}
+
+Use iPhone, iPod, MacBook or iPad, but can not download any shells / Applesychology phone: 01711414951 Your iPhone is not able to download the application, just open the ID for 100 rupees, you will need a Gmail id, beware of cheating, iPhone, Use iPod, MacBook or iPad, but can not download any shells / Applesychology phone: 0 1711414951 You do not have to download the application, you can not download the application, just open the ID in exchange for 100 rupees, you will need a Gmail id, beware of cheating, delivery software can tell me about any kind of software problem within 2 hours, 100% Trufest Serveze Die
+Sentiment(polarity=0.0875, subjectivity=0.63125)
+{'neg': 0.16, 'neu': 0.84, 'pos': 0.0, 'compound': -0.967}
+
+We bought it at Tk 40000
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Putty
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Foul goods
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+VEERCIA
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+Home Delivery Jababa
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will take 2 slabs for 2 hours and 3 times in the morning. If you do not have any problem, then I will take 13000 rupees in memory. If I do not have any problem then I will take it and I will give it 2 times I will do this. I do not want to take it, but Gita is not like that, but I do not want to do it. But I do not want to do it (017977268206).
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.089, 'neu': 0.867, 'pos': 0.045, 'compound': -0.2924}
+
+I will take 2 slabs for 2 hours and 3 times in the morning. If you do not have any problem, then I will take 13000 rupees in memory. If I do not have any problem then I will take it and I will give it 2 times I will do this. I do not want to take it, but Gita is not like that, but I do not want to do it. But I do not want to do it (017977268206).
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.089, 'neu': 0.867, 'pos': 0.045, 'compound': -0.2924}
+
+Das na va
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+not bad
+Sentiment(polarity=0.3499999999999999, subjectivity=0.6666666666666666)
+{'neg': 0.0, 'neu': 0.26, 'pos': 0.74, 'compound': 0.431}
+
+Brother-brother, like you, I love Chashpute's love. So hopefully your help is available. Brother-in-law, like you, I feel like I love you. So hopefully your help is available. I use it on an iphone & patch, Ioos and Mach operating a lot understand. I have a bushache. Boostinas in Eid / Itunes Eid Finding some money as unemployed. It is here, sales.com, that's where I left my four friends. The request is that we invite you to buy your id from Apulle (Ifne, Ipad, Ethip) Usus from me. Although know that the affair is 100% commercial. Here it is probably a humana Also, like many others, this is my Bushinashshasha, like the brothers and sisters, you will get promotional help. Your iPhone, you do not have to download the application, just open the ID for 100 rupees, you will need a Gmail ID, you can tell me about the problem of any type of delivery phone within 2 hours. Follow me on 100% Trufest Servech ProviderFacebook: Yue Sea Dead
+Sentiment(polarity=0.25999999999999995, subjectivity=0.4)
+{'neg': 0.037, 'neu': 0.725, 'pos': 0.238, 'compound': 0.9888}
+
+Brother-brother, like you, I love Chashpute's love. So hopefully your help is available. Brother-in-law, like you, I feel like I love you. So hopefully your help is available. I use it on an iphone & patch, Ioos and Mach operating a lot understand. I have a bushache. Boostinas in Eid / Itunes Eid Finding some money as unemployed. It is here, sales.com, that's where I left my four friends. The request is that we invite you to buy your id from Apulle (Ifne, Ipad, Ethip) Usus from me. Although know that the affair is 100% commercial. Here it is probably a humana Also, like many others, this is my Bushinashshasha, like the brothers and sisters, you will get promotional help. Your iPhone, you do not have to download the application, just open the ID for 100 rupees, you will need a Gmail ID, you can tell me about the problem of any type of delivery phone within 2 hours. Follow me on 100% Trufest Servech ProviderFacebook: Yue Sea Dead
+Sentiment(polarity=0.25999999999999995, subjectivity=0.4)
+{'neg': 0.037, 'neu': 0.725, 'pos': 0.238, 'compound': 0.9888}
+
+The Gaiyat Baat Hai Chail Sahei is comparable to the name of the bride, but it is not worth it.
+Sentiment(polarity=-0.15, subjectivity=0.1)
+{'neg': 0.095, 'neu': 0.905, 'pos': 0.0, 'compound': -0.2498}
+
+The name is a price Kai Falca
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Do not get the name A price Kai Falca
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Brother-brother, like you, I love Chashpute's love. So hopefully your help is available. Brother-in-law, like you, I feel like I love you. So hopefully your help is available. I use it on an iphone & patch, Ioos and Mach operating a lot understand. I have a bushache. Boostinas in Eid / Itunes Eid Finding some money as unemployed. It is here, sales.com, that's where I left my four friends. The request is that we invite you to buy your id from Apulle (Ifne, Ipad, Ethip) Usus from me. Although know that the affair is 100% commercial. Here it is probably a humana Also, like many others, this is my Bushinashshasha, like the brothers and sisters, you will get promotional help. Your iPhone, you do not have to download the application, just open the ID for 100 rupees, you will need a Gmail ID, you can tell me about the problem of any type of delivery phone within 2 hours. Follow me on 100% Trufest Servech ProviderFacebook: Yue Sea Dead
+Sentiment(polarity=0.25999999999999995, subjectivity=0.4)
+{'neg': 0.037, 'neu': 0.725, 'pos': 0.238, 'compound': 0.9888}
+
+Pleaschachkacham / Bendhamam in Place on May
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Pleaschachkacham / Bendhamam in Place on May
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+My iPhone 3 GS is registered in the Banani market, only one problem is that the SIM is not received, and sometimes the set is closed, while trying to repair, Banani shopkeeper said that the D-ama iPhone 3 GS is registered in the Banani market, The problem was only one that does not get SIM, and sometimes the set is closed, while trying to repair, Banani shopkeeper said the display has gone, old co If you do not have any display, then if you know of any solution, then tell 0161195080 dead
+Sentiment(polarity=-0.05000000000000001, subjectivity=0.46666666666666673)
+{'neg': 0.099, 'neu': 0.878, 'pos': 0.023, 'compound': -0.8126}
+
+Ibn 3 Gos will be 613 32 times in sabal 4800 doc 01768666177
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+If you want to sell any of the Eifan 5th Eifan, please let us know.
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.3818}
+
+Anyone selling iPhone 5S + 8801745249358
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Shamsung galaksya 2 saral ki 2 gab dama 32 gab seit marya 3100 baksharipri fixtures 13000 people do not have any problems, but I do not have any problem in this way. I will give you two things to do as well as possible. I do not know if you have a problem of 32,000 points. In order to get rid of fat, I am not able to take it, but I am not able to take it.
+Sentiment(polarity=-0.16666666666666666, subjectivity=0.75)
+{'neg': 0.0, 'neu': 0.868, 'pos': 0.132, 'compound': 0.8423}
+
+I will take 2 slabs for 2 hours and 3 times in the morning. If you do not have any problem, then I will take 13000 rupees in memory. If I do not have any problem then I will take it and I will give it 2 times I will do this. I do not want to take it, but Gita is not like that, but I do not want to do it. But I do not want to do it (017977268206).
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.089, 'neu': 0.867, 'pos': 0.045, 'compound': -0.2924}
+
+I will take 2 slabs for 2 hours and 3 times in the morning. If you do not have any problem, then I will take 13000 rupees in memory. If I do not have any problem then I will take it and I will give it 2 times I will do this. I do not want to take it, but Gita is not like that, but I do not want to do it. But I do not want to do it (017977268206).
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.089, 'neu': 0.867, 'pos': 0.045, 'compound': -0.2924}
+
+I'll sell 5 to get a smiling face. I will buy 7 phones at the Iphone 7 only. I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I love ifon I'll sell it. 01951543416 We will sell the price of 60000. I will sell 5 to get a smiling face. I will buy 7 phones at the Iphone 7 only. I bought this tune of Tk 69000 from Talukder. On the other hand, with Yehre Warranty. I love ifon I'll sell it. 01951543416 We will sell the price of 60000. By saying something, the price will be reduced. Sea dead
+Sentiment(polarity=0.07857142857142858, subjectivity=0.6214285714285716)
+{'neg': 0.039, 'neu': 0.772, 'pos': 0.189, 'compound': 0.9477}
+
+Great
+Sentiment(polarity=0.8, subjectivity=0.75)
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.6249}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+
+The Molelemaya Plays in the Prophets of the World Cup
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.25}
+
+I'm going to buy this phone
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Use iPhone, iPod, MacBook or iPad, but can not download any shells / Applesychology phone: 01711414951 Your iPhone is not able to download the application, just open the ID for 100 rupees, you will need a Gmail id, beware of cheating, iPhone, Use iPod, MacBook or iPad, but can not download any shells / Applesychology phone: 0 1711414951 You do not have to download the application, you can not download the application, just open the ID in exchange for 100 rupees, you will need a Gmail id, beware of cheating, delivery software can tell me about any kind of software problem within 2 hours, 100% Trufest Serveze Die
+Sentiment(polarity=0.0875, subjectivity=0.63125)
+{'neg': 0.16, 'neu': 0.84, 'pos': 0.0, 'compound': -0.967}
+
+People buy such low priced phones,
+Sentiment(polarity=0.0, subjectivity=0.4)
+{'neg': 0.296, 'neu': 0.704, 'pos': 0.0, 'compound': -0.2732}
+
+I'll sail it down to 20000 points
+Sentiment(polarity=-0.15555555555555559, subjectivity=0.2888888888888889)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Given me a phone call
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Spoiled
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Robber phone
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.783, 'neu': 0.217, 'pos': 0.0, 'compound': -0.5574}
+
+Yu phul ein 8000 1 gab ram oh ma
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Use iPhone, iPod, MacBook or iPad, but can not download any shells / Applesychology phone: 01711414951 Your iPhone is not able to download the application, just open the ID for 100 rupees, you will need a Gmail id, beware of cheating, iPhone, Use iPod, MacBook or iPad, but can not download any shells / Applesychology phone: 0 1711414951 You do not have to download the application, you can not download the application, just open the ID in exchange for 100 rupees, you will need a Gmail id, beware of cheating, delivery software can tell me about any kind of software problem within 2 hours, 100% Trufest Serveze Die
+Sentiment(polarity=0.0875, subjectivity=0.63125)
+{'neg': 0.16, 'neu': 0.84, 'pos': 0.0, 'compound': -0.967}
+
+Aaditid Ipad Mini264 Gob Wife Chellurer
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+If I am going to buy 5 rupees, then if you are going to sell anything, then you can do this 01816704176 and you will get 3 out of the box.
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Use iPhone, iPod, MacBook or iPad, but can not download any shells / Applesychology phone: 01711414951 Your iPhone is not able to download the application, just open the ID for 100 rupees, you will need a Gmail id, beware of cheating, iPhone, Use iPod, MacBook or iPad, but can not download any shells / Applesychology phone: 0 1711414951 You do not have to download the application, you can not download the application, just open the ID in exchange for 100 rupees, you will need a Gmail id, beware of cheating, delivery software can tell me about any kind of software problem within 2 hours, 100% Trufest Serveze Die
+Sentiment(polarity=0.0875, subjectivity=0.63125)
+{'neg': 0.16, 'neu': 0.84, 'pos': 0.0, 'compound': -0.967}
+
+I would like to sell a samsung glax s4 01935007590
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.737, 'pos': 0.263, 'compound': 0.3612}
+
+Where did the brother set?
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Use iPhone, iPod, MacBook or iPad, but can not download any shells / Applesychology phone: 01711414951 Your iPhone is not able to download the application, just open the ID for 100 rupees, you will need a Gmail id, beware of cheating, iPhone, Use iPod, MacBook or iPad, but can not download any shells / Applesychology phone: 0 1711414951 You do not have to download the application, you can not download the application, just open the ID in exchange for 100 rupees, you will need a Gmail id, beware of cheating, delivery software can tell me about any kind of software problem within 2 hours, 100% Trufest Serveze Die
+Sentiment(polarity=0.0875, subjectivity=0.63125)
+{'neg': 0.16, 'neu': 0.84, 'pos': 0.0, 'compound': -0.967}
+
+Appel Eid Cervec's 300th (Planting / Development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Datappel Eid Shervich 300k (chess / development)
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Your Emel Ed
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+So you will be safe ...............
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+Named after yure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Wife Emile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dante of Berat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I said: Eid crew on the other side of the world
+Sentiment(polarity=-0.125, subjectivity=0.375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+100% GNUINO FOR LIFE Team
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+We will explain your true identity to the truth of the truth. Sea dead
+Sentiment(polarity=0.07499999999999998, subjectivity=0.525)
+{'neg': 0.198, 'neu': 0.461, 'pos': 0.341, 'compound': 0.2732}
+

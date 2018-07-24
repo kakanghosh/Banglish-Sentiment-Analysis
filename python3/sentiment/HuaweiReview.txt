@@ -1,0 +1,120 @@
+Complex 1 phone
+Sentiment(polarity=-0.3, subjectivity=0.4)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Survival
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Too
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Huawei has given 3018 on 6th April, then now the sale crew is ready to give a crystal 01793263330 12000 thousand
+Sentiment(polarity=0.2, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.3612}
+
+What problems brother
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.574, 'neu': 0.426, 'pos': 0.0, 'compound': -0.4019}
+
+How many prize
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.377, 'pos': 0.623, 'compound': 0.5106}
+
+At the time of the burn, he lowered him
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.158, 'neu': 0.842, 'pos': 0.0, 'compound': -0.128}
+
+I hope her gift is gift
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.187, 'pos': 0.813, 'compound': 0.8271}
+
+If you do not know how to do it,
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Complex phone 1
+Sentiment(polarity=-0.3, subjectivity=0.4)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+My first one is to go to Gwalior 4, I can see what is on the track 01785700998
+Sentiment(polarity=0.25, subjectivity=0.3333333333333333)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+If you run the net, you have to charge 2/3 times a day. Everything else is fine.
+Sentiment(polarity=0.20833333333333334, subjectivity=0.25)
+{'neg': 0.0, 'neu': 0.893, 'pos': 0.107, 'compound': 0.2023}
+
+Down
+Sentiment(polarity=-0.15555555555555559, subjectivity=0.2888888888888889)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+It is not possible to buy these veneers for the warehouse warehouse.
+Sentiment(polarity=0.0, subjectivity=1.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+৩
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+
+Here is the episode 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Airan thinks this is a liability 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.265, 'neu': 0.735, 'pos': 0.0, 'compound': -0.2023}
+
+Eid "Expedition"> Part 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Airan thinks this is a liability 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.265, 'neu': 0.735, 'pos': 0.0, 'compound': -0.2023}
+
+Sea dead
+Sentiment(polarity=-0.2, subjectivity=0.4)
+{'neg': 0.811, 'neu': 0.189, 'pos': 0.0, 'compound': -0.6486}
+
+Here is the episode 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Airan thinks this is a liability 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.265, 'neu': 0.735, 'pos': 0.0, 'compound': -0.2023}
+
+Eid "Expedition"> Part 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Airan thinks this is a liability 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.265, 'neu': 0.735, 'pos': 0.0, 'compound': -0.2023}
+
+Sea dead
+Sentiment(polarity=-0.2, subjectivity=0.4)
+{'neg': 0.811, 'neu': 0.189, 'pos': 0.0, 'compound': -0.6486}
+
+Here is the episode 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Airan thinks this is a liability 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.265, 'neu': 0.735, 'pos': 0.0, 'compound': -0.2023}
+
+Eid "Expedition"> Part 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Airan thinks this is a liability 20
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.265, 'neu': 0.735, 'pos': 0.0, 'compound': -0.2023}
+
+Sea dead
+Sentiment(polarity=-0.2, subjectivity=0.4)
+{'neg': 0.811, 'neu': 0.189, 'pos': 0.0, 'compound': -0.6486}
+

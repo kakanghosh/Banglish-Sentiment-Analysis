@@ -1,0 +1,60 @@
+Wellbee Welchwill produces good faucets in the market. We'll get the market we'll be there
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.0, 'neu': 0.828, 'pos': 0.172, 'compound': 0.4404}
+
+Is the money out of the balls or the person will buy this manus at prize a
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.82, 'pos': 0.18, 'compound': 0.5106}
+
+My friend bought a buy and bought it is very extreme
+Sentiment(polarity=-0.1625, subjectivity=1.0)
+{'neg': 0.0, 'neu': 0.738, 'pos': 0.262, 'compound': 0.4939}
+
+Make a set of Sony Xperia Z5 Ultra quality. Give a battery of at least 5000 amps. You will pay 22,000 rupees. Make a set of Sony Xperia Z5 Ultra quality. Give the battery at least 5,000 amps. I will give 22,000 rupees. I gave the money, but nobody would buy me. Sea dead
+Sentiment(polarity=-0.26666666666666666, subjectivity=0.4000000000000001)
+{'neg': 0.132, 'neu': 0.868, 'pos': 0.0, 'compound': -0.7992}
+
+At the low price of why so much price will be better than Samphini P6.
+Sentiment(polarity=0.2333333333333333, subjectivity=0.3333333333333333)
+{'neg': 0.117, 'neu': 0.722, 'pos': 0.161, 'compound': 0.2023}
+
+There is no rice rice. New crazy import
+Sentiment(polarity=-0.2318181818181818, subjectivity=0.6772727272727272)
+{'neg': 0.434, 'neu': 0.566, 'pos': 0.0, 'compound': -0.5574}
+
+Please tell me the phone. Please see the phone number 01876268220
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.576, 'pos': 0.424, 'compound': 0.5994}
+
+There is a lot of Iphone phones
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Phone is very good
+Sentiment(polarity=0.9099999999999999, subjectivity=0.7800000000000001)
+{'neg': 0.0, 'neu': 0.484, 'pos': 0.516, 'compound': 0.4927}
+
+Do you know how to call it?
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Well
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.2732}
+
+How is the quality of i phone
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I'm a good buyer
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.4404}
+
+Phone down
+Sentiment(polarity=-0.15555555555555559, subjectivity=0.2888888888888889)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Phone down
+Sentiment(polarity=-0.15555555555555559, subjectivity=0.2888888888888889)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+

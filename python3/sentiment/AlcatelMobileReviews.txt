@@ -1,0 +1,716 @@
+I love
+Sentiment(polarity=0.5, subjectivity=0.6)
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.6369}
+
+All the goods in between
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Achoda Phone
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Fake phone
+Sentiment(polarity=-0.5, subjectivity=1.0)
+{'neg': 0.756, 'neu': 0.244, 'pos': 0.0, 'compound': -0.4767}
+
+How much dyele prize
+Sentiment(polarity=0.2, subjectivity=0.2)
+{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.5106}
+
+I used to think I was going to have it, how would it be to force me to say it
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Buzz in a phone
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+If someone sells, call 019314757536
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Where is your showroom in Kushtia?
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+May someone start selling cell phone 01928885300
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Ami kinase II dina haise beyautiphula phone charage bacakupa khuba bhalobuta sella korate chai because amara phathera malasiya Bumble amara jonno samasuna Jan. 7 phone patheyese distinguished kinte chaile pleyase cami kinase II dina haise beyautiphula phone charage bacakupa khuba bhalobuta sella korate chai because amara phathera malasiya pinches amara jonno Shamshu j 7 phone can be sent to the kine khanti pyaashe chanchite May 01911-278350 / 01
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+The euphemism of "Aye Verify Assay" in Aichi Fan's Spiteful Fateure
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.225, 'neu': 0.775, 'pos': 0.0, 'compound': -0.4404}
+
+I want to sell a log leone. Setting up the exact box, 1 day is not used, box and no skull, absolutely intact. Need urgent money, so I'm forced to sell. 1 year I want to sell a log leone. Setting up the exact box, 1 day is not used, box and no skull, absolutely intact. Need urgent money, so I'm forced to sell. 1 year warranty. Call someone if they are interested Mobile: 01951373659 Sie dead
+Sentiment(polarity=0.04374999999999999, subjectivity=0.45)
+{'neg': 0.178, 'neu': 0.664, 'pos': 0.159, 'compound': -0.6852}
+
+Yu shomenta hairstyle will be like how anybody will buy
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.3612}
+
+I will buy you from the wonderful Boumbelebill in the market for two days, and I will give you the dewyry in the next 3 days. If you do not have any reason, then I will give you 100% of the price. I will buy Kanshupupa duplip from the famous Boumbelemb and buy it from within 2/3 days. I do not know if Argyenle will give 100% sir dead in the Kinsi Sea
+Sentiment(polarity=0.325, subjectivity=0.6)
+{'neg': 0.059, 'neu': 0.89, 'pos': 0.051, 'compound': -0.1531}
+
+Enqi Axel Settlement will be processed at Purchase 11500 fixed fixtures at 1 upazila Dhaka 01917174197
+Sentiment(polarity=0.1, subjectivity=0.2)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Head ok
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}
+
+Waltan F2 is much better than Falto
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.674, 'pos': 0.326, 'compound': 0.4404}
+
+Priche 17999 talkies 2 megapixel video: jas, sichandary 03 megapixel
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Alcatel is a world-famous company, which is 100% standard.
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Ha ha ha prices are so low why
+Sentiment(polarity=0.0, subjectivity=0.3)
+{'neg': 0.197, 'neu': 0.287, 'pos': 0.516, 'compound': 0.536}
+
+Alchettel's head is nested, who will buy this boggy table at such a price. This price will be whether Asus phanepad
+Sentiment(polarity=0.0, subjectivity=0.5)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Gazakhori price
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+A lot better phone
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.4404}
+
+How do you know how many skin cells are in the sunlight
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+How would I buy it on the Air phone?
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Thesis is the best, the butt Chamara and the sunda are in love with the cunt
+Sentiment(polarity=0.75, subjectivity=0.44999999999999996)
+{'neg': 0.13, 'neu': 0.528, 'pos': 0.341, 'compound': 0.7351}
+
+If there is a ghost, I think it will be there
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.223, 'neu': 0.777, 'pos': 0.0, 'compound': -0.3182}
+
+If someone sells please, please. 016850472449
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.465, 'pos': 0.535, 'compound': 0.5574}
+
+Playing the Chipset Chipset Biffer Boing is another reminder
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.816, 'pos': 0.184, 'compound': 0.2023}
+
+Please tell me if anyone is upset by the iPhone, please
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.171, 'neu': 0.526, 'pos': 0.303, 'compound': 0.25}
+
+Brother I am not a fool, but if I come to the house of Shaheb, I will not be able to give him the money, but I will come to Shaheer's house and die for the dead.
+Sentiment(polarity=0.15, subjectivity=0.5125)
+{'neg': 0.269, 'neu': 0.69, 'pos': 0.041, 'compound': -0.9117}
+
+If anyone knows about the iPhone, then tell me
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+The phone looks fairly well.
+Sentiment(polarity=0.7, subjectivity=0.9)
+{'neg': 0.0, 'neu': 0.656, 'pos': 0.344, 'compound': 0.2732}
+
+It will be available in Khulna, please tell me, please
+Sentiment(polarity=0.4, subjectivity=0.4)
+{'neg': 0.0, 'neu': 0.635, 'pos': 0.365, 'compound': 0.5574}
+
+How it will be set
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I would like to sell a small quantity of freshly purchased 29 days. If you want to sell a small quantity, you will get the new 29 days. You can get all the things in the vicinity, Chash Mem, Charga, Haihadafon.11500 Taka 01786953636 (Dhaka)
+Sentiment(polarity=-0.015909090909090914, subjectivity=0.43863636363636366)
+{'neg': 0.0, 'neu': 0.911, 'pos': 0.089, 'compound': 0.4215}
+
+Excessive memory is expected to increase the risk of heart attack infections.
+Sentiment(polarity=-0.175, subjectivity=0.7)
+{'neg': 0.315, 'neu': 0.545, 'pos': 0.139, 'compound': -0.4404}
+
+Alcatel Oun Touche Eidl XI Mobil What Is Non-Poverty?
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+The price of this mobile is now up to 12700
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Priche should be at the rate of 12799
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Samasum's duosa 3 sella to 16 churning oyararantyacamerah 5 mpa (auta phacusa) samasum's duosa 3 sella to 16 churning oyararantyacamerah 5 mpa (auta phacusa) andraida 442 (kitakata) Nov. prablembaksaheyada phanecharagerbararantyacaradacasa memaphri philpa cabherapriceh 6000 Tak (phikseda) lacationah barisala cityamabileh 01754409566 Sea dies
+Sentiment(polarity=-0.5, subjectivity=0.9)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Neo market prize 12799
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.5106}
+
+Chamera Coolatry Extra Smrity Resulatain Non Extra
+Sentiment(polarity=0.0, subjectivity=0.1)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dikfik Bhai, Idal X, Marcat, in 2013, at the time of July at At Alad Madal's store, at the end of the price, why did you donate 8500?
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Alcatel Ony Toule Eidl Mini This Factor I'll Sell 4000 Thalchatel Ones Touche Eidl Mini This Faneta I will sell 4000 Taksaaraya Priyaaj to make me waxa numar 01672251578 01989456743 Sie dead
+Sentiment(polarity=-0.2, subjectivity=0.4)
+{'neg': 0.125, 'neu': 0.875, 'pos': 0.0, 'compound': -0.6486}
+
+I want to sell
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.606, 'pos': 0.394, 'compound': 0.0772}
+
+I would like to sell a small quantity of freshly purchased 29 days. If you want to sell a small quantity, you will get the new 29 days. You can get all the things in the vicinity, Chash Mem, Charga, Haihadafon.11500 Taka 01786953636 (Dhaka)
+Sentiment(polarity=-0.015909090909090914, subjectivity=0.43863636363636366)
+{'neg': 0.0, 'neu': 0.911, 'pos': 0.089, 'compound': 0.4215}
+
+I bought WALPAD 7 on 05-05-2014 100% FULL FRESH EMDIALALYA Need to be checked so SELLING: 12500 FIXED Free Chillies of 500 Taka Price Flew Chaws: 01620-286166 Bldgara, Gazipur, 05-05-2014, bought WALPAD 7 100% FULL FRESH EMDIEDYA Need to be checked so that SELLING: 12500 FISSED 500 Taka Price Flip Chav's Free Chalah: 01620-286166 Bordabazar, Gazipur Sea Dead
+Sentiment(polarity=0.25, subjectivity=0.5375)
+{'neg': 0.064, 'neu': 0.747, 'pos': 0.189, 'compound': 0.8109}
+
+A light, fresh setadisplaya sellahnokiya 6120 calasasicaphulla aktu streak of 60 3 3 C supparatedasyambiyana radasellahnokiya calasasicaphulla 6120 Fresh Light aktu spots setadisplaya Aug. Sep. 60 3 3 C supparatedasyambiyana radbitha charagera + 500 lacationahmirasarainida uragenta priceh batteryapikseda take eksatra moneya die so sella Sea karatecicantracatah 01840317471
+Sentiment(polarity=0.35, subjectivity=0.6)
+{'neg': 0.088, 'neu': 0.809, 'pos': 0.103, 'compound': -0.0772}
+
+†† ‡‡ Andaman Gammes for Sale â € ¢ â € œSpecify Yur's Fourth Round Gämess 28GuÃ ¢ Â Â € Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Ã ¢ , Mirpur, Kazipara, Kalabagan Sea dead
+Sentiment(polarity=-0.13333333333333333, subjectivity=0.26666666666666666)
+{'neg': 0.212, 'neu': 0.788, 'pos': 0.0, 'compound': -0.6486}
+
+If you want to get some kind of massage, you come here. If you want to get some treatment, then come for help. If you have a carcinoma, you can say that if you have a carcinoma, you can get Mastectar by paying 2000 rupees. If you make a mastercard, you get 100% (7800). Money), you will get 25 (1950 rupees) in the bank of the penny, the mother of the palace With the help of free-masters, what will be required: 2 copies of pictures and eid charms and gamel acoustic + personal information. Contact before making a call before you do not blame + call for details + 01688012772. My information about my developmental experience: Shiite Hassan: + Inner gestation tools + Web Dr. Signed 5th Street 5 + Oursurching Homes: BlackBerry Diesel: Shreepur Division: DhakaGemailShimir11@gmailcham Website: ObbbadLlitchmfesbook: Falcham / Nakleraruu 1 Mobile: 0168801727 Seaw dead
+Sentiment(polarity=0.09999999999999999, subjectivity=0.44166666666666665)
+{'neg': 0.03, 'neu': 0.88, 'pos': 0.09, 'compound': 0.6844}
+
+I will make 1000 rupees. 10000000% Guarantee ...
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.75, 'pos': 0.25, 'compound': 0.25}
+
+Amphitheater 5th Brilliant Bronze Noise 32 Gol (Molasses) Salkarb (Fan not washed in Form) -01766226070)
+Sentiment(polarity=0.9, subjectivity=1.0)
+{'neg': 0.0, 'neu': 0.787, 'pos': 0.213, 'compound': 0.5859}
+
+How much is it in prive
+Sentiment(polarity=0.2, subjectivity=0.2)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I would like to sell a small quantity of freshly purchased 29 days. If you want to sell a small quantity, you will get the new 29 days. You can get all the things in the vicinity, Chash Mem, Charga, Haihadafon.11500 Taka 01786953636 (Dhaka)
+Sentiment(polarity=-0.015909090909090914, subjectivity=0.43863636363636366)
+{'neg': 0.0, 'neu': 0.911, 'pos': 0.089, 'compound': 0.4215}
+
+I'm going to do Wishthan 4, but please, please, Maine Mahelah Farhan 0 @ 07 @ gmailcham
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.67, 'pos': 0.33, 'compound': 0.7096}
+
+I will sell Walton Premium F2 and buy one
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I'm going to do the x-ray wall
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I have done the Valtan Hummy Sill Crab Lollipop. If you want to buy 8000 rupees at the same time, then you will be able to buy Vardhan Humma Svelle Karbal Llipip. If you want to buy 8000 rupees at one time, please excel 01783221650 Akram Fraz, the problem is particularly good. If you buy, you can tell. , I bought this phone with the new 11590, the new donut has its donation of 11590 rupees. Sea dead
+Sentiment(polarity=0.21212121212121213, subjectivity=0.4431818181818182)
+{'neg': 0.081, 'neu': 0.79, 'pos': 0.129, 'compound': 0.2716}
+
+We will sell it to Shamampani Exporter and 69 K (1 Gob Dham). It will sell all the available boxes (Foolboxes) in Naiyashet and sell it to 69 K (1 Gb Diamond). It will sell all the available boxes (Foolboxes) in 3 months. Dipripech-4500 to ask Kisukman Jabeka but ask me <01729951212> Lachatyon-Bagerhat, Fakirhat, Hatharhat, Jatrapur Sea dead
+Sentiment(polarity=0.20000000000000004, subjectivity=0.4000000000000001)
+{'neg': 0.099, 'neu': 0.901, 'pos': 0.0, 'compound': -0.7876}
+
+If you want to go to the market, then you will fill the jadra mind kakani
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.92, 'pos': 0.08, 'compound': 0.0772}
+
+It's all right, it's just a lollipop
+Sentiment(polarity=0.2857142857142857, subjectivity=0.5357142857142857)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Shamsung Galakshya Tub 3 70 to 211 orginallichum kwait, on 15th day, Ose-Osh-Khetakat 442, Dum-1 Gob, Drum 16 Gabanthaan Chem-315, Chakkam Chem 5 can be buried by Egilanal Shamsunshamsung Galaksya Tub 3 70 to 211 orginallichamphum kuaiyat, Onlaya 15th day, Usse Osh -Katkat 442, Dum-1 Gob, Dum 16 Gabanthaan Chem-315, Chakkam Chum 5 Egg, can be taken by Oginalal Shamsung, I'm shocked to make it sel, any jadi kings
+Sentiment(polarity=-0.7, subjectivity=0.8)
+{'neg': 0.035, 'neu': 0.965, 'pos': 0.0, 'compound': -0.3182}
+
+Panchayat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+If there is a stranger in this phone, please tell us what to say
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.839, 'pos': 0.161, 'compound': 0.3182}
+
+I would like to sell a small quantity of freshly purchased 29 days. If you want to sell a small quantity, you will get the new 29 days. You can get all the things in the vicinity, Chash Mem, Charga, Haihadafon.11500 Taka 01786953636 (Dhaka)
+Sentiment(polarity=-0.015909090909090914, subjectivity=0.43863636363636366)
+{'neg': 0.0, 'neu': 0.911, 'pos': 0.089, 'compound': 0.4215}
+
+3 days have passed since the first day of the year, it is worth noting that it has not been hot for 3 days. It has not been 3 days, but it is not possible to spend 4 hours in the morning. It is not enough to get hot. If you have a good night's sleep, you can feel like a good pitch supari, Same amount of money in the sum of the sum of the sum of bettara beans
+Sentiment(polarity=0.27222222222222225, subjectivity=0.550925925925926)
+{'neg': 0.0, 'neu': 0.85, 'pos': 0.15, 'compound': 0.9081}
+
+# Amransuzan, what did u buy from where he bought a whisper + sarvike kamen tell
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+In the workplace, but in the help of the help of the help of the child, the problem will be better, but it is better to do better in the field but in the case of the help of the help of the child, it is better to be successful in the game.
+Sentiment(polarity=0.39166666666666666, subjectivity=0.5583333333333333)
+{'neg': 0.042, 'neu': 0.501, 'pos': 0.457, 'compound': 0.9889}
+
+It's much better than the S6
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+# Amransuzan, what did u buy from where he bought a whisper + sarvike kamen tell
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Argantell Sillle 016288737330
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+EMERGENCY SELLE FULL NEO CHANDITIOAN CHANTICAT 01688600308
+Sentiment(polarity=0.35, subjectivity=0.55)
+{'neg': 0.357, 'neu': 0.643, 'pos': 0.0, 'compound': -0.516}
+
+Preches
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I'll catch it in my chestful flower + Chorg + Haiadafnaprish 4500 Mirpurchantachat - 01937847317
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Have fun using the good phone
+Sentiment(polarity=0.5, subjectivity=0.4)
+{'neg': 0.0, 'neu': 0.392, 'pos': 0.608, 'compound': 0.7351}
+
+I will sublimate my phone, I am going to pay Rs 6010 on my dream nombay 01930083060 at the preferees 5500 only
+Sentiment(polarity=0.0, subjectivity=1.0)
+{'neg': 0.065, 'neu': 0.841, 'pos': 0.093, 'compound': 0.1531}
+
+What is the price of the priichi
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+On this phone, I will sell my nipple 01930083060 on my phone
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+It is not a good thing:
+Sentiment(polarity=-0.35, subjectivity=0.6000000000000001)
+{'neg': 0.376, 'neu': 0.624, 'pos': 0.0, 'compound': -0.3412}
+
+This is the first time I have been married in the past, but I have not yet received this word, but I have not yet received this word, but I am not going to give it to you. On the other side of the sharks, these problems are available in the episode, Playy's Shire It's Saluteontongqing Wu, Moshiur (01955566044)
+Sentiment(polarity=0.10500000000000001, subjectivity=0.32166666666666666)
+{'neg': 0.062, 'neu': 0.938, 'pos': 0.0, 'compound': -0.5499}
+
+All I can see is the best way of looking at all the things that are best suited to you. Tulancing glasses are all kinds of gourmet glosses.
+Sentiment(polarity=1.0, subjectivity=0.3)
+{'neg': 0.0, 'neu': 0.749, 'pos': 0.251, 'compound': 0.8555}
+
+Wicked skulls bend
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.63, 'neu': 0.37, 'pos': 0.0, 'compound': -0.5267}
+
+Sampanfi Explorer and 128 (for) in the 5th Choiceful Fresh Exposure Exporter and 128 (For) 5th Prosecution Freshbirth Warranty Chard, Hayadfon, Charger, Flip Chowpripe 8000 Fan: 01824347834 Mmensigung Sea Dead
+Sentiment(polarity=0.04999999999999999, subjectivity=0.45)
+{'neg': 0.197, 'neu': 0.682, 'pos': 0.121, 'compound': -0.5994}
+
+Where can I find my brother's phone?
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I will sell 7 vendors for the price of Tk 4000 01764651887
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Yu seemed to miss the chance to beat Gopal Ram Salalul
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.127, 'neu': 0.714, 'pos': 0.159, 'compound': 0.1027}
+
+I bought WALPAD 7 on 05-05-2014 100% FULL FRESH EMDIALALYA Need to be checked so SELLING: 12500 FIXED Free Chillies of 500 Taka Price Flew Chaws: 01620-286166 Bldgara, Gazipur, 05-05-2014, bought WALPAD 7 100% FULL FRESH EMDIEDYA Need to be checked so that SELLING: 12500 FISSED 500 Taka Price Flip Chav's Free Chalah: 01620-286166 Bordabazar, Gazipur Sea Dead
+Sentiment(polarity=0.25, subjectivity=0.5375)
+{'neg': 0.064, 'neu': 0.747, 'pos': 0.189, 'compound': 0.8109}
+
+The price is much higher
+Sentiment(polarity=0.25, subjectivity=0.5)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Ho Is Tho Stit Ho Ho Ishso The Charma Coolatya
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Fried Kem is dropped and I am a little better than Huawei C
+Sentiment(polarity=0.15625, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.775, 'pos': 0.225, 'compound': 0.3832}
+
+Brother, if you know where this phone can be found in Bogra, then you will say
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Brother, if you know where this phone can be found in Bogra, then you will say
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Brother, if you know where this phone can be found in Bogra, then you will say
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Brother, if you know where this phone can be found in Bogra, then you will say
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+You probably do not know that Apple's current phone is also made in small. And the world's second and second largest mobile phone makers, Huawei and Geoani respectively, but also went to Cinza.
+Sentiment(polarity=-0.05, subjectivity=0.18)
+{'neg': 0.0, 'neu': 0.95, 'pos': 0.05, 'compound': 0.1779}
+
+Scratch developers
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Ha ha ha At prices
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.217, 'pos': 0.783, 'compound': 0.7351}
+
+Plow All of You Are Highlya Rakuested Than Bu Buys This Devike Bechauce e Am Chueted Wyth Buying Thi Anne All Chinas Seat
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Sattar prize 7500 would have been good
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.0, 'neu': 0.446, 'pos': 0.554, 'compound': 0.7351}
+
+Jamuna Futur Park, At Alcatel Show, Room in Moully
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Where to find
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Where to find
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Where to find
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+At the price of 7500 to 01716267426, Alamgir 34 Gmile Sur
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Batters were 1800 miles away
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+More than 1000 meters away from the air,
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I bought WALPAD 7 on 05-05-2014 100% FULL FRESH EMDIALALYA Need to be checked so SELLING: 12500 FIXED Free Chillies of 500 Taka Price Flew Chaws: 01620-286166 Bldgara, Gazipur, 05-05-2014, bought WALPAD 7 100% FULL FRESH EMDIEDYA Need to be checked so that SELLING: 12500 FISSED 500 Taka Price Flip Chav's Free Chalah: 01620-286166 Bordabazar, Gazipur Sea Dead
+Sentiment(polarity=0.25, subjectivity=0.5375)
+{'neg': 0.064, 'neu': 0.747, 'pos': 0.189, 'compound': 0.8109}
+
+That is why we are not able to do so, but we have to do this in our lives. We believe that this is the only way we can do this, but we will not be able to do so. "1700 from 1800 AD." This is a very important thing in the world. Lyon I believe that the Simply Shawsh Es Fone Must Be Battersya Lyon Hits - 1700 from 1800 AD Idi "Die Sey
+Sentiment(polarity=0.154, subjectivity=0.7214285714285714)
+{'neg': 0.069, 'neu': 0.898, 'pos': 0.034, 'compound': -0.5734}
+
+I'll sell it at 1Samsung Galaxyyy 5360. Jadi Kai Leader Chahal Chahal 016211711755 Brahmanbaria
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Where to find Alcatel mobile
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+May 01706959291 on the roof of the stomach
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+How can you know how to do janacopechialya java in the suburb of Xerf
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Dual SIM phones
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Oh what
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Brother, where can I find this phone?
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Good
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.4404}
+
+In India, 14,999 and Bangladesh- 28,999, if you are more than 18,000, then you can get 18,000 seats, but at Atta Da Dakatindiaia, 14,999 and Bangladesh at 28,999, what do you find? If you want 18,000 to be kept alive, but Atta Da Dakati Sea dies
+Sentiment(polarity=0.3, subjectivity=0.45)
+{'neg': 0.0, 'neu': 0.901, 'pos': 0.099, 'compound': 0.5927}
+
+Do not use human beings at all
+Sentiment(polarity=0.0, subjectivity=0.1)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Baal
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+The price of the brother is 9 in the case of the buyer, he is 12499, he is a good person, he is wrong, Deichael dies at his mark
+Sentiment(polarity=0.09999999999999998, subjectivity=0.75)
+{'neg': 0.1, 'neu': 0.806, 'pos': 0.094, 'compound': -0.0516}
+
+It does not mean that the price is so high
+Sentiment(polarity=0.15812500000000002, subjectivity=0.61375)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+There is no bullock to buy this mobile phone at the price of the sun.
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.136, 'neu': 0.864, 'pos': 0.0, 'compound': -0.296}
+
+The price is much higher, the market pabna.
+Sentiment(polarity=0.25, subjectivity=0.5)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+This is the price set in this country.
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Ahahahahah
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I used to take 5 cups of skin
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+11999 was going to take 5/6 to buy it with Mobile Ak
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Pratech is a gift of brother
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.58, 'pos': 0.42, 'compound': 0.4404}
+
+How many games in New Priche
+Sentiment(polarity=0.3181818181818182, subjectivity=0.4772727272727273)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+New
+Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+4 C cunt, São Paulo préché
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.516, 'neu': 0.484, 'pos': 0.0, 'compound': -0.4939}
+
+Alcatel Eidal 2 mini dham ki 4299 sutta bata authi bhashishi aanak bashi dahya aaya kabo tell ballon game
+Sentiment(polarity=-0.4, subjectivity=0.4)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Shamsung Galakshya Tub 3 70 to 211 orginallichum kwait, on 15th day, Ose-Osh-Khetakat 442, Dum-1 Gob, Drum 16 Gabanthaan Chem-315, Chakkam Chem 5 can be buried by Egilanal Shamsunshamsung Galaksya Tub 3 70 to 211 orginallichamphum kuaiyat, Onlaya 15th day, Usse Osh -Katkat 442, Dum-1 Gob, Dum 16 Gabanthaan Chem-315, Chakkam Chum 5 Egg, can be taken by Oginalal Shamsung, I'm shocked to make it sel, any jadi kings
+Sentiment(polarity=-0.7, subjectivity=0.8)
+{'neg': 0.035, 'neu': 0.965, 'pos': 0.0, 'compound': -0.3182}
+
+Who will buy it with so much price
+Sentiment(polarity=0.2, subjectivity=0.2)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Shamsung Galakshya Tub 3 70 to 211 orginallichum kwait, on 15th day, Ose-Osh-Khetakat 442, Dum-1 Gob, Drum 16 Gabanthaan Chem-315, Chakkam Chem 5 can be buried by Egilanal Shamsunshamsung Galaksya Tub 3 70 to 211 orginallichamphum kuaiyat, Onlaya 15th day, Usse Osh -Katkat 442, Dum-1 Gob, Dum 16 Gabanthaan Chem-315, Chakkam Chum 5 Egg, can be taken by Oginalal Shamsung, I'm shocked to make it sel, any jadi kings
+Sentiment(polarity=-0.7, subjectivity=0.8)
+{'neg': 0.035, 'neu': 0.965, 'pos': 0.0, 'compound': -0.3182}
+
+Ram 512 High Prachi
+Sentiment(polarity=0.16, subjectivity=0.5399999999999999)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Shamsu Galakshi Shabu Brands Neo & Intintasusha, Ashseyamy Neo Galaxa 3, Fan Te Selkar Karchi Phulk Box Approblemlalaya 7 Diseases Ushpreet 14000 (Fixta) Takaashamsu Galaksya Shaban Brands Neo & Intikhusa to Ashseyami, Needs Neelmaxa 3 and Fone It Sell Karchi Fool Box Proceedings 7 Responses to UPSP 14000 (fixed) No: 0177434093 (dead) Seal dead
+Sentiment(polarity=-0.10000000000000002, subjectivity=0.3333333333333333)
+{'neg': 0.166, 'neu': 0.794, 'pos': 0.041, 'compound': -0.7964}
+
+It is good to know that the problem is why the problem
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.312, 'neu': 0.52, 'pos': 0.168, 'compound': -0.3612}
+
+I vint cel alcatel pop f 9 wallet 2 wx usad papers all come in priche 12500 taka ma position khulna chantichat 01911194833
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+It should have been 11000
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Well enough
+Sentiment(polarity=0.0, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.323, 'pos': 0.677, 'compound': 0.2732}
+
+Alcatel Showroom Shalohate kunajagat someone will tell
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Feeling a little gum kalma hot skin think 0000000000001 mp
+Sentiment(polarity=0.03125, subjectivity=0.675)
+{'neg': 0.0, 'neu': 0.842, 'pos': 0.158, 'compound': 0.128}
+
+What does it say in Mobile?
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+This can be done with the skippers
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Damaata is too much 3C non
+Sentiment(polarity=0.2, subjectivity=0.2)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+According to the present time, its price is much higher. 1800 to 2000 if the market was found. It is very important to bury the battery by 1200 ..
+Sentiment(polarity=0.25666666666666665, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.93, 'pos': 0.07, 'compound': 0.2716}
+
+Not to buy without crazy
+Sentiment(polarity=-0.6, subjectivity=0.9)
+{'neg': 0.0, 'neu': 0.663, 'pos': 0.337, 'compound': 0.2584}
+
+At this price, anyone will buy 512 mm 4GB internal lol, without crazy.
+Sentiment(polarity=0.0666666666666667, subjectivity=0.5333333333333333)
+{'neg': 0.0, 'neu': 0.695, 'pos': 0.305, 'compound': 0.5908}
+
+Price is Tk 1500
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+No one is buying this phone without crazy
+Sentiment(polarity=-0.6, subjectivity=0.9)
+{'neg': 0.215, 'neu': 0.586, 'pos': 0.199, 'compound': -0.0423}
+
+Cunt fountain
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.762, 'neu': 0.238, 'pos': 0.0, 'compound': -0.4939}
+
+For the first day, I have been financed by Akon, I am an intent of money
+Sentiment(polarity=0.25, subjectivity=0.3333333333333333)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Brother I bought Alcatel Flush 2 Fans to buy Chassi, 015141430813
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+The Fone Is Down Deep
+Sentiment(polarity=-0.07777777777777779, subjectivity=0.34444444444444444)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I am a poor man, I am very happy, I have a lot of fun, but I am very happy that I am a poor man, I am very happy, I will be happy to have fun, but it will be very easy for me. 01797171060 I am a mischievous MissDisplayplan vooragenta help will be dead.
+Sentiment(polarity=0.3963333333333333, subjectivity=0.7000000000000001)
+{'neg': 0.155, 'neu': 0.42, 'pos': 0.425, 'compound': 0.9728}
+
+Brother phone is a lot better but life
+Sentiment(polarity=0.5, subjectivity=0.5)
+{'neg': 0.0, 'neu': 0.755, 'pos': 0.245, 'compound': 0.2382}
+
+How is the chemistry
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Ovarral, On the Out Of The Beyond Law Midrange
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Compass can not be supported by anyone
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.246, 'neu': 0.754, 'pos': 0.0, 'compound': -0.2411}
+
+Cunt fountain
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.762, 'neu': 0.238, 'pos': 0.0, 'compound': -0.4939}
+
+WooWuOo phones like that
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.545, 'pos': 0.455, 'compound': 0.3612}
+
+Brother will be able to earn it, but whoever proves that I am but ashes
+Sentiment(polarity=0.4, subjectivity=0.3125)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Brother will be able to earn it, but whoever proves that I am but ashes
+Sentiment(polarity=0.4, subjectivity=0.3125)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Where are these seven available to buy?
+Sentiment(polarity=0.4, subjectivity=0.4)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Bout
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+What is the secret coming?
+Sentiment(polarity=-0.4, subjectivity=0.7)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+4000 mah & otga tacla were good
+Sentiment(polarity=0.7, subjectivity=0.6000000000000001)
+{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+
+The price of the air was 26,300, so did not
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Shamsung Galaxa S4 will be sold 01752422542
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+Everything is a bit like a bus in the Preet
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 0.737, 'pos': 0.263, 'compound': 0.3612}
+
+It's on the thi beta Budgate phone from the phone
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+No one will buy this mobile at such a price
+Sentiment(polarity=0.0, subjectivity=0.5)
+{'neg': 0.216, 'neu': 0.784, 'pos': 0.0, 'compound': -0.296}
+
+By the way, there are seven types of people who are at home and at the same time, they should be able to take care of an older person, and they should be able to send a message to the children who are infected. 7 If you do not know what is going on, then you should be able to take care of your child at home and abroad. Aware of the uncomfortable problem, it is said that the off-of-charge will be over 20000
+Sentiment(polarity=0.20238095238095236, subjectivity=0.5119047619047619)
+{'neg': 0.092, 'neu': 0.838, 'pos': 0.07, 'compound': -0.2732}
+
+Priche is 15000
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+The price is too much ... so why would anyone buy this phone with the money where Shamsung J7 is available at this price.
+Sentiment(polarity=0.30000000000000004, subjectivity=0.30000000000000004)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
+I do not think 1 piece will be sold at the price
+Sentiment(polarity=0.0, subjectivity=0.0)
+{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+
